@@ -10,6 +10,10 @@
   * [[ur:obs|Open Bible Stories (ur)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ur|d43-ur repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ur/archive/master.zip|d43-ur.zip]]
+
 **Recent Changes**
 {{changes>ns = ur}}
 
