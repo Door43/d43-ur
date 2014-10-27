@@ -5,7 +5,7 @@
 اللہ تعالیٰ کا حضر ت داؤدؑ سے عہد</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-01.jpg?direct&}}
 
 
 Saul was the first king of Israel. He was tall and handsome, just like the people wanted. Saul did well at first, but he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
@@ -14,14 +14,14 @@ Saul was the first king of Israel. He was tall and handsome, just like the peopl
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>ساؤل اسرائیل کا پہلا بادشاہ تھا۔وہ لوگوں کے خواہش کے عین مطابق لمبا اور خوبصورت تھا۔اوائل میں شاؤل نے اچھے کام کیئے،مگر بعد میں اللہ کا نافرمان فاسق بنا، تب اللہ تعالیٰ نے بادشاہت کے لیے ایک اور شخص کو چُنا جسے ایک دن اُن کی جگہ بادشاہ ہونا تھا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-02.jpg?direct&}}
 
 
 This man’s name was David. He was a shepherd from the town of Bethlehem. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was a humble and righteous man who trusted and obeyed God.
 
 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اِس شخص کا نام ’’ حضرت داؤدؑ ‘‘ تھا۔ وہ بیت اللحم شہر کا چرواہا تھا، بھیڑوں کا دیکھ بھال کرتے ہوئے حضرت داؤدؑ نے ایک بھیڑوں پر حملہ آور شیر اورریچھ کو مارڈالا تھا۔ حضرت داؤدؑ ایک نیک عاجز، سچا اور اللہ پاک پر ایمان رکھنے والا اور فرمانبرداری کرنے والا انسان تھا۔</font> \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-03.jpg?direct&}}
 
 
 David was also a great soldier and leader. When David was still a young man, he fought against a giant named Goliath. Goliath was a trained soldier, very strong, and almost three meters tall! But God helped David kill Goliath and save Israel.
@@ -30,7 +30,7 @@ David was also a great soldier and leader. When David was still a young man, he 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>حضرت داؤدؑ ایک بہترین سپاہی اور رہنماء تھے۔ نوجوانی ہی میں حضرت داؤدؑ نے دیوقامت شخص ’’گولیت‘‘ کے خلاف لڑاتھا۔ گولیت ایک تربیت یافتہ مضبوط جسامت کا مالک اندازاً تین میٹر لمبا سپاہی تھا۔ مگر اللہ پاک نے حضرت داؤدؑ کی مدد فرمایا ، اُنہوں نے گولیت کو قتل کرکے اسرائیل کو بچایا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-04.jpg?direct&}}
 
 
 Saul became jealous of David and tried many times to kill him. One day Saul was looking for David so he could kill him. Saul went into the same cave where David was hiding but did not see him. Instead of killing Saul, David cut off a piece of his clothes to prove to Saul that he would not kill him to become king.
@@ -39,7 +39,7 @@ Saul became jealous of David and tried many times to kill him. One day Saul was 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>ساؤل حضرت داؤدؑ سے حسد کرتے ہوئے کئی بار اُنھیں قتل کرنے کی کوشش کی۔ایک روز ساؤل حضرت داؤدؑ کی راہ دیکھ رہے تھے تاکہ اُنھیں قتل کریں۔ ساؤل اُسی غار میں گیا جہاں حضرت داؤدؑ چُھپتے تھے مگر اُسے دیکھ نہ سکا۔ ساؤل کو قتل کرنے کے بجائے حضرت داؤدؑ نے ساؤل کے کپڑوں کا ایک ٹُکڑا کاٹا تاکہ ساؤل کو یہ باور کراسکے کہ وہ اُنھیں بادشاہ بننے کے لیئے قتل نہیں کررہا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-05.jpg?direct&}}
 
 
 Eventually, Saul died in battle, and David became king of Israel. He was a good king, and the people loved him. God blessed David and made him successful. David fought many battles and God gave him victory. David conquered Jerusalem and made it his capital. During David’s reign, Israel became powerful and wealthy.
@@ -47,7 +47,7 @@ Eventually, Saul died in battle, and David became king of Israel. He was a good 
 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>آخر کار ساؤل ایک جنگ میں ماراگیا، حضرت داؤدؑ اسرائیلیوں کا بادشاہ بن گیا۔وہ بڑااچھا بادشاہ تھے ، لوگ اُنہیں دل سے چاہتے تھے۔ اللہ پاک نے \\
 حضرت داؤدؑ کو عزت بخشا اُنھیں کامیابی دی۔ حضرت داؤدؑ نے کئی جنگیں لڑی، اللہ رب العزت نے اُنھیں فتح دلایا۔داؤدؑ نے یروشلم کو فتح کرکے دارالحکومت بنادیا۔ حضرت داؤدؑ کے دور میں اسرائیلی بہت طاقتور اور امیر بن گئے۔</font> \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?direct&}}
 
 
 David wanted to build a temple where everybody could worship God and offer him sacrifices. For about 400 years, the people had been worshiping God and offering sacrifices to him at the Tent of Meeting that Moses had built.
@@ -57,7 +57,7 @@ David wanted to build a temple where everybody could worship God and offer him s
 چارسو 400سال سے لوگ حضرت موسیٰؑ کے بنائے ہوئے خیمے میں عبادت کرتے اور جانوروں کی قربانی کیا کرتے تھے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?direct&}}
 
 
 God sent the prophet Nathan to David with this message, “Because you are a man of war, you will not build this house for me. Your son will build it. But, I will bless you greatly. Someone from your family will always sit on the throne of Israel, and the Messiah will be one of your descendants!” The Messiah is God’s Chosen One who would save the world from sin.
@@ -66,7 +66,7 @@ God sent the prophet Nathan to David with this message, “Because you are a man
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اللہ تبارک وتعالیٰ نے ناتن پیغمبر کو اِس پیغام کے ساتھ حضرت داؤدؑ کے پاس بھیجا ’’کیونکہ تم ایک جنگجو شخص ہو، میرے لیئے تم یہ گھر تعمیر نہیں کرسکتے،  مگر میں تُم پر اپنی رحمتیں برساؤں گا۔تمھارے خاندان سے کوئی ایک شخص ہمیشہ اسرائیل کی تخت پر بیٹھا ہوگا۔اور سیدنا حضرت مسیحؑ آپ کے اولادوں میں سے ہوگا! سیدنا حضرت مسیحؑ اللہ کی اُن چُنیدہ لوگوں میں سے ایک ہے۔ جو دُنیا کو گناہ سے بچائے گا۔‘‘</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-08.jpg?direct&}}
 
 
 When David heard these words, he immediately thanked and praised God because he had promised David this great honor and many blessings. The Israelites would have to wait a long time before the Messiah came, almost 1,000 years.
@@ -75,21 +75,21 @@ When David heard these words, he immediately thanked and praised God because he 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>جب حضرت داؤدؑ نے یہ سُناتو جلد ہی اللہ پاک کا شُکر اکرتے ہوئے حمدو ثناء بیان کیا۔کیونکہ اللہ تبارک و تعالیٰ نے حضرت داؤدؑ کو اِس قدرو منزلت اور اپنی رحمتیں  نازل کرنے کا وعدہ فرمایا تھا۔اسرائیلیوں کو سیدناحضرت مسیحؑ کے لیے طویل عرصہ انتظار کرنا تھا ، اندازاً ایک ہزار1000 سال ۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-09.jpg?direct&}}
 
 
 David ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly before God.
 
 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>حضرت داؤدؑ کافی سالوں تک انصاف اور ایمانداری کے ساتھ حکومت کرتے رہے اللہ کی رحمتیں اُن پر نازل ہوتی رہیں۔اسکے برعکس زندگی کے آخری ایام میں اللہ پاک کے آگے گناہ کا مرتکب ہوا۔</font> \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-10.jpg?direct&}}
 
 
 One day, when all of David's soldiers were out fighting, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was Bathsheba.
 
 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>ایک روز جب حضرت داؤدؑ کے سارے سپاہی باہر لڑرہے تھے، دوپہر کے بعد ہلکی سی نیند کے بعدجاگ کر ایک خوبصورت عورت کو نہاتے ہوئے دیکھا اُن کا نام ’’ باتھ شیبا‘‘ تھا۔</font> \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-11.jpg?direct&}}
 
 
 Instead of looking away, David sent someone to bring her to him. He slept with her and sent her back home. A short time later Bathsheba sent a message to David saying that she was pregnant.
@@ -99,7 +99,7 @@ Instead of looking away, David sent someone to bring her to him. He slept with h
 مُختصر وقت کے بعد باتھ شیبا نے داؤدؑ کے لیئے پیغام بھیجاکہ وہ حاملہ ہوگئی ہے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-12.jpg?direct&}}
 
 
 Bathsheba's husband, Uriah, was one of David’s best soldiers. David called Uriah back from the battle and told him to go be with his wife. But Uriah refused to go home while the rest of the soldiers were in battle. So David sent Uriah back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
@@ -110,7 +110,7 @@ Bathsheba's husband, Uriah, was one of David’s best soldiers. David called Uri
 \\</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-13.jpg?direct&}}
 
 
 After Uriah was killed, David married Bathsheba. Later, she gave birth to David's son. God was not pleased with what David had done, so he sent the prophet Nathan to show David his sin. David repented of his sin and God forgave him. For the rest of his life, David trusted God, even in difficult times.
@@ -118,7 +118,7 @@ After Uriah was killed, David married Bathsheba. Later, she gave birth to David'
 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>عُریا کے مارے جانے کے بعد داؤدؑ نے باتھشیبا سے شادی کرلیا،بعد ازاں اُن سے داؤدؑ کے بیٹے نے جنم لیا۔داؤدؑ نے جو کچھ کیا اللہ پاک اُس سے خوش نہ تھا۔ اللہ پاک نے پیغمبر ناتن کو اُن کے پاس بھیجا تاکہ اُنھیں اُن کا گناہ دِکھائے۔حضرت داؤدؑ نے اللہ پاک سے توبہ کیا، اللہ پاک نے اُنھیں معاف فرمایا۔\\
 اس کے بعد ساری عمر حضرت داؤدؑ نے اللہ پاک کی فرمانبرداری میں گزارا حتیٰ کہ مشکل ادوار میں بھی۔</font> \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-14.jpg?direct&}}
 
 
 But as punishment for David's sin, his baby boy died. There was also fighting in David’s family for the rest of his life, and David’s power was greatly weakened. Though David had been unfaithful to God, God was still faithful to his promises. Bathsheba gave birth to another son named Solomon.

@@ -5,7 +5,7 @@
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>جِلا وطنی اور واپسی</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?direct&}}
 
 
 The nations of Israel and Judah both sinned against God. They broke the Covenant that God had made with them at Sinai. God sent his prophets to warn them to repent and worship him again, but they refused to listen.
@@ -15,7 +15,7 @@ The nations of Israel and Judah both sinned against God. They broke the Covenant
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اللہ پاک نے اُنہیں خبردار کرنے کے لیئے اپنے پیغمبر کو بھیجاتاکہ وہ توبہ کرکے دوبارہ اللہ تعالیٰ کی عبادت کریں،مگر اُنہوں نے سُننے سے اِنکار کیا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?direct&}}
 
 
 So God punished both nations by allowing their enemies to destroy them. Israel was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many Israelites, took away everything of value, and burned much of the country.
@@ -25,7 +25,7 @@ So God punished both nations by allowing their enemies to destroy them. Israel w
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>تباہ کردیا۔اساریوں نے کئی اسرائیلیوں کو ہلاک کیا۔ اُن کے تمام قیمتی اشیاء کو اُٹھاکر لیئے گئے اور اُن کی سلطنت میں موجود کافی چیزوں کو جلا ڈالا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-03.jpg?direct&}}
 
 
 The Assyrians gathered all the leaders, the rich people, and the people with skills and took them to Assyria. Only the very poor Israelites who had not been killed remained in Israel.
@@ -34,7 +34,7 @@ The Assyrians gathered all the leaders, the rich people, and the people with ski
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اساری اسرائیلوں کے تمام رہنماؤں ، امیر لوگوں، اور ہُنرمندوں کو اِکھٹاکرکے اَساری لے گئے ۔صرف وہ غریب اسرائیلی جو قتل نہ وہ اسرائیل میں رہ گئے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-04.jpg?direct&}}
 
 
 Then the Assyrians brought foreigners to live in Israel. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. Their descendants were called Samaritans.
@@ -44,7 +44,7 @@ Then the Assyrians brought foreigners to live in Israel. The foreigners rebuilt 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اِن کا نسل ساماری کہلاتا ہے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?direct&}}
 
 
 The people in the kingdom of Judah saw how God had punished the kingdom of Israel for not believing and obeying him. But they still worshiped idols and the gods of the Canaanites. God sent prophets to warn them, but they refused to listen.
@@ -54,7 +54,7 @@ The people in the kingdom of Judah saw how God had punished the kingdom of Israe
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>کی عبادت کر تے تھے۔ اللہ تبارک و تعالیٰ نے اُنھیں خبردار کرنے کے لیے پیغمبر بھیجا۔ مگر اُنہوں نے سُننے سے انکار کیا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?direct&}}
 
 
 About 100 years after the Assyrians destroyed Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack Judah. Babylon was a powerful empire. The king of Judah agreed to be Nebuchadnezzar’s servant and pay him a lot of money every year.
@@ -64,7 +64,7 @@ About 100 years after the Assyrians destroyed Israel, God sent Nebuchadnezzar, k
 بابل بڑا طاقتور بادشاہ تھا۔ سلطنتِ جُدّا کے بادشاہ نے نوبوچدنظرکے ساتھ سالانہ بہت بڑی رقم ٹیکس دینے اور غلام بننے پر اتفاق کیا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-07.jpg?direct&}}
 
 
 But soon the people of Judah rebelled against the Babylonians. So, the Babylonians came back and attacked them. They captured the city of Jerusalem, destroyed the Temple, and took away all the treasures.
@@ -74,7 +74,7 @@ But soon the people of Judah rebelled against the Babylonians. So, the Babylonia
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>عبادت خانے کوتباہ کرتے ہوئے ساری دولت خزانے سے اُٹھاکر لے گئے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-08.jpg?direct&}}
 
 
 To punish Judah’s king for rebelling, Nebuchadnezzar’s soldiers killed the king’s sons in front of him and then made him blind. After that, they took the king away to die in prison in Babylon.
@@ -84,7 +84,7 @@ To punish Judah’s king for rebelling, Nebuchadnezzar’s soldiers killed the k
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>بادشاہ کو قید خانے میں مرنے کے لئے بابل لے گئے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-09.jpg?direct&}}
 
 
 Nebuchadnezzar and his army took all the people of Judah to Babylon, leaving only the poorest people behind to plant the fields. This period of time when God's people could not live in the Promised Land is called the Exile.
@@ -94,7 +94,7 @@ Nebuchadnezzar and his army took all the people of Judah to Babylon, leaving onl
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اِس دورانیئے میں جب اللہ تعالیٰ کے لوگ عہد والی زمین پر نہیں رہے یہ دورانیہ جِلاوطنی کا دور کہلاتا ہے۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-10.jpg?direct&}}
 
 
 Even though the Exile was punishment for their sin, God did not forget his people or his promises. God continued to watch over his people and speak to them through his prophets. He promised that, after seventy years, they would return to the Promised Land again.
@@ -105,7 +105,7 @@ Even though the Exile was punishment for their sin, God did not forget his peopl
 \\ 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>ذریعے کلام فرماتا رہا۔ اللہ پاک نے وعدہ فرمایا ’’ ستر70سال کے بعد وہ واپس اپنے وطن جائیں گے۔</font> ‘‘\\ 
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-11.jpg?direct&}}
 
 
 About seventy years later, Cyrus, the king of the Persians, defeated Babylon. The Persians were a strong but merciful people. The Israelites were now called Jews and most of them had lived their whole lives in Babylon. Only a few very old Jews even remembered the land of Judah.
@@ -115,7 +115,7 @@ About seventy years later, Cyrus, the king of the Persians, defeated Babylon. Th
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اُن میں سے اکثریت لوگوں کا اپنی پوری زندگی بابل میں گذاری۔ صرف چند ٖضعیف العمر یہودیوں کو اپنا وطن جُدّ ا یاد تھا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-12.jpg?direct&}}
 
 
 Shortly after Cyrus came to power, he did something that had never been done before in history. He gave an order that any Jew who wanted to return to Judah could go. He even gave them money to rebuild the Temple! After seventy years in exile, a small group of Jews returned to Jerusalem.
@@ -128,7 +128,7 @@ Shortly after Cyrus came to power, he did something that had never been done bef
 یروشلم آیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-13.jpg?direct&}}
 
 
 When the people arrived in Jerusalem, they rebuilt the Temple and the wall around the city. Although they were still ruled by other people, they lived in the Promised Land again and worshiped at the Temple.

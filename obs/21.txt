@@ -7,7 +7,7 @@
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اللہ تبارک و تعالیٰ کا سیدنا ؑ کوبھیجنے کا وعدہ فرمانا</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-01.jpg?direct&}}
 
 
 From the very beginning, God had a plan to send the Messiah. The first promise of the coming Messiah came to Adam and Eve. God promised that a descendant of Eve would be born who would crush the snake’s head. The snake who deceived Eve is Satan. The promise means the coming Messiah would defeat Satan completely.
@@ -18,7 +18,7 @@ From the very beginning, God had a plan to send the Messiah. The first promise o
 عہد اور وعدے کا مطلب ہے۔آنے والا سیدنا عیسیٰؑ شیطان کو مکمل طور پر شکست دے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?direct&}}
 
 
 God promised Abraham that through him all people groups of the world would be blessed. This blessing was the coming Messiah who would one day provide the way of salvation for all people groups.
@@ -28,7 +28,7 @@ God promised Abraham that through him all people groups of the world would be bl
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>تمام انسانوں کو آزادی سے ہمکنار فرمائے گا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-03.jpg?direct&}}
 
 
 God promised Moses that he would raise up another prophet like Moses. This was another promise about the coming Messiah.
@@ -37,7 +37,7 @@ God promised Moses that he would raise up another prophet like Moses. This was a
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اللہ پاک نے حضرت موسیٰؑ سے وعدہ فرمایا کہ وہ ایک اور موسیٰؑ جیسا پیغمبر بھیجے گا۔ یہ سیدنا عیسیٰؑ کی آمد کے سلسلے میں دوسرا وعدہ تھا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-04.jpg?direct&}}
 
 
 God promised David that the Messiah would be one of David’s own descendants.
@@ -46,7 +46,7 @@ God promised David that the Messiah would be one of David’s own descendants.
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اللہ پاک نے حضرت داؤدؑ سے فرمایا کہ سیدنا عیسیٰؑ داؤدؑ کے اولادوں میں سے ایک اولاد ہوگا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-05.jpg?direct&}}
 
 
 Through the prophet Jeremiah, God promised that he would make a New Covenant, but not like God’s Covenant with Israel. In the New Covenant, God would write his law on the people’s hearts, the people would know God, they would be his people, and God would forgive their sins. The Messiah would start the New Covenant.
@@ -59,7 +59,7 @@ Through the prophet Jeremiah, God promised that he would make a New Covenant, bu
 اللہ اُن کی گناہوں کو معاف فرمائے گا۔ سیدناعیسیٰؑ نئے وعدے کاآغاز فرمائے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-06.jpg?direct&}}
 
 
 God's prophets also said that the coming Messiah would be a prophet, a priest, and a king. A prophet is a person who hears the words of God and then proclaims God’s words to the people. The coming Messiah would be the perfect prophet.
@@ -70,7 +70,7 @@ God's prophets also said that the coming Messiah would be a prophet, a priest, a
 آنے والا سیدنامسیحؑ ایک کامل پیغمبر ہوگا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-07.jpg?direct&}}
 
 
 A priest is someone who makes sacrifices to God on behalf of the people to take away their sins. Priests also pray to God for the people. The coming Messiah would be the perfect high priest who would offer himself as a perfect sacrifice to God.
@@ -81,7 +81,7 @@ A priest is someone who makes sacrifices to God on behalf of the people to take 
 آنے والا سیدنامسیحؑ کامل عالم ہوگاجو اللہ پاک کی راہ میں اپنی جان کی قربانی دے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-08.jpg?direct&}}
 
 
 A king is someone who rules over a kingdom and judges the people. The coming Messiah would be the perfect king who would sit on the throne of his ancestor David, who would reign over the whole world forever, and who would judge honestly and make the right decision every time.
@@ -92,7 +92,7 @@ A king is someone who rules over a kingdom and judges the people. The coming Mes
 جو پوری دُنیا پر ایمانداری سے ہمیشہ کیلیے حکمرانی کرے گا۔وہ دُرست فیصلے لے کر ہمیشہ انصاف کرے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-09.jpg?direct&}}
 
 
 God's prophets predicted many other things about the coming Messiah. Malachi foretold that a great prophet would come before the Messiah came. Isaiah prophesied that the Messiah would be born from a virgin. Micah said that he would be born in the town of Bethlehem.
@@ -103,7 +103,7 @@ God's prophets predicted many other things about the coming Messiah. Malachi for
 حضرت یعسیانبیؑ نے سیدنامسیحؑ کی کُنواری سے پیداہونے کی پیشنگوئی کی تھی۔میکاؑ نے فرمایا وہ بیت اللحم میں پیداہوگا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?direct&}}
 
 
 Isaiah said he would live in Galilee, comfort the broken-hearted, and proclaim freedom to captives and release to prisoners. He also predicted that the Messiah would heal sick people, including those who could not hear, see, speak, or walk.
@@ -112,7 +112,7 @@ Isaiah said he would live in Galilee, comfort the broken-hearted, and proclaim f
 حضرت یعسیاؑ نے فرمایا کہ وہ گلیل میں رہے گا، ٹُوٹے ہوئے دلوں کو آرام ، اور مقبوضہ لوگوں کو آزاد کرے گا۔ قیدیوں کو رہا کرے گا، اُنہوں نے یہ بھی پیشنگوئی کیکہ سیدناعیسیٰؑ بیماروں کو بشمول اُن کے جو نہ سُنتے ہیں نہ دیکھ سکتے ہیں اور نہ چل پھِر سکتے ہیں سب کو شفاء دے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-11.jpg?direct&}}
 
 
 Isaiah prophesied that the Messiah would be hated without reason and rejected. Other prophets foretold that those who killed the Messiah would gamble for his clothes and he would be betrayed by a friend. Zechariah foretold that the friend would be paid thirty pieces of silver for betraying him.
@@ -121,7 +121,7 @@ Isaiah prophesied that the Messiah would be hated without reason and rejected. O
 حضرت یعسیاؑ نے پیشنگوئی کرتے ہوئے فرمایا’’بِنا کسی وجہ کے سیدناعیسیٰؑ سے نفرت اور اُن کو رد کیاجائے گا۔ دوسرے انبیاءؑ نے پیشنگوئی کی کہ وہ جو سیدناؑ کوقتل کریں گےاپنے کپڑوں سے جوا کھیلے گا، اور اپنے دوست سے دھوکہ کھائے گا۔زکریاؑ نے پیشنگوئی کیا کہ دوست تیس30 چاندی کے ٹُکڑوں کے بدلے اُن سے غداری کرے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-12.jpg?direct&}}
 
 
 The prophets also told about how the Messiah would die. Isaiah prophesied that the Messiah would be spit on, mocked, and beaten. Then he would be pierced and hung on a tree where he would die.
@@ -131,7 +131,7 @@ The prophets also told about how the Messiah would die. Isaiah prophesied that t
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>ماراپیٹا جائے گا۔ پھر اُن کی جسم کو چھیرکر درخت سے مرنے تک لٹکایا جائے گا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-13.jpg?direct&}}
 
 
 The Messiah would be perfect, having no sin. He would die to receive the punishment for other people’s sin. His punishment would bring peace between God and people. For this reason, it pleased God to crush the Messiah.
@@ -142,7 +142,7 @@ The Messiah would be perfect, having no sin. He would die to receive the punishm
 اس لیے سیدنا عیسیٰؑ کے کُچھلے جانے سے اللہ خوش ہوا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-14.jpg?direct&}}
 
 
 Not only would the Messiah die, but the prophets foretold that God would raise him from the dead. Through the Messiah’s death and resurrection, God would complete his plan of salvation and start the New Covenant.
@@ -151,7 +151,7 @@ Not only would the Messiah die, but the prophets foretold that God would raise h
 نہ صرف سیدنا عیسیٰؑ مرے گا بلکہ جِن انبیاء اکرامؑ نے یہ بھی پیشنگوئی کی کہ وہ مرنے کے بعد دوبارہ اُٹھے گا۔سیدناعیسیٰؑ کے مرنے اور دوبارہ زندہ ہونے کے عملکے ذریعے اللہ پاک اپنے آزادی دینے کے منصوبے کو مکمل فرماکر نئے عہد کا آغاز فرمائے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-15.jpg?direct&}}
 
 
 God showed the prophets many things about the coming Messiah, but the Messiah had not come yet. More than 400 years after the last of these prophecies was given, when the time was perfect, God sent the Messiah into the world.

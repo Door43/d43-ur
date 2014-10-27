@@ -6,7 +6,7 @@
 سیدناعیسیٰؑ کا پانچ ہزار لوگوں کوکھانا کھِلانا
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-01.jpg?direct&}}
 
 
 Jesus sent his disciples to preach and teach. When they returned, they told Jesus what they had taught and done. Then Jesus invited them to come with him to a quiet place to rest for a while. So, they got into a boat and left.
@@ -17,7 +17,7 @@ Jesus sent his disciples to preach and teach. When they returned, they told Jesu
 سیدناؑ نے اُنہیں ایک پرسکون جگہ آرام کرنے کے لیئیاپنے پاس بُلایا، جب وہ پہنچے تو وہ کشتی میں بیٹھ کر کر چل پڑے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-02.jpg?direct&}}
 
 
 But there were many people who saw Jesus and the disciples leave. They ran along the shore of the lake to get to the other side ahead of them. When Jesus and the disciples arrived, they were greeted by great crowds of people.
@@ -28,7 +28,7 @@ But there were many people who saw Jesus and the disciples leave. They ran along
 جب سیدناؑ اور صحابہ اکرامؓ پہنچے تولوگوں کی بڑی ہجوم نے اُن کا استقبال کرکے اُن کو سلام کیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-03.jpg?direct&}}
 
 
 The crowd had over 5,000 men in it, not counting the women and children. Jesus felt great kindness towards the people. To Jesus, these people were like sheep without a shepherd. So he taught them and healed their sick.
@@ -39,7 +39,7 @@ The crowd had over 5,000 men in it, not counting the women and children. Jesus f
 سیدناؑ کے لیے یہ لوگ بناچرواہے کے بھیڑوں کی مانند تھے۔ سیدناؑ نے اُنہیں تعلیم دی اور اُن کی بیماروں کو اللہ کی مدد سے شفاء بخشا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-04.jpg?direct&}}
 
 
 As it got later in the evening, the disciples told Jesus, “It is late and there are no towns nearby. Send the people away so they can go get something to eat.”
@@ -47,7 +47,7 @@ As it got later in the evening, the disciples told Jesus, “It is late and ther
 
 جب شام گئے دیر ہوا توصحابہ ءِ اکرامؓ نے سیدناؑ سے عرض کیا ’’ اے سیدناؑ بہت دیر ہوچکا ہے اور قریب میں کوئی قصبہ بھی نہیں، کچھ لوگوں کو بھیج دیجیئے تاکہ کھانے کو کچھ لائیں۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-05.jpg?direct&}}
 
 
 But Jesus said to them, “You give them something to eat!” The disciples responded, “How can we do that? We only have five loaves of bread and two fish.”
@@ -58,7 +58,7 @@ But Jesus said to them, “You give them something to eat!” The disciples resp
 
 ہیں۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-06.jpg?direct&}}
 
 
 Jesus called the crowd to him and told his disciples to have them sit down on the grass, in groups of fifty people each.
@@ -67,7 +67,7 @@ Jesus called the crowd to him and told his disciples to have them sit down on th
 سیدناؑ نے ہجوم کو بُلاکر صحابہ ءِ اِکرامؑ سے فرمایااِنھیں گھاس پر پچاس پچاس لوگوں کی گروہوں میں بِٹھادو۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-07.jpg?direct&}}
 
 
 Then Jesus took the five loaves of bread and the two fish, looked up to heaven, and blessed the food.
@@ -76,7 +76,7 @@ Then Jesus took the five loaves of bread and the two fish, looked up to heaven, 
 پِھر سیدناؑ نے پانچ روٹیوں کے ٹُکڑے اور دو مچلیاں اُٹھاکر آسمان کی طرف دیکھتے ہوئے اِن میں برکت کے لیئے دعا کی۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-08.jpg?direct&}}
 
 
 Jesus then started breaking the bread and fish. He gave the pieces to his disciples to give to the people. The disciples kept passing out the food, and it never ran out! All the people ate and were satisfied.
@@ -85,7 +85,7 @@ Jesus then started breaking the bread and fish. He gave the pieces to his discip
 اِس کے بعد سیدناؑ روٹیاں اور مچھلی توڑنے کر صحابہ اکرامؓ کو لوگوں میں تقسیم کرنے کو دیا۔صحابہ اکرامؓ کھانا لوگوں کو بانٹتے رہے اور یہ ختم ہونے کا نام نہیں لے رہے تھے۔تمام لوگوں نے پیٹ بھر کر کھانا کھایا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-30-09.jpg?direct&}}
 
 
 The disciples even picked up twelve baskets full of leftover food that had not been eaten. All the food came from the five loaves of bread and two fish.

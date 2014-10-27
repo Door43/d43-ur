@@ -4,7 +4,7 @@
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>قصہ نمبر11</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-01.jpg?direct&}}
 
 
 God warned Pharaoh that if he did not let the Israelites go, then he would kill all the firstborn males of both people and animals. When Pharaoh heard this he still refused to believe God.
@@ -13,7 +13,7 @@ God warned Pharaoh that if he did not let the Israelites go, then he would kill 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>فرعون کااِسرائیلیوں کومصر سے جانے کی اجازت دینا\\
 اللہ تعالیٰ نے فرعون کو خبردار کیا اگر اُس نے اسرائیلیوں کو جانے نہ دیا تو اللہ تمام لوگوں اورجانوروں دونوں کا پہلا نسل ہلاک کردے گا۔جب فرعون نے یہ سُنا تو اُس نے ایک \\
 مرتبہ پھر اللہ پر ایمان نہ لاکر اِس حکم کو رَد کردیا۔</font> \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?direct&}}
 
 
 God provided a way to save the firstborn of anyone who believed in him. Each family had to choose a perfect lamb or goat and kill it.
@@ -22,7 +22,7 @@ God provided a way to save the firstborn of anyone who believed in him. Each fam
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>اللہ پاک نے لوگوں کی پہلی نسل کی پیدائش کی ہلاکت سے بچانے کے لیے آسان راستہ بتایا جو اللہ پر ایمان رکھتے تھے، ہر خاندان کو ایک بکری یابھیڑ کا بچہ چُن کرقتل کرنا تھا۔</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-03.jpg?direct&}}
 
 
 Then the Israelites needed to put some of its blood around the door of their house. They were to roast the meat and eat it quickly, along with bread that was made without yeast. They were to be ready to leave Egypt when they ate.
@@ -33,7 +33,7 @@ Then the Israelites needed to put some of its blood around the door of their hou
 \\</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?direct&}}
 
 
 The Israelites did everything just as God had commanded them. In the middle of the night, God went throughout Egypt killing every firstborn son.
@@ -43,7 +43,7 @@ The Israelites did everything just as God had commanded them. In the middle of t
 \\</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-05.jpg?direct&}}
 
 
 All the houses of the Israelites had blood around the doors, so God passed over those houses and everyone inside was safe. They were saved because of the lamb’s blood.
@@ -52,7 +52,7 @@ All the houses of the Israelites had blood around the doors, so God passed over 
 <font 13.5pt line-height: 115%; font-family: 'Jameel Noori Nastaleeq';/ ;;#000000;;#ffffff>تمام اسرائیلیوں کے گھروں کے گِرد خون کا دائرہ بناہواتھا۔اللہ پاک ن اُن گھروں اور اُن کے اندر جو لوگ تھے سب کو محفوظ رکھا۔ وہ بھیڑ کے بچے کی خون کے بدولت محفوظ تھے</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-06.jpg?direct&}}
 
 
 But the Egyptians did not believe God or obey his commands. So God did not pass over their houses. God killed every one of the Egyptians' firstborn sons and every firstborn of their animals as well.
@@ -63,7 +63,7 @@ But the Egyptians did not believe God or obey his commands. So God did not pass 
 \\</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?direct&}}
 
 
 Every Egyptian firstborn male died, from the firstborn of the prisoner in jail, to the firstborn of Pharaoh. There was much weeping in Egypt.
@@ -74,7 +74,7 @@ Every Egyptian firstborn male died, from the firstborn of the prisoner in jail, 
 \\</font> 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?direct&}}
 
 
 That same night, Pharaoh called for Moses and Aaron and said, “Take the Israelites and leave Egypt immediately!” The Egyptian people also urged the Israelites to leave right away.

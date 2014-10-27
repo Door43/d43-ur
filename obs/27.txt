@@ -6,7 +6,7 @@
 اچھے ساماریوں کی کہانی
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
 
 
 One day, a lawyer came to Jesus to test him, saying, “Teacher, what must I do to inherit eternal life?” Jesus answered, “What is written in God’s law?”
@@ -19,7 +19,7 @@ One day, a lawyer came to Jesus to test him, saying, “Teacher, what must I do 
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?direct&}}
 
 
 “Love the Lord your God with all your heart, soul, strength, and mind. And love your neighbor as yourself,” the lawyer said. Jesus answered, “You are correct! Do this and you will live.”
@@ -37,7 +37,7 @@ One day, a lawyer came to Jesus to test him, saying, “Teacher, what must I do 
 رہوگے۔
 ‘‘\\ 
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?direct&}}
 
 
 But the lawyer wanted to prove that he was right, so he asked, “Who is my neighbor?”
@@ -47,7 +47,7 @@ But the lawyer wanted to prove that he was right, so he asked, “Who is my neig
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?direct&}}
 
 
 Jesus answered with a story. “There was a Jewish man who was traveling along the road from Jerusalem to Jericho.”
@@ -56,7 +56,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 سیدنا عیسیٰؑ نے ایک کہانی کی مدد سے جواب میں فرمایا ’’ ایک یہودی سڑک کے کنارے کنارے یروشلم سے جیریکو کی طرف سفر کررہا تھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
 
 
 “While the man was traveling, he was attacked by a group of robbers. They took everything he had and beat him until he was almost dead. Then they went away.”
@@ -65,7 +65,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 دورانِ سفر اُس شخص پر ڈاکوؤں نے حملہ کیا، اُس کے تمام قیمتی چیزوں کو اُٹھالے گئے یہاں تک مارا پیٹا کہ وہ مرنے لگا، تب وہ چھوڑکر چلے گئے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
 
 
 “Soon after that, a Jewish priest happened to walk down that same road. When this religious leader saw the man who had been robbed and beaten, he moved to the other side of the road, ignored the man in need, and kept on going.”
@@ -74,7 +74,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 چند دن بعد ایک یہودی عالم اُسی راستے سے سفر کرنے لگا، جب اِس عالم نے اُس شخص کو دیکھا جس کو ڈاکوؤں نے لوٹا اور مارا تھا، وہ سڑک کی دوسری طرف سفرکرنے لگااُس ضرورت مند شخص کی مدد نہ کی اُس کو اُس کی حال پر چھوڑ دیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
 
 
 “Not long after that, a Levite came down the road. (Levites were a tribe of Jews who helped the priests at the Temple.) The Levite also crossed over to the other side of the road and ignored the man who had been robbed and beaten.”
@@ -83,7 +83,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 کچھ عرصہ بعدایک لیوی قبیلے کا شخص وہاں سے گزرا ( لیوی قبیلہ یہودیوں کا ایک قبیلہ ہے، وہ عبادت خانے میں عالموں کی مدد کیا کرتے تھے) لیوی بھی سڑک کےدوسرے طرف سے ہوتا ہواچلا گیا اُس مجبور شخص کی کوئی مدد نہ کی۔ 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
 
 
 “The next person to walk down that road was a Samaritan. (Samaritans were the descendants of Jews and people from other nations. Samaritans and Jews hated each other.) When the Samaritan saw the man, he was filled with compassion. He cared for him and bandaged his wounds.”
@@ -92,7 +92,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 اگلہ بندہ جو اُس سڑک پر سفر کرنے نکلا، ایک ساماری تھا (ساماری یہودیوں کے اولاد تھے، مگر دوسرے قوموں سے ساماری اور یہودی ایک دوسرے سے نفرت کرتے تھے)۔جب ساماری نے اُس شخص کو دیکھااُسے رحم آیا، اُس نے اُس کی دیکھ بھال کی زخموں کو پٹی باندھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?direct&}}
 
 
 “The Samaritan then lifted the man onto his own donkey and took him to a hotel where he took care of him.”
@@ -101,7 +101,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 پھِر ساماری نے اُس کو اپنے گدھے پر بِٹھاکر ہوٹل لے گیااُس کی بہت خد مت کی۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?direct&}}
 
 
 “The next day, the Samaritan needed to continue his journey. He gave the person in charge of the hotel some money and said, ‘Take care of him, and if you spend any more money than this, I will repay those expenses when I return.’”
@@ -110,7 +110,7 @@ Jesus answered with a story. “There was a Jewish man who was traveling along t
 اگلے روز ساماری اپنی سفر کو جاری رکھنا چاہتا تھا،اُس نے ہوٹل چلانے والے کو کچھ رقم دے کر کہا’’ اِس شخص کا دیکھ بھال کرنا‘‘اگر اِن پیسوں سے بھی زیادہ آپ کا خرچہ آگیاتو میں واپس آکر انشا ء اللہ آپ کو آپ کی رقم ادا کردوں گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?direct&}}
 
 
 Then Jesus asked the lawyer, “Which one of the three men do you think was a neighbor to the man who was robbed and beaten?” The lawyer replied, “The one who showed mercy.” Jesus told the lawyer, “You go and do the same thing.”

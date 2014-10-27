@@ -5,7 +5,7 @@
 رحم دل باپ کی کہانی
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-01.jpg?direct&}}
 
 
 One day, Jesus was teaching many tax collectors and sinners who were with him.
@@ -14,7 +14,7 @@ One day, Jesus was teaching many tax collectors and sinners who were with him.
 ایک روز سیدناؑ بہت سے ٹیکس جمع کرنے والوں اور گناہگاروں کو جو اُن کے ساتھ تھے درس دے رہا تھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-02.jpg?direct&}}
 
 
 The religious leaders were grumbling because Jesus was treating these people as friends. So Jesus told this story.
@@ -23,7 +23,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 مذہبی عالم بڑبڑارہے تھے کیونکہ سیدناؑ اُن سے دوستوں کی طرح سلوک فرمارہے تھے۔ سیدناؑ نے یہ کہانی بتایا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-03.jpg?direct&}}
 
 
 “There was a man who had two sons. The younger son told his father, ‘Father, I want my inheritance now!’ So the father divided his property between the two sons.”
@@ -32,7 +32,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 ’’ایک شخص کے دو بیٹے تھے۔ چھوٹے بیٹے نے کہا ’’ اباجان! مجھے میرا حصہ اب چاہیے ۔ باپ نے جائداد دو بیٹوں میں بانٹ دیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-04.jpg?direct&}}
 
 
 “Soon the younger son gathered all that he had and went far away and wasted his money in sinful living.”
@@ -41,7 +41,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 جلد ہی چھوٹا بیٹا اپنا سب کچھ جمع کر کے دور دراز ملک کو روانہ ہوا۔ وہاں اپنا مال بُرے کاموں میں اُڑادیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-05.jpg?direct&}}
 
 
 “At that time a severe famine came on the land, and the younger son had no money to buy food. So he took the only job he could find, feeding pigs. He was so miserable and hungry that he wanted to eat the pigs’ food.”
@@ -50,7 +50,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 اُن دِنوں بہش شدیدقحط پڑا، چھوٹے بیٹے کے ساتھ کھانا کھانے کو پیسہ نہ رہا۔ اُسے سوئرچرانے کا کام مِلا۔ وہ بہت بدحال اور بھوکا تھا، سوئروں کا خوراک کھانا چاہتا تھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-06.jpg?direct&}}
 
 
 “Finally, the younger son said to himself, ‘What am I doing? All my father’s servants have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
@@ -59,7 +59,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 بالآخر چھوٹے بیٹے نے خود سے کہا ’’ یہ میں کیا کررہا ہوں؟میرے باپ کے خادموں کے لیئے کھانے کو وافر خوراک ہے اور میں یہاں بھوک سے نڈھال پڑا ہوں۔میں واپس اباجان کے ہاں جاکر اُن سے التجاکرکے اُن کا خادم بن جاتا ہوں۔‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-07.jpg?direct&}}
 
 
 “While the younger son was still far away, his father saw him and felt compassion for him. He ran to his son and hugged him and kissed him.”
@@ -68,7 +68,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 اب تک چھوٹا بیٹا دُور ہی تھا کہ اُس کے اباجان نے اُسے دیکھ کر اُس پر ترس کھایا دوڑکر اپنے بیٹے کو گلے لگاکر چھُوما۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-08.jpg?direct&}}
 
 
 “The son said, ‘Father, I have sinned against God and against you. I am not worthy to be your son.’”
@@ -77,7 +77,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 بیٹے نے کہا ’’ اباجان میں نے آپ کی اور اللہ تعالیٰ کی نافرمانی کی۔ میں آپ کابیٹا کہلانے کا اہل نہیں ہوں۔‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-09.jpg?direct&}}
 
 
 “But his father told one of his servants, ‘Go quickly! Bring the best clothes and put them on my son! Put a ring on his finger and put sandals on his feet. Then kill the best calf so we can have a feast, because my son was dead, but now he is alive! He was lost, but now he is found!’”
@@ -86,7 +86,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 مگر باپ نے اپنے ایک خادم سے کہا’’ جاؤ جلدی جاکر بہترین کپڑے لاکر میرے بیٹے کو پہناؤ! اُس اُنگلی میں انگوٹھی اور پاؤں میں اچھے جوتے پہناؤ۔ پھر موٹے تازے بچھڑے کو زبح کرو تاکہ میرے بیٹے کی دعوت ہو، کیونکہ میرا بیٹا مرا تھامگر اب زندہ ہے! وہ کھوگیا تھا مگر اب اُسے میں نے پالیا!‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-10.jpg?direct&}}
 
 
 “And the people began to celebrate. Before long, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
@@ -95,7 +95,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 لوگ خوشی منانے لگے۔ جلد ہی بڑا بیٹاکھیتوں سے کام نپٹاکر گھر چلا آیاتو ناچ گانا اور ڈھول باجے کی آواز سُن کر حیران ہوا یہ کس لیئے ہورہا ہے‘‘۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?direct&}}
 
 
 “When the older son found out that there was a party because his brother had come home, he was very angry and would not go into the house. His father came out and begged him to join the party, but he refused.”
@@ -104,7 +104,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 جب بڑے بیٹے کو معلوم ہوا کہ یہ دعوت اُن کے چھوٹے بھائی کی گھر آمد کی خوشی میں ہوا ہے تو وہ بہت ناراض ہوئے اور گھر نہیں گیا۔ اُس کے باپ نے باہر آکر اُن سے دعوت میں شرکت کرنے کی التجا کی مگر اُس نے نا انکار کیا‘‘۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-12.jpg?direct&}}
 
 
 “The older son said to his father, ‘All these years I’ve worked so faithfully for you! I never disobeyed you, and still you did not even give me one small goat so I could celebrate with my friends. But when this son of yours who wasted your money on sinful behavior came home, you killed the best calf for him!’”
@@ -113,7 +113,7 @@ The religious leaders were grumbling because Jesus was treating these people as 
 بڑے بیٹے نے باپ سے کہا ، میں نے سالہا سال ایمانداری سے آپ کے ساتھ کام کیا!کبھی بھی آپ کی نافرمانی نہیں کی، آج تک آپ نے مجھے ایک چھوٹا بکری بھی نہیں دیاکہ جاکر میں اپنے دوستوں کے ساتھ خوشی مناؤں۔ مگر آپ کے اِس بیٹے نے آپ کا پیسہ بُرے کاموں میں ضائع کرکے گھر آیا تو آپ نے سب بہترین بچھڑا اُس کے لیئےزبح کردیا!‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-13.jpg?direct&}}
 
 
 “The father answered, ‘My son, you are always with me, and everything I have is yours. But it is right for us to celebrate, because your brother was dead, but now is alive. He was lost, but now is found!’”

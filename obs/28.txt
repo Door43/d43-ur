@@ -6,7 +6,7 @@
 امیر نوجوان بادشاہ
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-01.jpg?direct&}}
 
 
 One day a rich young ruler came up to Jesus and asked him, “Teacher, what good thing must I do to have eternal life?” Jesus said to him, “Why do you ask me about what is good? There is only One who is good, and that is God. But if you want to have eternal life, obey God’s laws.”
@@ -21,7 +21,7 @@ One day a rich young ruler came up to Jesus and asked him, “Teacher, what good
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-02.jpg?direct&}}
 
 
 “Which ones?” he asked. Jesus replied, “Do not murder. Do not commit adultery. Do not steal. Do not lie. Honor your father and mother, and love your neighbor as you love yourself.”
@@ -33,7 +33,7 @@ One day a rich young ruler came up to Jesus and asked him, “Teacher, what good
 اپنے پڑوسی سے اُتنا ہی محبت کرو جتنا اپنے آپ سے کرتے ہو۔
 ‘‘\\ 
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-03.jpg?direct&}}
 
 
 The young man, trying to prove that he was right, said, “I have obeyed all these laws ever since I was a boy. What do I still need to do?” Jesus looked at him and loved him.
@@ -43,7 +43,7 @@ The young man, trying to prove that he was right, said, “I have obeyed all the
 \\ 
 سیدنا عیسیٰؑ نے اُسے دیکھا اور اُن کو پیار فرمایا۔
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-04.jpg?direct&}}
 
 
 Jesus answered, “If you want to be perfect, then go and sell everything you own and give the money to the poor, and you will have treasure waiting for you in heaven. Then come and follow me.”
@@ -56,7 +56,7 @@ Jesus answered, “If you want to be perfect, then go and sell everything you ow
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-05.jpg?direct&}}
 
 
 When the young man heard this, he became very sad, because he was very rich. He turned and went away from Jesus, unwilling to give up his wealth.
@@ -65,7 +65,7 @@ When the young man heard this, he became very sad, because he was very rich. He 
 جب نوجوان نے یہ سُنا تو بہت اُداس ہواکیونکہ وہ بہت اَمیر تھا، اپنی دولت کو خرچ نہ کرسکنے کی وجہ سے وہ مُڑا اور سیدناؑ سے دور چلاگیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-06.jpg?direct&}}
 
 
 Then Jesus said to his disciples, “How hard it is for rich people to enter into the Kingdom of God! Yes, it is easier for a camel to go through the eye of a needle than for a rich man to enter the Kingdom of God.”
@@ -77,7 +77,7 @@ Then Jesus said to his disciples, “How hard it is for rich people to enter int
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-07.jpg?direct&}}
 
 
 When the disciples heard this they were shocked and said, “Then who can be saved?”
@@ -87,7 +87,7 @@ When the disciples heard this they were shocked and said, “Then who can be sav
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-08.jpg?direct&}}
 
 
 Jesus looked at them and said, “With people this is impossible, but with God, all things are possible.”
@@ -95,7 +95,7 @@ Jesus looked at them and said, “With people this is impossible, but with God, 
 
 سیدناؑ نے اُن کی طرف دیکھ کر فرمایا’’ لوگوں کے لیئے یہ سب ممکن نہیں مگر اللہ پاک کے لیے سب کچھ ممکن ہے۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-09.jpg?direct&}}
 
 
 Peter said to Jesus, “We have left everything and followed you. What will be our reward?”
@@ -108,7 +108,7 @@ Peter said to Jesus, “We have left everything and followed you. What will be o
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-28-10.jpg?direct&}}
 
 
 Jesus answered, “Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name’s sake, will inherit 100 times more in the next world and also eternal life. But many who are first will be last, and those who are last will be first.”

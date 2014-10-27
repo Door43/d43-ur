@@ -6,7 +6,7 @@
 بے رحم خادِم کی کہانی
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-01.jpg?direct&}}
 
 
 One day Peter said to Jesus, “Master, how many times should I forgive my brother when he sins against me? Up to seven times?” Jesus said, “Not seven times, but seventy times seven!” By this, Jesus meant that we should always forgive. Jesus told this story.
@@ -17,7 +17,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 سیدنا ؑ نے فرمایا ’’سات مرتبہ نہیں بلکہ ستتر77مرتبہ !‘‘۔ اِس سے سیدناؑ کی مراد ہمیشہ معاف کردینے کا ہے۔ سیدناؑ نے ایک کہا نی بتایا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-02.jpg?direct&}}
 
 
 “The Kingdom of God is like a king who wanted to settle accounts with his servants. One of his servants owed a huge debt worth 200,000 years’ wages.”
@@ -32,7 +32,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 جس پر اُس کے دو لاکھ200,000 اشرفیاں واجب الادتھے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-03.jpg?direct&}}
 
 
 “Since the servant could not repay the debt, the king said, ‘Sell this man and his family as slaves to make payment on his debt.’”
@@ -43,7 +43,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 اِس کا ہے سب بیچا جائے اور قرض وصول کرلیا جائے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-04.jpg?direct&}}
 
 
 “The servant fell on his knees before the king and said, ‘Please be patient with me, and I will pay everything back.’ The king felt pity for the servant and canceled all of his debt.”
@@ -54,7 +54,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 اور اُس کا قرج بخش دیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-05.jpg?direct&}}
 
 
 “The servant went out and found another servant who owed him a debt worth four months’ wages. The servant choked the man and said, ‘Pay me what you owe me!’”
@@ -70,7 +70,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-06.jpg?direct&}}
 
 
 “The man fell on his knees and said, ‘Please be patient with me, and I will pay everything back.’ But the servant refused and threw the man in prison until he could pay the debt.”
@@ -80,7 +80,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 اُس نے نہ مانا بلکہ جاکر اُسے قید خانے میں ڈال دیاکہ جب تک قرض ادا نہ کردے قید رہے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-07.jpg?direct&}}
 
 
 “Some other servants saw what had happened and were greatly disturbed. They went to the king and told him everything.”
@@ -89,7 +89,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 اُس کے باقی خادم یہ حال دیکھ کر بہت غمگین ہوئے او ر جاکر بادشاہ کو سب کچھ بتادیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-08.jpg?direct&}}
 
 
 “The king called the servant and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he could pay back all of his debt.”
@@ -99,7 +99,7 @@ One day Peter said to Jesus, “Master, how many times should I forgive my broth
 قید رہے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-29-09.jpg?direct&}}
 
 
 Then Jesus said, “This is what my heavenly Father will do to every one of you if you do not forgive your brother from your heart.”

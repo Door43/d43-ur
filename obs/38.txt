@@ -5,7 +5,7 @@
 سیدنا عیسیٰؑ کے ساتھ غداری 
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-01.jpg?direct&}}
 
 
 Jesus had been preaching for about three years. It was the time of the Passover Feast when the Jews remembered how God had saved them from slavery in Egypt many centuries earlier. Jesus knew what would happen to him and told his disciples he was going to Jerusalem where he would be killed.
@@ -14,7 +14,7 @@ Jesus had been preaching for about three years. It was the time of the Passover 
 سیدناؑ تین سال تک لوگوں کو تبلیغ کرتارہا۔ یہ اِختتامی دعوت کا وقت تھا۔یہودی اِس دن کومناتے ہیں کہ کس طرح اللہ پاک صدیوں پہلے اُنھیں\\ 
 مصر میں غلامی کی زندگی سے نجات عطافرمایا تھا۔ سیدناؑ کو معلوم تھا کہ اُن کے ساتھ کیا ہونے جارہا ہے صحابہ اکرام کو بتادیا۔ وہ یروشلم قتل کیئے جانے کو جارہا تھا۔
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-02.jpg?direct&}}
 
 
 The Jewish leaders in Jerusalem refused to believe that Jesus was the Messiah and were plotting to kill him. Judas was one of Jesus’ disciples. He was in charge of the disciples’ money bag, but he loved money and often stole from it. Judas went to the Jewish leaders and offered to betray Jesus to them.
@@ -23,7 +23,7 @@ The Jewish leaders in Jerusalem refused to believe that Jesus was the Messiah an
 یروشلم میں یہودی رہنماؤں نے سیدناعیسیٰؑ کومسیح ماننے سے انکار کیااور اُنہیں قتل کرنے کی سازش کی۔ یہودا سیدناؑ کے صحابہؓ میں سے ایک تھا۔ وہ صحابہ اکرامؓ کے پیسوں کو رکھنے کا خزانچی تھا۔ اُسے پیسے سے لگاؤ تھا۔ وہ اکثر اِن میں سے چُرالیتا تھا۔ یہودا یہودیوں کے رہنماء کے ہاں گئے اُنھیں بتایا کہ وہ پیسے کے عوض سیدناؑ کے ساتھ غداری کرنے کی پیشکش کرتا ہے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-03.jpg?direct&}}
 
 
 The Jewish leaders, led by the high priest, paid Judas thirty pieces of silver to betray Jesus. This happened just as the prophets had predicted. Judas agreed, took the money, and went away, looking for a chance to help them arrest Jesus.
@@ -32,7 +32,7 @@ The Jewish leaders, led by the high priest, paid Judas thirty pieces of silver t
 یہودیوں کے رہنماء کے توسط سے بڑے امام صاحب نے یہودا کو غداری کے لیئے تیس چاندی کے ٹُکڑے دے دیئے۔ ویسا ہی ہوا جیسے پیغمبروں نے پیشنگوئی کیا تھا۔ یہودا نے سیدناؑ سے غداری کرنے کے لیئے یہودیوں سے پیسے لیئے اوراُن کے لیئے کام کرتے ہوئے موقعے کی تلاش میں رہا کہ کس طرح سیدناؑ گرفتار کروائے
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-04.jpg?direct&}}
 
 
 Jesus celebrated the Passover Feast with his disciples. During the meal Jesus took bread and broke it, saying, “Take and eat this. It is my body, which is broken for you. Do this to remember me.” In this way, Jesus said that his body would be sacrificed for them.
@@ -41,7 +41,7 @@ Jesus celebrated the Passover Feast with his disciples. During the meal Jesus to
 سیدناؑ نے صحابہ اکرامؓ کے ساتھ آزادی کی دعوت کا کھانا تناول فرمایا۔ کھانے کے دوران سیدناؑ نے روٹی توڑکر فرمایا ’’ لو اِسے کھا لو ، یہ میرا جسم ہے جو تمھارے لیئے توڑا گیا ہے۔ایسا کرکے مجھے یاد رکھنا۔‘‘اِس مثال سے سیدناؑ کا مطلب یہ ہے کہ اُن کا  جسم ہمارے لیئے قربان کیا جائے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-05.jpg?direct&}}
 
 
 Then Jesus took a cup and said, “Drink this. It is my blood of the New Covenant shed for the forgiveness of sins. Do this to remember me as often as you drink it.” In this way, Jesus said that his blood would be poured out to forgive their sins.
@@ -50,7 +50,7 @@ Then Jesus took a cup and said, “Drink this. It is my blood of the New Covenan
 پھر سیدنا ؑ نے ایک پیالہ لیکر فرمایا’’ اِسے پیؤ۔ یہ میرا خون ہے ایک نئے عہد کے طورپر گناہوں سے معافی کے لیئے ہے۔ جب بھی اسے پیؤ تو مجھے یاد رکھنا‘‘۔ اس طرح سیدناؑ نے فرمایا ’’ اُن کا خون بہت تیزی سے نکل کر اُن کے گناہوں کو بخش دے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-06.jpg?direct&}}
 
 
 Then Jesus said to the disciples, “One of you will betray me.” The disciples were surprised and did not know who would do such a thing. Jesus said, “The person to whom I give this piece of bread is the betrayer.” Then he gave the bread to Judas.
@@ -59,7 +59,7 @@ Then Jesus said to the disciples, “One of you will betray me.” The disciples
 سیدناؑ نے صحابہ سے فرمایا’’تم میں سے ایک میرے ساتھ غداری کروگے‘‘ صحابہ حیران ہوئے۔ یہ سمجھ نہ سکے کہ کون بدبخت یہ کام کرے گا۔  سیدناؑ نے فرمایا’’وہ شخص جسے میں اِس روٹی کی ٹُکڑے کو دوں گا وہ مجھ سے غداری کرے گا۔‘‘ پھر سیدناؑ نے روٹی یہودا کو دیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-07.jpg?direct&}}
 
 
 After Judas took the bread, Satan entered into him. Judas left to help the Jewish leaders arrest Jesus. It was night.
@@ -68,7 +68,7 @@ After Judas took the bread, Satan entered into him. Judas left to help the Jewis
 جب یہودا نے روٹی لے لیا تو شیطان نے اُس کے دل میں گھر کرلیا۔ یہودا سیدناؑ کی گرفتاری کے لیے یہودی رہنماؤں کی مدد کرنے گیا۔ یہ رات کا وقت تھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-08.jpg?direct&}}
 
 
 After the meal, Jesus and his disciples walked to the Mount of Olives. Jesus said, “All of you will all abandon me tonight. It is written, ‘I will strike the shepherd and all the sheep will be scattered.’”
@@ -77,7 +77,7 @@ After the meal, Jesus and his disciples walked to the Mount of Olives. Jesus sai
 کھانا کھانے کے بعد سیدناؑ صحابہ کے ہمراہ زیتون نامی پہاڑ پر گیا۔ سیدناؑ نے فرمایا’’ آج رات تم سب سے میں رُخصت ہوجاؤں گا۔ یہ لکھی ہوئی ہے کہ۔ ’’میں چرواہے پر حملہ کروں گا سارے بھیڑ تِتر بِتر ہوجائیں گے۔‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-09.jpg?direct&}}
 
 
 Peter replied, “Even if all the others leave you, I will not!” Then Jesus said to Peter, “Satan wants to have all of you, but I have prayed for you, Peter, that your faith will not fail. Even so, tonight, before the rooster crows, three times you will deny that you even know me.”
@@ -86,7 +86,7 @@ Peter replied, “Even if all the others leave you, I will not!” Then Jesus sa
 پطرسؓ نے عرض کیا ’’آقا! اگر باقی سب آپ کو چھوڑدیں گے مگر میں نہیں ‘‘!سیدناؑ نے پطرسؓ سے فرمایا ’’شیطان تم سب کو چاہتا ہے،مگر میں نے تمھارے لیےدعا کی تمھارااِیمان کمزور نہیں ہوگا۔ حتیٰ کہ آج شب مُرغ کے اذان کے وقت تم تین مرتبہ مجھے پہچاننے سے انکار کروگے۔‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-10.jpg?direct&}}
 
 
 Peter then said to Jesus, “Even if I must die, I will never disown you!” All the other disciples said the same thing.
@@ -95,7 +95,7 @@ Peter then said to Jesus, “Even if I must die, I will never disown you!” All
 پطرسؓ نے سیدناؑ سے فرمایا’’اگر میرا مرنا لازم ہوا تو ، میں آپؑ سے لا تعلق نہیں ہوں گا! باقی صحابہؓ نے بھی یہی کہا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-11.jpg?direct&}}
 
 
 Then Jesus went with his disciples to a place called Gethsemane. Jesus told his disciples to pray that they would not fall into temptation. Then Jesus went to pray by himself.
@@ -104,7 +104,7 @@ Then Jesus went with his disciples to a place called Gethsemane. Jesus told his 
 پھرِ سیدناؑ صحابہ اکرامؓ کے ساتھ گیتسمین نامی جگہ گیا۔ سیدناؑ نے صحابہ اکرامؓ سے کہا کہ دعا کرو، تم کبھی بھی آزمائش میں نہ پڑو۔ سیدناؑ نے اکیلا دعا کرنے گیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-12.jpg?direct&}}
 
 
 Jesus prayed three times, “My Father, if it is possible, please let me escape this suffering. But if there is no other way for people’s sins to be forgiven, then let your will be done.” Jesus was very troubled and his sweat was like drops of blood. God sent an angel to strengthen him.
@@ -113,7 +113,7 @@ Jesus prayed three times, “My Father, if it is possible, please let me escape 
 سیدناؑ نے تِین مرتبہ دیا دعاکیا، ’’ اے اللہ پاک، اگر یہ ممکن ہے تو کرم فرماکر مجھے اس اذیت سے دور فرما۔ مگر اگر اس کے علاوہ آپ کے لوگوں کی گناہوں کی معافی کا کوئی اور راستہ نہیں تو میں آپ کی رضا پر راضی ہوں۔‘‘ سیدناؑ بہت سہما ہوااُن کا پسینہ خون کے قطروں جیسا تھا۔ اللہ پاک نے اُن کی ہمت افزائی کے لیے ایک فرشتہ بھیجا۔
 \\ 
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-13.jpg?direct&}}
 
 
 After each time of prayer, Jesus came back to his disciples, but they were asleep. After the third time, Jesus said, “Wake up! My betrayer is here.”
@@ -122,7 +122,7 @@ After each time of prayer, Jesus came back to his disciples, but they were aslee
 ہر دعا کے بعد سیدناؑ صحابہ کے پاس آجاتا مگر وہ سوئے ہوئے تھے۔ تیسری مرتبہ سیدناؑ نے فرمایا ’’جاگ جاؤ، میرے ساتھ غداری کرنے والا یہاں ہے۔‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-14.jpg?direct&}}
 
 
 Judas came with the Jewish leaders, soldiers, and a large crowd carrying swords and clubs. He came to Jesus and said, “Greetings, teacher,” and kissed him. This was the sign for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, do you betray me with a kiss?”
@@ -131,7 +131,7 @@ Judas came with the Jewish leaders, soldiers, and a large crowd carrying swords 
 یہودا سپاہیوں جن کے ہاتھوں میں تلوار اور نیزے تھے یہودی رہنماؤں اور بڑے ہجوم کے ہمراہ سیدناؑ کے پاس آکر کہا ’’سلام آقا!‘‘ اور اُسے چھوم لیا، یہودی رہنماؤں کے لیے یہ اشارہ تھا کہ کِس کو گرفتار کرنا ہے۔ سیدناؑ نے فرمایا ’’ یہودا تم نے چھوم کر مجھ سے غداری کی؟‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-38-15.jpg?direct&}}
 
 
 As the soldiers arrested Jesus, Peter pulled out his sword and cut off the ear of the high priest’s servant. Jesus said, “Put the sword away! I could ask the Father for an army of angels to defend me. But I must obey my Father.” Then Jesus healed the man’s ear, and all the disciples ran away.

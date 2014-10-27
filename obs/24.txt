@@ -6,7 +6,7 @@
 حضرت یحیٰ ؑ کی سیدنا عیسیٰؑ کو پاک ہونے کا غسل دینا
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-01.jpg?direct&}}
 
 
 When John grew up, he became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.
@@ -15,7 +15,7 @@ When John grew up, he became a prophet. He lived in the wilderness, ate wild hon
 حضرت یحیٰؑ بڑے ہوکر پیغمبر بنے۔وہ بیابانوں میں رہتا، شہد اور ٹِڈی کھاتا اور اونٹ کے بالوں سے بناہوا کپڑاپہنتا تھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-02.jpg?direct&}}
 
 
 Many people came to listen to John. He preached to them, saying, “Repent, for the Kingdom of God is near!”
@@ -23,7 +23,7 @@ Many people came to listen to John. He preached to them, saying, “Repent, for 
 
 حضرت یحیٰ کو سُننے کے لیے آتے، وہ اُنہیں تبلیغ کرتے ہوئے کہتا ’’ گناہوں سے توبہ کرلو!اللہ کی بادشاہی قریب ہے
 !‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-03.jpg?direct&}}
 
 
 Some people repented and were baptized when they heard John’s message, but there were many religious leaders who came to be baptized without repenting and confessing their sins.
@@ -31,7 +31,7 @@ Some people repented and were baptized when they heard John’s message, but the
 
 حضرت یحیٰؑ کی تعلیمات کوسُن کرچند لوگوں نے توبہ کرکے پاک صاف ہونے کا غسل لیا،مگر چند مذہبی عالم بھی پاک صاف ہونے کی غسل کرنے آئے مگر اُنہوں نےنہ توبہ کی اورنہ اپنی گناہوں کا اعتراف کیا۔
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-04.jpg?direct&}}
 
 
 John said to the religious leaders, “You bunch of snakes! Repent and change your behavior. Every tree that does not bear good fruit will be cut down and thrown into the fire.” John fulfilled what the prophet Isaiah said, “Behold, I send my messenger ahead of you, who will prepare your way.”
@@ -39,7 +39,7 @@ John said to the religious leaders, “You bunch of snakes! Repent and change yo
 
 یحیٰؑ نے مذہبی رہنماؤں سے فرمایا ’’تم سانپ کے گُچھوں!اپنی گناہوں سے توبہ کرو اور اپنارویہ درست کرلو۔وہ درخت جو اچھا پھل نہیں دیتاتو کاٹ کر گِرایا اورآگ میں جلایا جاتاہے۔‘‘ یحیٰؑ نے وہی کام کیئے جو حضرت یعسیاؑ نے کہا ’’توجہ کریں! میں اپنے پیغمبر کو تمھارے سامنے بھیجتا ہوں، جو راستہ بنائے گا۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-05.jpg?direct&}}
 
 
 Some Jews asked John if he was the Messiah. John replied, “I am not the Messiah, but there is someone coming after me who is much greater than I am. I am not even worthy to untie his sandals.”
@@ -54,7 +54,7 @@ Some Jews asked John if he was the Messiah. John replied, “I am not the Messia
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-06.jpg?direct&}}
 
 
 The next day, Jesus came to be baptized by John. When John saw him, he said, “Look! There is the Lamb of God who takes away the sin of the world.”
@@ -67,7 +67,7 @@ The next day, Jesus came to be baptized by John. When John saw him, he said, “
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-07.jpg?direct&}}
 
 
 John said to Jesus, “I am not worthy to baptize you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him, but not not because Jesus had sinned—he never sinned.
@@ -82,7 +82,7 @@ John said to Jesus, “I am not worthy to baptize you. You should baptize me ins
 مگر اِس لیئے ہرگز ہرگز نہیں کہ سیدناؑ نے نعوزو با اللہ کوئی گناہ کی تھا۔ ہرگز نہیں۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-08.jpg?direct&}}
 
 
 When Jesus came out of the water, the Spirit of God took the appearance of a dove and landed on him. At the same time a voice from heaven said, “You are my beloved Son, and with you I am well pleased.”
@@ -99,7 +99,7 @@ When Jesus came out of the water, the Spirit of God took the appearance of a dov
 ہوں۔
 ‘‘ \\ 
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-24-09.jpg?direct&}}
 
 
 God had told John, “The Holy Spirit will land on someone you baptize. He is the Son of God.” There is only one God. But God is three persons, the Father, Jesus the Son, and the Holy Spirit.

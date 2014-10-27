@@ -6,7 +6,7 @@
 جماعتوں کا آغاز
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-01.jpg?direct&}}
 
 
 After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded. The followers of Jesus gathered together and were praying constantly.
@@ -17,7 +17,7 @@ After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had c
 آپ ؑ پر ایمان رکھنے والے جوق در جوق اکھٹا ہوکرمتواتر دعائیں کرتے رہے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-02.jpg?direct&}}
 
 
 Fifty days after Jesus rose from the dead, a Jewish feast called Pentecost took place. Pentecost was a celebration of thanksgiving. Jews from all over the world would come to Jerusalem to celebrate together.
@@ -28,7 +28,7 @@ Fifty days after Jesus rose from the dead, a Jewish feast called Pentecost took 
 اِس روز یہودی دنیا بھر سے یروشلم میں جمع ہوکر یہ دن مناتے ہیں۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-03.jpg?direct&}}
 
 
 While the believers were all together, suddenly, they heard a sound like a strong wind that filled the house. Then something like flames of fire appeared over the heads of all the believers. They were all filled with the Holy Spirit and began to speak in other languages.
@@ -39,7 +39,7 @@ While the believers were all together, suddenly, they heard a sound like a stron
 کوئی چیز نمودار ہوا۔ اُن سب پر اللہ تعالیٰ کا خاص فضل نازل ہوا اور وہ دوسرے زبانوں میں باتیں کرنے لگے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-04.jpg?direct&}}
 
 
 When the people in Jerusalem heard about this, a crowd gathered, wondering what was happening. The people were astonished when they heard the believers speaking in their own native languages, proclaiming the wonderful works of God.
@@ -50,7 +50,7 @@ When the people in Jerusalem heard about this, a crowd gathered, wondering what 
 کہ وہ لوگ اُنہی کے اصل زبان میں باتیں کررہے تھے۔اللہ پاک کی بڑاہی بیان کی کہ اللہ پاک ہر چیز پر قادر ہے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-05.jpg?direct&}}
 
 
 Some accused the disciples of being drunk, but Peter stood up and said, “Listen to me! These people are not drunk! This is a fulfillment of the prophecy made by the prophet Joel which says, ‘In the last days, I will pour out my Spirit.’”
@@ -61,7 +61,7 @@ Some accused the disciples of being drunk, but Peter stood up and said, “Liste
 حضرت جوئیلؑ کی پیشنگوئی پوری ہوئی جِنھوں نے فرمایا تھا’’آخر ی دنوں میں ، میں اپنے روح کو بارش کی مانند برساؤں گا‘‘۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-06.jpg?direct&}}
 
 
 “Men of Israel, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know. You crucified him!”
@@ -71,7 +71,7 @@ Some accused the disciples of being drunk, but Peter stood up and said, “Liste
 !‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-07.jpg?direct&}}
 
 
 “But God raised him to life again to fulfill the prophecy which says, ‘You will not let your Holy One rot in the grave.’ God raised this Jesus from the dead. We are witnesses.”
@@ -82,7 +82,7 @@ Some accused the disciples of being drunk, but Peter stood up and said, “Liste
 اللہ پاک نے سیدناؑ کو مردے سے دوبارہ زندہ فرمایا۔ ہم اِس بات کے گواہ ہیں۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-08.jpg?direct&}}
 
 
 “Jesus is now exalted to the right hand of God the Father. And the Father has sent the promised Holy Spirit which you are seeing and hearing.”
@@ -90,7 +90,7 @@ Some accused the disciples of being drunk, but Peter stood up and said, “Liste
 
 سیدناؑ اب اللہ پاک کے دائیں جانب تشریف فرما ہیں اور اللہ پاک نے اپنی خاص فضل کو ہم پر بھیجا جسے آپ لوگ سُن رہے اور دیکھ رہے ہو۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?direct&}}
 
 
 “Know for certain that God has made this Jesus, the one you crucified, both Lord and Messiah!”
@@ -99,7 +99,7 @@ Some accused the disciples of being drunk, but Peter stood up and said, “Liste
 جان لو! اللہ پاک نے سیدناؑ کو تخلیق فرمایا جِنھیں آپ لوگوں نے صلیب پر دونوں کو چڑھایا، دونوں یعنی سیدناؑ اللہ کے بنی اور مسیح بھی ہے
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-10.jpg?direct&}}
 
 
 The people listening to Peter were deeply moved and asked, “Brothers, what should we do?”
@@ -112,7 +112,7 @@ The people listening to Peter were deeply moved and asked, “Brothers, what sho
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-11.jpg?direct&}}
 
 
 Peter said, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit.”
@@ -125,7 +125,7 @@ Peter said, “Repent and be baptized every one of you in the name of Jesus Chri
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?direct&}}
 
 
 About 3,000 people believed what Peter said. They were baptized and were added to the people of God, which is the Church. The people who believed in Jesus became known as Christians.
@@ -140,7 +140,7 @@ About 3,000 people believed what Peter said. They were baptized and were added t
 جو کہ چرچ (یعنی جماعت ) کے نام سے منصوب ہوئے۔ وہ لوگ جو سیدناؑ پر ایمان لائے وہ مسیحی کہلائے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-13.jpg?direct&}}
 
 
 The believers devoted themselves to the disciples’ teaching, fellowship, eating together, and prayer. They all met together and shared everything they had. They praised God and even non-believers thought well of them. Every day, more people became Christians.

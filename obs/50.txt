@@ -6,7 +6,7 @@
 سیدناؑ واپس دُنیا میں تشریف لائیں گے
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-01.jpg?direct&}}
 
 
 For almost 2,000 years, the Good News of Jesus the Messiah has been spreading, and the Church has been growing. Jesus said he would return at the end of the world. Though he has not yet come back, he will keep his promise.
@@ -17,7 +17,7 @@ For almost 2,000 years, the Good News of Jesus the Messiah has been spreading, a
 اگرچہ ابتک سیدناؑ واپس نہیں آئے مگر اپنا وعدہ نبھائے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-02.jpg?direct&}}
 
 
 As we wait for Jesus’ return, Christians are to live holy and godly lives. When Jesus was on earth he also said, “This Good News of the Kingdom will be preached in the whole world for a testimony to all the people groups, and then the end will come.”
@@ -32,7 +32,7 @@ As we wait for Jesus’ return, Christians are to live holy and godly lives. Whe
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-03.jpg?direct&}}
 
 
 Many people groups still have not heard about Jesus. Before he returned to heaven, Jesus gave Christians the job of bringing the Good News to those who have never heard. He said, “Go and make disciples of all people groups! The fields are ripe for harvest!”
@@ -44,7 +44,7 @@ Many people groups still have not heard about Jesus. Before he returned to heave
 !‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-04.jpg?direct&}}
 
 
 Jesus also said, “A servant is not greater than his master. You will be tortured and killed because of me. In this world you will have trouble, but be encouraged. I have defeated Satan! Remain faithful to the end, and you will be saved.”
@@ -58,7 +58,7 @@ Jesus also said, “A servant is not greater than his master. You will be tortur
 ‘‘
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-05.jpg?direct&}}
 
 
 Jesus told his disciples a story which helped explain what the end would be like. “The Kingdom of God is like a man who planted good seed in his field. But while he was sleeping, his enemy came and planted weeds along with the wheat, and then he went away.”
@@ -70,7 +70,7 @@ Jesus told his disciples a story which helped explain what the end would be like
 اللہ کی بادشاہی اُس شخص کی مانند ہے جِس نے اچھے بیج فصل میں بوئے۔ مگر وہ سوگیا اُس دشمن آیاگندم کے ساتھ گھاس کاشت کرکے چلاگیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-06.jpg?direct&}}
 
 
 “When the plants sprouted, the workers asked their master, ‘Sir, you planted good seed in that field. Why are there weeds in it?’ The master answered, ‘An enemy has planted them.’”
@@ -81,7 +81,7 @@ Jesus told his disciples a story which helped explain what the end would be like
 مالک نے کہا ’’ کسی دشمن نے اِنھیں بویاہے‘‘۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-07.jpg?direct&}}
 
 
 “The workers responded, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, you will pull out some of the wheat as well. Wait until the harvest and then gather the weeds into piles to be burned, but bring the wheat into my barn.’”
@@ -94,7 +94,7 @@ Jesus told his disciples a story which helped explain what the end would be like
 
 رکھو۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-08.jpg?direct&}}
 
 
 The disciples did not understand and said to Jesus, “Please explain this story to us.” Jesus said, “The man who planted the good seed is the Messiah. The field is the world. The good seed represents the people of God’s Kingdom.”
@@ -105,7 +105,7 @@ The disciples did not understand and said to Jesus, “Please explain this story
 کھیت دُنیا ہے اچھے بیج سے مراد اللہ پاک کی بادشاہی کے لوگ۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-09.jpg?direct&}}
 
 
 “The weeds represent the people who belong to the evil one. The enemy who planted them is the devil. The harvest is the end of the world, and the harvesters are the angels.”
@@ -118,7 +118,7 @@ The disciples did not understand and said to Jesus, “Please explain this story
 
 ہیں۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-10.jpg?direct&}}
 
 
 “At the end of the world, all the people who belong to the devil will be gathered together and thrown into a fiery furnace, where there is weeping and grinding of teeth. Then the righteous ones will shine like the sun in the Kingdom of their Father.”
@@ -129,7 +129,7 @@ The disciples did not understand and said to Jesus, “Please explain this story
 جہاں وہ روتے اور اپنے دانت پیستے ہوں گے۔اور سچے ایماندار لوگ اللہ تعالیٰ کی بادشاہی میں سورج کی طرح چمکتے دھمکتے ہوں گے۔‘‘؂
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-11.jpg?direct&}}
 
 
 When Jesus returned to heaven, he said that he would return to earth the same way that he left—with a physical body in the clouds. Jesus also promised that when he returns, all Christians who have died will rise from the dead and meet him in the air.
@@ -140,7 +140,7 @@ When Jesus returned to heaven, he said that he would return to earth the same wa
 سیدناؑ نے یہ بھی وعدہ فرمایا کہ جب وہ واپس آئے گا ، وہ تمام مسیحی جو مرچکے ہیں، زندہ ہوکر ہوا میں اُن سے ملیں گے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-12.jpg?direct&}}
 
 
 The Christians who are still alive will then rise up together with them in the air and all Christians will be with Jesus forever. Jesus will be with his people in perfect unity forever.
@@ -151,7 +151,7 @@ The Christians who are still alive will then rise up together with them in the a
 سیدناؑ بھی اپنے لوگوں کے ساتھ کے ساتھ مکمل ہمیشہ ہوں گے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-13.jpg?direct&}}
 
 
 Christians will be given the crown of life. They will never experience the second death, which is hell. Instead, they will live forever with God in perfect peace.
@@ -159,7 +159,7 @@ Christians will be given the crown of life. They will never experience the secon
 
 مسیحیوں کو زندگی کا تاج دیا جائے گا۔ وہ کبھی بھی دوبارہ نہیں مریں گے۔ جو کہ جہنم ہے۔ بلکہ وہ اللہ تعالیٰ کے ساتھ ہمیشہ امن و چھین کی سے رہیں گے۔
 \\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-14.jpg?direct&}}
 
 
 But those who do not believe in Jesus will be judged by God and thrown into hell forever. In hell, people constantly weep and grind their teeth in anguish. They are burned by fire that never goes out and eaten by worms that never die.
@@ -172,7 +172,7 @@ But those who do not believe in Jesus will be judged by God and thrown into hell
 کبھی نہیں مریں گے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-15.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-15.jpg?direct&}}
 
 
 Jesus will also completely destroy Satan and his kingdom and will throw him into the lake of fire where he will burn forever. Death also will be thrown into the lake of fire.
@@ -183,7 +183,7 @@ Jesus will also completely destroy Satan and his kingdom and will throw him into
 موت کو بھی آگ کے جھیل میں پھینکا جائے گا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-16.jpg?direct&}}
 
 
 God cursed the universe because of Adam and Eve's sin and he will destroy it. Jesus will create a New Heaven and a New Earth that will be perfect.
@@ -192,7 +192,7 @@ God cursed the universe because of Adam and Eve's sin and he will destroy it. Je
 اللہ پاک نے زمین پر حضرت آدم ؑ اور اماں بی بی حواّؑ کی گناہ کی وجہ سے لعنت فرمایاتھا زمین کو تباہ فرمائے گا۔سیدناؑ نیا جنت اور نیا زمین بنائے گا جو کہ مکمل ہوگا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-17.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-50-17.jpg?direct&}}
 
 
 Jesus will reign forever and ever. He will wipe away every tear and there will be no more death, suffering, sadness, crying, evil, or pain. He will rule his Kingdom with peace and justice, and he will be with his people forever.

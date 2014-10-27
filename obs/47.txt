@@ -7,7 +7,7 @@
 فِلپی میں پاؤلسؓ اور سِیلاسؓ
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-01.jpg?direct&}}
 
 
 Some years later, Paul and his friend Silas went to the town of Philippi, proclaiming the Good News about Jesus. They met a woman named Lydia who sold purple cloth. She loved and worshiped God.
@@ -18,7 +18,7 @@ Some years later, Paul and his friend Silas went to the town of Philippi, procla
 وہ اللہ سے پیار او اللہ کی عبادت کرتی تھی۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-02.jpg?direct&}}
 
 
 God opened Lydia's heart to understand the message of Jesus, and she and her family were baptized. She invited Paul and Silas to stay at her house, so they did.
@@ -29,7 +29,7 @@ God opened Lydia's heart to understand the message of Jesus, and she and her fam
 اُس نے پاؤلس اور سِیلاس کو اپنے گھر رہنے کی دعوت دی۔ اُنہوں نے دعوت قبول کی۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-03.jpg?direct&}}
 
 
 Paul and Silas often went to pray while they were in Philippi. Every day as they walked to the place of prayer, a slave girl possessed by a demon followed them. She was a fortune teller, and she made a lot of money for her masters.
@@ -40,7 +40,7 @@ Paul and Silas often went to pray while they were in Philippi. Every day as they
 پیچھا کرنے لگی۔ وہ قسمت کا حال بتانے والی تھی۔ اِس طرح اُس نے اپنے مالک کے لیے بہت سارا پیسہ کمایاتھا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-04.jpg?direct&}}
 
 
 The slave girl kept yelling, “These men are servants of the Most High God. They are telling you the way to be saved!” She did this so often that Paul became annoyed.
@@ -50,7 +50,7 @@ The slave girl kept yelling, “These men are servants of the Most High God. The
 یہ سُنتے ہی پاؤلُس کو غُصہ آیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-05.jpg?direct&}}
 
 
 One day, Paul turned to her and said to the demon, “In the name of Jesus, come out of her.” Right away the demon left her.
@@ -59,7 +59,7 @@ One day, Paul turned to her and said to the demon, “In the name of Jesus, come
 ایک دن پاؤلُس لڑکی کی طرف مُڑکر جِن سے فرمایا’’سیدناعیسیٰؑ کے نام کے وسیلے سے اِس لڑکی سے نکل جا۔‘‘جِن اُسی لمحے نکل گیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-06.jpg?direct&}}
 
 
 The men who owned the slave girl became very angry when they realized the slave girl could no longer make money for them.
@@ -68,7 +68,7 @@ The men who owned the slave girl became very angry when they realized the slave 
 غلام لڑکی کے مالک کو یہ جان کر کہ اب وہ لڑکی اُن کے لیے پیسہ نہیں کماسکے گی بہت غُصہ آیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-07.jpg?direct&}}
 
 
 So the owners of the slave girl had Paul and Silas arrested, beaten, and thrown into jail.
@@ -77,7 +77,7 @@ So the owners of the slave girl had Paul and Silas arrested, beaten, and thrown 
 لڑکی کے مالک نے پاؤلسؓ اور سِیلاسؓ کو گرفتارکرواکر، مارپیٹ کر جیل میں قید کروادیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-08.jpg?direct&}}
 
 
 Paul and Silas were put in the most secure part of the prison with their feet locked up. In the middle of the night, they were singing songs of praise to God.
@@ -86,7 +86,7 @@ Paul and Silas were put in the most secure part of the prison with their feet lo
 پاؤلسؓ اور ساؤلسؓکوجیل کی سب سے محفوظ مقام پر رکھ کر اُن کے ہاتھ پاؤں باندھ دیئے گئے تھے۔نصف شب کو وہ اللہ کی تعریف میں حمد گارہے تھے
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-09.jpg?direct&}}
 
 
 Suddenly, the earth shook and the prison doors flew open. All the prisoners’ chains fell off.
@@ -95,7 +95,7 @@ Suddenly, the earth shook and the prison doors flew open. All the prisoners’ c
 اچانک زمین ہِل گیا، جیل کے دروازے کھُل گئے۔ تمام قیدیوں کی زنجیریں کھل گئے۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-10.jpg?direct&}}
 
 
 When the jailer saw that the doors were open, he planned to kill himself, thinking that all the prisoners had escaped. (He knew he would be killed for letting the prisoners escape.) Paul saw him and yelled, “Stop! Do not hurt yourself. We are all here.”
@@ -111,7 +111,7 @@ When the jailer saw that the doors were open, he planned to kill himself, thinki
 
 ہیں۔
 ‘‘\\ 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-11.jpg?direct&}}
 
 
 The jailer was terrified! He took Paul and Silas home, gave them some food, and washed their wounds. Then he said, “What must I do to be saved?”
@@ -120,7 +120,7 @@ The jailer was terrified! He took Paul and Silas home, gave them some food, and 
 جیلر گھبرایاہوا تھا۔پاؤلسُؓ اور ساؤلسؓ کو لیکر گھر گیا کھانا دی، اُن کے زخموں کو دھویا۔ پھر اُس نے کہا ’’گناہوں سے بچنے کے لیے میں کیا کروں؟
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-12.jpg?direct&}}
 
 
 Paul answered, “Believe in Jesus, the Master, and you and your family will be saved.” Then Paul baptized the jailer and his whole family, and they celebrated together.
@@ -131,7 +131,7 @@ Paul answered, “Believe in Jesus, the Master, and you and your family will be 
 اور اُن سب نے خوشی منایا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-13.jpg?direct&}}
 
 
 The next day the leaders of the city freed Paul and Silas and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and then left the city. The Good News of Jesus kept spreading, and the Church kept growing.
@@ -142,7 +142,7 @@ The next day the leaders of the city freed Paul and Silas and asked them to leav
 تھوڑی دیر رہنے کے بعد شہر چھوڑدیا۔سیدناؑ کی خوشخبری اور جماعت روز بروز بڑھتاگیا۔
 
 
-{{:https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?direct&}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-47-14.jpg?direct&}}
 
 
 Paul and other Christian leaders traveled to many cities, preaching and teaching about Jesus. They also wrote many letters to the churches to encourage and teach them about God’s New Covenant.
