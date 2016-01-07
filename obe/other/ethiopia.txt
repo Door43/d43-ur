@@ -10,7 +10,7 @@ Ethiopia was a country in Africa located just south of Egypt, bordered by the Ni
   * God sent Philip the evangelist to a desert where he shared the good news about Jesus with an Ethiopian eunuch.
 
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:ur:obe:other:cush]], [[:ur:obe:other:egypt]], [[:ur:obe:other:eunuch]], [[:ur:obe:other:philip]])
 

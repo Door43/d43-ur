@@ -1,0 +1,46 @@
+====== 1 Kings 11:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9-10 Even though Yahweh, the God whom the Israelites \add worshiped\add*, had appeared to Solomon two times, and had commanded him to not worship foreign gods, Solomon refused to obey Yahweh. So Yahweh was angry with Solomon,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9-10 Even though Yahweh, the God whom the Israelites worshiped, had appeared to Solomon two times, and had commanded him to not worship foreign gods, Solomon refused to obey Yahweh. So Yahweh was angry with Solomon.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Yahweh was angry with Solomon, because his heart had turned away from him, the God of Israel, even though he had appeared to him twice
+\v 10 and commanded him about this very thing, that he should not go after other gods. But Solomon did not obey what Yahweh commanded.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:angry]]
+  * [[:ur:obe:other:heart]]
+  * [[:ur:obe:kt:turn]]
+  * [[:ur:obe:kt:god]]
+  * [[ur:obe:other:israel]]
+  * [[:ur:obe:other:command]]
+  * [[:ur:obe:other:obey]]
+
+===== Translation Notes: =====
+
+  * **his heart had turned away from him** - That is, "Solomon's heart had turned away from Yahweh." AT: "Solomon stopped worshiping Yahweh" (See: [[:ur:ta:vol1:translate:figs_idiom]])
+  * **he had appeared to him twice** - That is, "Yahweh had appeared to Solomon twice."
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ki:11|1 Kings Chapter 11 Comprehension Questions]]**
+**[[:ur:bible:notes:1ki:11:07|<<]] | [[:ur:bible:notes:1ki:11:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

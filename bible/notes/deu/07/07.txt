@@ -1,0 +1,57 @@
+====== Deuteronomy 07:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 It was not because you were more numerous than any other people-group that Yahweh preferred you; you are one of the smallest people-groups on the earth.
+\v 8 Instead, it is because Yahweh loved you and because he wanted to do what he solemnly promised to your ancestors. That is the reason that he rescued you by his great power \f + \ft metonymy \f*, and freed you from being slaves \f + \ft metonymy \f* of the king of Egypt.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 It was not because you were more numerous than any other people group that Yahweh chose you; you are one of the smallest people groups on the earth.
+\v 8 Instead, it is because Yahweh loved you and because he wanted to do what he solemnly promised to your ancestors. That is the reason that he rescued you by his great power from slavery in Egypt and from Pharaoh, the king of Egypt.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 Yahweh did not set his love upon you or choose you because you were more in number than any people; for you were the fewest of all peoples —
+\v 8 but he loves you, and he wished to keep the oath that he had sworn to your fathers. This is why Yahweh has brought you out with a mighty hand and redeemed you out of the house of bondage, from the hand of Pharaoh, king of Egypt.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[ur:obe:kt:Yahweh]]
+  * [[:ur:obe:kt:love|love]]
+  * [[:ur:obe:other:oath|oath, swear]]
+  * [[:ur:obe:other:father|father, forefather]]
+  * [[:ur:obe:other:mighty|mighty, might]]
+  * [[:ur:obe:other:hand|hand]]
+  * [[:ur:obe:kt:redeem|redeem, redemption]]
+  * [[:ur:obe:other:house|house]]
+  * [[ur:obe:kt:enslave]]
+  * [[:ur:obe:other:pharaoh|Pharaoh, king of Egypt]]
+  * [[:ur:obe:other:king|king]]
+  * [[:ur:obe:other:egypt|Egypt, Egyptian]]
+
+===== Translation Notes: =====
+
+  * **did not set his love upon you** - "did not love you"
+  * **with a mighty hand** - AT: "with his mighty power" (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+  * **house of bondage** - See how you translated this in [[ur:bible:notes:deu:06:10|6:12]].
+  * **hand of Pharaoh**  - "control of Pharaoh"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:deu:07|Deuteronomy Chapter 07 Comprehension Questions]]**
+**[[:ur:bible:notes:deu:07:06|<<]] | [[:ur:bible:notes:deu:07:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

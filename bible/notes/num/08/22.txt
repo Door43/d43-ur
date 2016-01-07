@@ -1,0 +1,42 @@
+====== Numbers 08:22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 22 After that, the descendants of Levi started to work at the Sacred Tent to assist Aaron and his sons. They did that just as Yahweh had commanded Moses\f + \ft Or: me \f*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 22 After that, the descendants of Levi started to work at the sacred tent to assist Aaron and his sons. They did that just as Yahweh had commanded Moses.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 22 After that, the Levites went in to do their service in the tent of meeting before Aaron and before Aaron's sons. This was as Yahweh had commanded Moses about the Levites. They treated all the Levites in this way.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:serve]]
+
+===== Translation Notes: =====
+
+  * **to do their service** - AT: "to serve" (See: [[:ur:ta:vol2:translate:figs_abstractnouns]])
+  * **before Aaron and before Aaron's sons** - AT: "in the presence of Aaron and his sons" (See: [[:ur:ta:vol1:translate:figs_idiom]])
+  * **They treated all the Levites** - Here the word "They" refers to the people of Israel.
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:08|Numbers Chapter 08 Comprehension Questions]]**
+**[[:ur:bible:notes:num:08:20|<<]] | [[:ur:bible:notes:num:08:23|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

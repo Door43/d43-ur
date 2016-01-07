@@ -1,0 +1,52 @@
+====== 2 Chronicles 13:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 But Jeroboam, who was \add only\add* an official of David's son King Solomon, rebelled against his king.
+\v 7 And when Solomon's son Rehoboam became king and was still young and inexperienced, a group of worthless scoundrels gathered around you and rebelled against Rehoboam.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 But Jeroboam, who was only an official of David's son King Solomon, rebelled against his king.
+\v 7 And when Solomon's son Rehoboam became king and was still young and inexperienced, a group of worthless scoundrels gathered around you and rebelled against him.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 6 Yet Jeroboam, the son of Nebat, the servant of Solomon, the son of David, rose up and rebelled against his master.
+\v 7 Worthless men, base fellows, gathered to him. They came against Rehoboam, the son of
+Solomon, when Rehoboam was young and inexperienced and could not withstand them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:servant|servant, slave, slavery]]
+  * [[:ur:obe:other:solomon|Solomon]]
+  * [[:ur:obe:kt:raise]]
+  * [[:ur:obe:other:rebel]]
+  * [[:ur:obe:kt:worthy]]
+  * [[:ur:obe:other:rehoboam]]
+  * [[:ur:obe:kt:lord|lord, master, sir]]
+
+===== Translation Notes: =====
+
+  * **son of Nebat** - (See: [[:ur:ta:vol1:translate:translate_names]])
+  * **base fellows**- AT: "corrupt, immoral men"
+  * **gathered to him**- AT: "joined with Jeroboam"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:2ch:13|2 Chronicles Chapter 13 Comprehension Questions]]**
+**[[:ur:bible:notes:2ch:13:04|<<]] | [[:ur:bible:notes:2ch:13:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

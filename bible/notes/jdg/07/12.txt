@@ -1,0 +1,45 @@
+====== Judges 07:12 ======
+
+===== TFT: =====
+
+<usfm>
+\v 12 The armies of the people of Midian and Amalek and from the east had set up their tents and looked like a swarm of locusts. It seemed that their camels were as impossible to count as the grains of sand on the seashore.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 12 The armies of the people of Midian and Amalek and from the east had set up their tents and looked like a swarm of locusts. It seemed that their camels were too many to count, like the grains of sand on the seashore.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 12 The Midianites, the Amalekites, and all the people of the east settled along in the valley, as thick as a cloud of locusts. Their camels were more than could be counted; they were more in number than the grains of the sand on the seashore.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:Midian]]
+  * [[:ur:obe:other:Amalekite]]
+  * [[:ur:obe:other:peoplegroup]]
+  * [[:ur:obe:other:camel]]
+  * [[:ur:obe:other:grain]]
+
+===== Translation Notes: =====
+
+  * **as thick as a cloud of locusts**  - The army camp is compared to a swarm of locusts because there are many people camped in a small area. (See: [[:ur:ta:vol1:translate:figs_simile|Simile]])
+  * **they were more in number than the grains of the sand on the seashore **  - AT: "There were a great number of camels." (See: [[:ur:ta:vol2:translate:figs_hyperbole|Hyperbole]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:jdg:07|Judges Chapter 07 Comprehension Questions]]**
+**[[:ur:bible:notes:jdg:07:09|<<]] | [[:ur:bible:notes:jdg:07:13|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

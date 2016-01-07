@@ -1,0 +1,79 @@
+====== Psalms 145:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 My God and King, I will proclaim that you are very great\f + \ft Or: glorious \f*;
+\q1 I will praise you \f + \ft metonymy \f* now and forever.
+\q1
+\v 2 Every day I will praise you;
+\q2 Yes, I will praise you \f + \ft metonymy \f* forever.
+\b
+\q1
+\v 3 Yahweh you are great, and you ought to be praised\f + \ft Or: people should praise you \f* very much;
+\q2 we cannot fully realize how great you are.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 My God and King, I will proclaim that you are very great;
+\q1 I will praise you now and forever.
+\q1
+\v 2 Every day I will praise you;
+\q2 Yes, I will praise you forever.
+\b
+\q1
+\v 3 Yahweh, you are great, and you ought to be praised very much;
+\q2 we cannot fully realize how great you are.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 145
+\d A psalm of praise. Of David.
+\b
+\q
+\v 1 I will extol you, my God, King;
+\q I will bless your name forever and ever.
+\q
+\v 2 Every day will I bless you;
+\q I will praise your name forever and ever.
+\q
+\v 3 Great is Yahweh and greatly to be praised;
+\q his greatness is unsearchable.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:psalm|psalm]]
+  * [[:ur:obe:other:praise|praise]]
+  * [[:ur:obe:other:david|David]]
+  * [[:ur:obe:kt:god|God]]
+  * [[:ur:obe:other:king|king]]
+  * [[:ur:obe:kt:bless|bless, blessed, blessing]]
+  * [[:ur:obe:kt:name|name]]
+  * [[:ur:obe:kt:forever|forever]]
+  * [[ur:obe:kt:yahweh]]
+===== Translation Notes: =====
+
+See: [[ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of praise** - See how you translated this in [[:ur:bible:notes:psa:095:001|95:1]].
+  * **Of David** - "written by David"
+  * **extol you** - "tell people how wonderful you are"
+
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:145|Psalms Chapter 145 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:144:014|<<]] | [[:ur:bible:notes:psa:145:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

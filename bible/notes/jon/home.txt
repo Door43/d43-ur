@@ -1,0 +1,13 @@
+===== Jonah Links =====
+  * [[:ur:ulb:ep:32-jon.usfm|Full ULB text of Jonah]]
+  * [[:ur:udb:ep:32-jon.usfm|Full UDB text of Jonah]]
+  * [[ur:bible:admin-reports:notes-team-admin:jon]]
+  * [[:ur:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages ur:bible:notes:jon:01 -title -naturalOrder -exclude:home -textPages="Jonah 1" -nbCol=2> 
+
+<nspages ur:bible:notes:jon:02 -title -naturalOrder -exclude:home -textPages="Jonah 2" -nbCol=2> 
+
+<nspages ur:bible:notes:jon:03 -title -naturalOrder -exclude:home -textPages="Jonah 3" -nbCol=2> 
+
+<nspages ur:bible:notes:jon:04 -title -naturalOrder -exclude:home -textPages="Jonah 4" -nbCol=2> 

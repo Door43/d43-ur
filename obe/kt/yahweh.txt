@@ -17,10 +17,10 @@ The term "Yahweh" is God's personal name that he revealed to Moses at the burnin
   * This term could also be written in a similar way to how "Yahweh" is spelled.
   * Note that "Jehovah" is //not// a good translation of this term. In the past, the Jews said "Lord" instead of Yahweh and eventually some people took the vowels from the Hebrew word for Lord and replaced the vowels in the Hebrew word Yahweh. This resulted in the contrived spelling, "Jehovah," which is //not// an accurate way to spell God's personal name.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names]])
  
 
-(See also: [[:ur:obe:kt:god|God]], [[lord]], [[en:obe:other:moses]] other)
+(See also: [[:ur:obe:kt:god|God]], [[lord]], [[ur:obe:other:moses]] other)
 
 ===== Bible References: =====
 

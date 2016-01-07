@@ -1,0 +1,17 @@
+===== 1 Peter =====
+
+  * [[:ur:ulb:ep:60-1pe.usfm|Full ULB text of 1 Peter]]
+  * [[:ur:udb:ep:60-1pe.usfm|Full UDB text of 1 Peter]]
+  * [[ur:bible:admin-reports:notes-team-admin:1pe]]
+  * [[:ur:bible:team-info:training:notes-training|Notes Training]]
+
+
+<nspages ur:bible:notes:1pe:01 -title -naturalOrder -exclude:home -textPages="1 Peter 1" -nbCol=2>
+
+<nspages ur:bible:notes:1pe:02 -title -naturalOrder -exclude:home -textPages="1 Peter 2" -nbCol=2>
+
+<nspages ur:bible:notes:1pe:03 -title -naturalOrder -exclude:home -textPages="1 Peter 3" -nbCol=2>
+
+<nspages ur:bible:notes:1pe:04 -title -naturalOrder -exclude:home -textPages="1 Peter 4" -nbCol=2>
+
+<nspages ur:bible:notes:1pe:05 -title -naturalOrder -exclude:home -textPages="1 Peter 5" -nbCol=2>

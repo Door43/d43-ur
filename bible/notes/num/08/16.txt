@@ -1,0 +1,47 @@
+====== Numbers 08:16-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 16 They will belong to me. They will work for me as substitutes for the firstborn males of all the Israelites, \add who also belong to me\add*.
+\v 17 All the firstborn males in Israel, both the people and the animals, are mine. When I caused all the firstborn sons of the people of Egypt to die, \add I spared\f + \ft Or: did not kill \f* the firstborn males of the Israelites\add*. I set them apart to belong to me. I said that the firstborn males of all their domestic animals would also belong to me.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 16 They will belong to me. They will work for me as substitutes for the firstborn males of all the Israelites, who also belong to me.
+\v 17 All the firstborn males in Israel, both the people and the animals, are mine. When I caused all the firstborn sons of the people of Egypt to die, I set them apart for myself. But I spared the firstborn of all males of the Israelites, of people and animals, because they are mine.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 16 Do this, because they are entirely mine from among the people of Israel. They will take the place of each male child who opens the womb, the firstborn of all the descendants of Israel. I have taken the Levites for myself.
+\v 17 All the firstborn from among the people of Israel are mine, both of people and of animals. On the day that I took the lives of all the firstborn in the land of Egypt, I set them apart for myself.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:womb]]
+  * [[ur:obe:kt:firstborn]]
+  * [[:ur:obe:other:descendant]]
+  * [[:ur:obe:kt:life]]
+  * [[:ur:obe:other:egypt]]
+  * [[:ur:obe:kt:setapart]]
+
+===== Translation Notes: =====
+
+  * **each male child who opens the womb, the firstborn** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **male child who who opens the womb** - This refers to the first male child to which a mother gives birth. (See: [[:ur:ta:vol1:translate:figs_idiom]])
+  * **I took the lives** - AT: "I killed" (See: [[:ur:ta:vol2:translate:figs_euphemism]])
+  * **I set them apart** - Here the word "them" refers to "the firstborn from among the people of Israel."
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:08|Numbers Chapter 08 Comprehension Questions]]**
+**[[:ur:bible:notes:num:08:14|<<]] | [[:ur:bible:notes:num:08:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

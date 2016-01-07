@@ -1,0 +1,60 @@
+====== Deuteronomy 04:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 But be very careful! [DOU, IDI] Do not forget what you \f + \ft synecdoche \f* have seen \add God do\add*. Remember those things as long as you are alive. Tell them to your children and your grandchildren.
+\v 10 Tell them about the day that your ancestors stood in the presence of Yahweh our God at Sinai Mountain, when he said to me, 'Gather the people together, in order that they can hear what I say. I want them to learn to have an awesome respect for me as long as they are alive, and I want them to teach their children to do that also.'
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 But be very careful! Do not forget what you have seen God do. Remember those things as long as you are alive. Tell them to your children and your grandchildren.
+\v 10 Tell them about the day that your ancestors stood in the presence of Yahweh our God at Mount Sinai, when he said to me, 'Gather the people together, in order that they can hear what I say. I want them to learn to respect me and honor me for me as long as they are alive, and I want them to teach their children to do that also.'
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 Only pay attention to yourself and carefully guard keep your soul, so that you do not forget the things that your eyes have seen, so that they do not leave your heart for all the days of your life. Instead, make them known to your children and your children’s children—
+\v 10 the day that you stood before Yahweh your God at Horeb, when Yahweh said to me, "Assemble me the people, and I will make them hear my words, that they may learn to fear me all the days that they live on the earth, and that they may teach their children."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:soul|soul]]
+  * [[:ur:obe:other:heart|heart]]
+  * [[:ur:obe:other:know|know, knowledge, make known]]
+  * [[:ur:obe:kt:children|children, child]]
+  * [[ur:obe:kt:Yahweh]]
+  * [[ur:obe:kt:God]]
+  * [[:ur:obe:other:horeb|Horeb]]
+  * [[ur:obe:kt:word]]
+  * [[:ur:obe:kt:fear|fear, afraid]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+    * **Only pay attention to yourself and carefully guard keep your soul** - AT: "Pay careful attention and be sure to keep these things in your minds always" (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+    * **do not forget...do not leave your heart** - These phrases means the same thing and they are combined to emphasize that the people of Israel must remember what they have seen. (See: [[:ur:ta:vol2:translate:figs_doublet]] and [[:ur:ta:vol2:translate:figs_litotes]])
+    * **your eyes have seen** - AT: "you have seen" (See: [[:ur:ta:vol2:translate:figs_synecdoche]])
+    * **Assemble me the people** - "Bring the people to me"
+  
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:deu:04|Deuteronomy Chapter 04 Comprehension Questions]]**
+**[[:ur:bible:notes:deu:04:07|<<]] | [[:ur:bible:notes:deu:04:11|>>]]**
+
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

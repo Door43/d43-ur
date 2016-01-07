@@ -1,0 +1,50 @@
+====== 1 Kings 09:25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 25 Three times each year Solomon \add brought to the temple\add* offerings that were completely burned \add on the altar\add* and offerings to restore fellowship with Yahweh. He also brought incense to be burned in the presence of Yahweh.
+\p And that is how his men finished building the temple.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 25 Three times each year Solomon brought to the temple offerings that the priests burned completely on the altar and offerings to promise friendship with Yahweh. He also brought incense to be burned in the presence of Yahweh.
+\p And that is how his men finished building the temple.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 25 Three times each  year Solomon offered burnt offerings and peace offerings on the altar that he built for Yahweh, burning incense with them, on the altar that was before Yahweh. So he completed the temple and was now using it.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:solomon]]
+  * [[:ur:obe:other:burntoffering]]
+  * [[ur:obe:other:fellowshipoffering]]
+  * [[:ur:obe:other:altar]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:incense]]
+  * [[:ur:obe:kt:temple]]
+
+===== Translation Notes: =====
+
+  * **altar that was before Yahweh** - See how you translated this phrase in [[ur:bible:notes:1ki:08:64|8:64]].
+  * **So he completed the temple** - AT: "So his workers completed the temple" (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ki:09|1 Kings Chapter 09 Comprehension Questions]]**
+**[[:ur:bible:notes:1ki:09:24|<<]] | [[:ur:bible:notes:1ki:09:26|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -9,7 +9,7 @@ Tamar is the name of several women in the Old Testament. It is also the name of 
 
 (See also:  [[:ur:obe:other:amnon]], [[:ur:obe:other:david]], [[:ur:obe:other:judah]])
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names|How to Translate Names]])
 
 ===== Bible References: =====
 

@@ -14,9 +14,9 @@ The term "God the Father" is one way of referring to Yahweh, the one true God.
   * In the phrase "God the Father," it is best to translate "Father" with the same word that the language naturally uses to refer to a human father.
   * The term "Heavenly Father" could be translated by "Father God who lives in Heaven" or "God our Father from Heaven" or "Father who lives in Heaven."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[en:obe:kt:god]], [[:En:obe:kt:holyspirit]], [[:ur:obe:kt:sonofgod]], [[:ur:obe:other:father]], [[:En:obe:kt:jesus]], [[:ur:obe:kt:heaven]])
+(See also: [[ur:obe:kt:god]], [[:En:obe:kt:holyspirit]], [[:ur:obe:kt:sonofgod]], [[:ur:obe:other:father]], [[:En:obe:kt:jesus]], [[:ur:obe:kt:heaven]])
 
 ===== Bible References: =====
 

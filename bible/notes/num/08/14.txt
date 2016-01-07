@@ -1,0 +1,44 @@
+====== Numbers 08:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 This ritual will show that the descendants of Levi are set apart from the other Israelites and that they belong to me.
+\p
+\v 15 After the descendants of Levi have been made acceptable to me, and presented to me like a special offering, they may start to work at the Sacred Tent.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 This ritual will show that the descendants of Levi are set apart from the other Israelites and that they belong to me.
+\p
+\v 15 After the descendants of Levi have been made acceptable to me, and presented to me like a special offering as if they had been lifted up to me, they may start to work at the sacred tent.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 In this way you must separate the Levites from among the people of Israel. The Levites will belong to me.
+\v 15 After that, the Levites must go in to serve in the tent of meeting. You must purify them. You must lift them up to me as an offering.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:peoplegroup]]
+  * [[ur:obe:other:israel]]
+  * [[ur:obe:kt:purify]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:08|Numbers Chapter 08 Comprehension Questions]]**
+**[[:ur:bible:notes:num:08:12|<<]] | [[:ur:bible:notes:num:08:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

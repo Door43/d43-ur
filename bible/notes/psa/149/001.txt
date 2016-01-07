@@ -1,0 +1,56 @@
+====== Psalms 149:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Sing a new song to Yahweh,
+\q2 praise him whenever his faithful people gather together!
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Sing a new song to Yahweh;
+\q2 praise him whenever his faithful people gather together!
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 149
+\p
+\q
+\v 1 Praise Yahweh.
+\q Sing to Yahweh a new song;
+\q sing his praise in the assembly of the faithful ones.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:praise|praise]]
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:assembly|assembly]]
+  * [[:ur:obe:kt:faithful|faithful, faithfulness]]
+
+===== Translation Notes: =====
+
+(See: [[:ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:149|Psalms Chapter 149 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:148:013|<<]] | [[:ur:bible:notes:psa:149:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

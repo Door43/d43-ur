@@ -1,0 +1,59 @@
+====== Psalms 018:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I love you, the one who enables me to be strong.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I love you, the one who enables me to be strong.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 18
+\d For the Chief Musician. A psalm of David, the servant of Yahweh, when he sang to Yahweh the words of this song on 
+the day that Yahweh rescued him from the hand of all his enemies and from the hand of Saul. He sang:
+\b
+\q
+\v 1 I love you, Yahweh, my strength.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:psalm]]
+  * [[:ur:obe:other:david]]
+  * [[:ur:obe:other:servant]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:kt:word]]
+  * [[:ur:obe:other:hand]]
+  * [[:ur:obe:other:saul]]
+  * [[:ur:obe:kt:love]]
+
+===== Translation Notes: =====
+
+See: [[ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]] 
+
+  * **A psalm of David** - AT: "A song David composed"
+  * **he sang to Yahweh the words of this song** - AT: "he sang this song to Yahweh" (See:[[:ur:ta:vol2:translate:figs_synecdoche]])
+  * **on the day that Yahweh rescued him** - "after Yahweh had rescued him"
+  * **him from the hand** - "from Saul's power" (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+ 
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:018|Psalms Chapter 018 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:017:015|<<]] | [[:ur:bible:notes:psa:018:002|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

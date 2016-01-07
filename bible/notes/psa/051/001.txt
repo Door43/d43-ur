@@ -1,0 +1,82 @@
+====== Psalms 051:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 O God, act mercifully toward me,
+\q2 because you love me faithfully;
+\q2 because you are very merciful,
+\q2 erase \add the record of\add* the ways that I disobeyed you!
+\q1
+\v 2 Make me pure from the wrong things that I have done;
+\q2 make me clean from \add the guilt of\add* my sin.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 O God, act mercifully toward me
+\q2 because you love me faithfully;
+\q2 because you are very merciful,
+\q2 erase the record of the ways that I disobeyed you!
+\q1
+\v 2 Make me pure from the wrong things that I have done;
+\q2 make me clean from the guilt of my sin.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 51
+\d For the chief musician. A psalm of David; when Nathan the prophet came to him after he had gone in to Bathsheba.
+\b
+\q
+\v 1 Have mercy on me, God, because of your covenant faithfulness;
+\q for the sake of the multitude of your merciful actions, blot out my transgressions.
+\q
+\v 2 Wash me thoroughly from my iniquity
+\q and cleanse me from my sin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:chief]]
+  * [[:ur:obe:other:psalm|psalm]]
+  * [[:ur:obe:other:david|David]]
+  * [[:ur:obe:other:nathan|Nathan]]
+  * [[:ur:obe:kt:prophet|prophet, prophecy, prophesy, seer]]
+  * [[:ur:obe:other:bathsheba|Bathsheba]]
+  * [[:ur:obe:kt:mercy|mercy, merciful]]
+  * [[:ur:obe:kt:god|God]]
+  * [[:ur:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[ur:obe:kt:blotout]]
+  * [[:ur:obe:kt:transgression|transgress, transgression]]
+  * [[:ur:obe:kt:iniquity|iniquity]]
+  * [[ur:obe:kt:clean]]
+  * [[:ur:obe:kt:sin|sin, sinful, sinner, sinning]]
+===== Translation Notes: =====
+
+See: [[ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]]
+
+This psalm is a prayer for forgiveness.
+
+  * **For the chief musician** - See how you translated this in [[ur:bible:notes:psa:004:001|4:1]].
+  * **A psalm of David** - This can also be written as a sentence. AT: “This is a psalm of [composer]” or “This is a psalm that David wrote”
+  * **had gone in to Bathsheba** - This refers to having sex. AT: "he had committed adultery with Bathsheba" (See: [[ur:ta:vol2:translate:figs_euphemism]])
+  * **because of your covenant faithfulness; for the sake of the multitude of your merciful actions**  - These two phrases have similar meanings and are used together for emphasis. AT: "because of your covenant love and many merciful actions" (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **wash me thoroughly from my iniquity and cleanse me from my sin**  - These two phrases have basically the same meaning and are used together for emphasis. (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **thoroughly** - "completely"
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:051|Psalms Chapter 051 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:050:023|<<]] | [[:ur:bible:notes:psa:051:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

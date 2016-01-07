@@ -2,13 +2,17 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Mount Hermon is the name of the tallest mountain in Israel.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * It is located north of the Sea of Galilee, at the very northern border between Israel and Syria.
+  * Other names given to Mount Hermon by other people groups were "Mount Sirion" and "Mount Senir."
+  * Mount Hermon has three major peaks.
 
-(See also: other)
+
+
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names]])
+
+(See also: [[:En:obe:other:israel]], [[:En:obe:other:seaofgalilee]])
 
 ===== Bible References: =====
 
@@ -18,4 +22,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>create psa042 ktlink}}
+{{tag>publish}}

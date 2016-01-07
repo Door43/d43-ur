@@ -1,0 +1,65 @@
+====== Nehemiah 11:19-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 The men who guarded the temple gates \add who settled in Jerusalem\add* were Akkub and Talmon. Altogether, there were 172 of them and their relatives who settled in Jerusalem.
+\b
+\p
+\v 20 The other Israelite people including descendants of Levi and priests lived on their own property in other towns and cities in Judea.
+\p
+\v 21 But the temple workers lived on Ophel \add Hill in Jerusalem\add*. They were supervised by Ziha and Gishpa.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 The gatekeepers who settled in Jerusalem were Akkub and Talmon. Altogether, there were 172 of them and their relatives who settled in Jerusalem.
+\b
+\p
+\v 20 The other Israelite people including descendants of Levi and priests lived on their own property in other towns and cities in Judea.
+\p
+\v 21 But the temple workers lived in Ophel in Jerusalem. They were supervised by Ziha and Gishpa.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 19 The gatekeepers: Akkub, Talmon, and their associates, who kept watch at the gates, 172 men.
+\v 20 And the remainder of Israel and of the priests and the Levites were in all the towns of Judah, everyone lived on his own inherited property.
+\v 21 The temple workers lived in Ophel, and Ziha and Gishpa were in charge of them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:watch|watch]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:ur:obe:kt:priest|priest, priesthood]]
+  * [[:ur:obe:other:levite|Levite, Levi]]
+  * [[:ur:obe:other:kingdomofjudah|Judah, kingdom of Judah]]
+  * [[:ur:obe:kt:life|life, live, living, alive]]
+  * [[:ur:obe:kt:inherit|inherit, inheritance]]
+  * [[:ur:obe:kt:temple|temple]]
+
+===== Translation Notes: =====
+
+  * **gatekeepers**  - See how you translated this in [[:ur:bible:notes:neh:07:01|7:1]]
+  * **Akkub...Talmon...Ziha...Gishpa** - These are male names.  (See [[ur:ta:vol1:translate:translate_names]])
+  * **their associates** - "their brothers"
+  * **172 men** - See how you translated numbers in [[ur:bible:notes:neh:07:11|07:11-14]].
+  * **The temple workers lived in Ophel, and Ziha and Gishpa were in charge of them**- "The temple workers lived in Ophel. Ziha and Gishpa were over the temple workers."
+  * **Ophel** - This is the name of a place. (See: [[ur:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:neh:11|Nehemiah Chapter 11 Comprehension Questions]]**
+**[[:ur:bible:notes:neh:11:17|<<]] | [[:ur:bible:notes:neh:11:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

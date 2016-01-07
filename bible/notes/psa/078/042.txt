@@ -1,0 +1,58 @@
+====== Psalms 078:42-43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 They forgot about his great power,
+\q2 and they forgot\f + \ft Or: did not think \f* about the time when he rescued them from their enemies.
+\q1
+\v 43 They forgot about when he performed many miracles
+\q2 in the area near Zoan \add city\add* in Egypt.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 They forgot about his great power,
+\q2 and they forgot about the time when he rescued them from their enemies.
+\q1
+\v 43 They forgot about when he performed many miracles
+\q2 in the area near the city of Zoan in Egypt.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 42 They did not think about his power,
+\q how he had rescued them from the enemy
+\q
+\v 43 when he performed his terrifying signs in Egypt
+\q and his wonders in the region of Zoan.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:power|power]]
+  * [[:ur:obe:other:terror]]
+  * [[:ur:obe:kt:sign|sign (proof, reminder)]]
+  * [[:ur:obe:other:egypt|Egypt, Egyptian]]
+  * [[:ur:obe:kt:miracle]]
+
+===== Translation Notes: =====
+
+The writer speaks of how God had rescued the Israelites.
+
+  * **Zoan**  - a city in Egypt (See: [[ur:ta:vol1:translate:translate_names]])
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:078|Psalms Chapter 078 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:078:039|<<]] | [[:ur:bible:notes:psa:078:044|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

@@ -1,0 +1,3 @@
+~~NOCACHE~~
+
+<nspages ur:bible:questions:comprehension:zep -title -naturalOrder -simpleList -exclude:home -textPages="Zephaniah translationQuestions">

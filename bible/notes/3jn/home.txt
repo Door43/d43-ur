@@ -1,0 +1,8 @@
+===== 3 John Links =====
+
+  * [[:ur:ulb:ep:64-3jn.usfm|Full ULB text of 3 John]]
+  * [[:ur:udb:ep:64-3jn.usfm|Full UDB text of 3 John]]
+  * [[:ur:bible:admin-reports:notes-team-admin:3jn|Notes: 3 John Team Admin]]
+  * [[:ur:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages ur:bible:notes:3jn:01 -title -naturalOrder -exclude:home -textPages="3 John" -nbCol=2>

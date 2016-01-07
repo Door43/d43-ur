@@ -1,0 +1,65 @@
+====== Leviticus 08:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then he\f + \ft Or: I \f* brought the bull for the offering to cause people to become acceptable to God. Then Aaron and his sons put their hands on the bull's head.
+\v 15 Then Moses\f + \ft Or: I \f* slaughtered the bull, \add caught some of its blood in a bowl\add*, and with his\f + \ft Or: my \f* finger put some of it on the projections at the corners of the altar, to purify the altar. He\f + \ft Or: I \f* poured the rest of the blood at the base of the altar. By doing that, he\f + \ft Or: I \f* caused it to be a suitable place for burning sacrifices for sin.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then he brought the bull for the offering to cause people to become acceptable to God. Then Aaron and his sons put their hands on the bull's head.
+\v 15 Then Moses slaughtered the bull, caught some of its blood in a bowl, and with his finger put some of it on the projections at the corners of the altar, to purify the altar. He poured the rest of the blood at the base of the altar. By doing that, he caused it to be a suitable place for burning sacrifices for sin.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 14 Moses brought the bull for the sin offering, and Aaron and his sons laid their hands on the head of the bull that they had brought for the sin offering.
+\v 15 He killed it, and he took the blood and put it on the horns of the altar with his finger, purified the altar, poured out the blood at the base of the altar, and set it apart for God in order to make atonement for it.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:moses]]
+  * [[ur:obe:other:cow]]
+  * [[ur:obe:other:sinoffering]]
+  * [[ur:obe:other:aaron]]
+  * [[ur:obe:kt:son]]
+  * [[:ur:obe:kt:blood]]
+  * [[ur:obe:other:trumpet]]
+  * [[ur:obe:other:altar]]
+  * [[:ur:obe:kt:purify]]
+  * [[:ur:obe:kt:setapart]]
+  * [[ur:obe:kt:god]]
+  * [[:ur:obe:kt:atonement]]
+ 
+
+===== Translation Notes: =====
+
+    * **laid their hands on** - This is a sign of dedicating the animal to God so the animal will die for their sin instead of them.
+    * **horns of the altar** - See how this was translated in [[ur:bible:notes:lev:04:06|4:7]]. This refers to the corners of the altar which are shaped like the horns of an ox.
+    * **set it apart for God** - "set the altar apart for God"
+
+  
+===== Links: =====
+
+  * **[[ur:bible:questions:comprehension:lev:08|Leviticus Chapter 08 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/lev/08/12|<<]] | [[en/bible/notes/lev/08/16|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>publish}}
+
+~~NOCACHE~~

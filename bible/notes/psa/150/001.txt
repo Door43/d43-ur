@@ -1,0 +1,64 @@
+====== Psalms 150:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Praise God in his sacred temple!
+\q2 And praise him in his fortress in heaven!
+\q1
+\v 2 Praise him for the mighty deeds that he has performed;
+\q2 praise him for his being extremely great!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Praise God in his temple!
+\q2 Praise him who is in his fortress in heaven!
+\q1
+\v 2 Praise him for the mighty deeds that he has performed;
+\q2 praise him because he is very great!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 150
+\p
+\q
+\v 1 Praise Yahweh.
+\q Praise God in his sanctuary;
+\q praise him in the mighty heavens.
+\q
+\v 2 Praise him for his mighty acts;
+\q praise him for his surpassing greatness.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:praise|praise]]
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:sanctuary]]
+  * [[:ur:obe:other:mighty]]
+  * [[:ur:obe:kt:heaven]]
+
+===== Translation Notes: =====
+
+(See: [[:ur:ta:workbench:translate:poetry|Translating Poetry]] and [[:ur:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:150|Psalms Chapter 150 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:149:008|<<]] | [[:ur:bible:notes:psa:150:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

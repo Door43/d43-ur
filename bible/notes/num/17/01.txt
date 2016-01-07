@@ -1,0 +1,48 @@
+====== Numbers 17:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then Yahweh said to Moses\f + \ft Or: me \f*,
+\v 2 "Tell the Israelite people to bring to you twelve walking sticks. They should bring one from each of the leaders of the twelve tribes. You should carve each leader's name on his stick.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then Yahweh said to Moses,
+\v 2 "Tell the Israelite people to bring to you twelve walking sticks. They should bring one from each of the leaders of the twelve tribes. You should carve each leader's name on his stick.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 17
+\p
+\v 1 Yahweh spoke to Moses. He said,
+\v 2 "Speak to the people of Israel. Take staffs from them, one for each of the ancestors’ tribe. Take twelve staffs, one from each leader chosen from each tribe. Write each man’s name on his staff.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:other:moses|Moses]]
+  * [[:ur:obe:other:peoplegroup|people group, people]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:ur:obe:other:staff|staff]]
+  * [[:ur:obe:other:tribe|tribe]]
+  * [[:ur:obe:kt:elect|chosen one, chosen people, Chosen One, the elect]]
+  * [[:ur:obe:kt:name|name]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:17|Numbers Chapter 17 Comprehension Questions]]**
+**[[:ur:bible:notes:num:16:49|<<]] | [[:ur:bible:notes:num:17:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

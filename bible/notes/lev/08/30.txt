@@ -1,0 +1,54 @@
+====== Leviticus 08:30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 Then Moses\f + \ft Or: I \f* took some of the olive oil for anointing \add Aaron and his sons\add*, and some of the blood that was on the altar and sprinkled it on Aaron and his sons and on their clothes. By doing that, he\f + \ft Or: I \f* consecrated Aaron and his sons and their clothes.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 Then Moses took some of the olive oil for anointing Aaron and his sons, and some of the blood that was on the altar and sprinkled it on Aaron and his sons and on their clothes. By doing that, he set apart Aaron to be priest, together with his sons and their clothes.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 Moses took some of the anointing oil and the blood that was on the altar; he sprinkled these on Aaron, on his clothes, on his sons, and on his sons’ clothes with him. In this way he consecrated Aaron and his clothes, and his sons and their clothes.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:moses]]
+  * [[:ur:obe:kt:anoint]]
+  * [[:ur:obe:other:oil]]
+  * [[ur:obe:kt:blood]]
+  * [[ur:obe:other:altar]]
+  * [[ur:obe:other:aaron]]
+  * [[ur:obe:kt:clothed]]
+  * [[ur:obe:kt:son]]
+  * [[ur:obe:kt:consecrate]]
+ 
+
+===== Translation Notes: =====
+
+There are no translation notes for this verse.
+  
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:lev:08|Leviticus Chapter 08 Comprehension Questions]]**
+**[[:ur:bible:notes:lev:08:28|<<]] | [[:ur:bible:notes:lev:08:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

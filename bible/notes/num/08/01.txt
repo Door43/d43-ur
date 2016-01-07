@@ -1,0 +1,50 @@
+====== Numbers 08:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to Moses\f + \ft Or: me \f*,
+\v 2 "Tell Aaron to put the seven lamps on the lampstand and place them in such a way that they shine toward the front of the lampstand."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to Moses,
+\v 2 "Tell Aaron to put the seven lamps on the lampstand and place them in such a way that they shine toward the front of the lampstand."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 8
+\p
+\v 1 Yahweh spoke to Moses. He said,
+\v 2 "Speak to Aaron. Say to him, 'The seven lamps must give light in front of the lampstand when you light them.' "
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:moses]]
+  * [[:ur:obe:other:aaron]]
+  * [[ur:obe:other:lamp]]
+  * [[:ur:obe:kt:light]]
+  * [[:ur:obe:other:lampstand]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:08|Numbers Chapter 08 Comprehension Questions]]**
+**[[:ur:bible:notes:num:07:89|<<]] | [[:ur:bible:notes:num:08:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

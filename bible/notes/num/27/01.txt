@@ -1,0 +1,47 @@
+====== Numbers 27:1 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 One day the five daughters of Zelophehad came \add to Moses\f + \ft Or: me \f*\add*. They were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 One day the five daughters of Zelophehad came to Moses. They were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 27
+\p
+\v 1 Then to Moses came the daughters of Zelophehad, son of Hepher, son of Gilead, son of Machir, son of Manasseh, of the clans of Manasseh son of Joseph. These were the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:moses|Moses]]
+  * [[:ur:obe:other:gilead|Gilead]]
+  * [[:ur:obe:other:manasseh|Manasseh]]
+  * [[:ur:obe:other:josephot|Joseph (OT)]]
+  * [[:ur:obe:other:tirzah|Tirzah]]
+
+===== Translation Notes: =====
+
+  * **Zelophehad **- This is a man's name. (See: Translate Notes)
+  * **Hepher **  -This is a man's name. (See: Translate Notes)
+  * **Machir **- This is a man's name. (See: Translate Notes)
+  * **Mahlah**  -This is a woman's name. ( See: Translate Notes)
+  * **Noah **  - This is a woman's name. (See: Translate Notes)
+  * **Holglah **  - This is a woman's name. ( See: Translate Notes)
+  * **Miloah **  - This is a woman's name. (See: Translate Notes)
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:27|Numbers Chapter 27 Comprehension Questions]]**
+**[[:ur:bible:notes:num:26:65|<<]] | [[:ur:bible:notes:num:27:02|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

@@ -1,0 +1,65 @@
+====== Psalms 119:77-78 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 77 Act mercifully to me in order that I may \add continue to\add* live,
+\q2 because I am delighted with your laws.
+\q1
+\v 78 Cause the proud people who falsely accuse me to be ashamed,
+\q2 but as for me, I will continue meditating on\f + \ft Or: thinking about \f* your principles of behavior\f + \ft Or: what you have declared that we should do \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 77 Act mercifully to me so that I may continue to live
+\q2 because I am delighted with your laws.
+\q1
+\v 78 Cause the proud people who falsely accuse me to be shamed;
+\q2 but as for me, I will continue meditating on what you have commanded I should do.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 77 Show me compassion so that I may live,
+\q for your law is my delight.
+\q
+\v 78 Let the proud be put to shame,
+\q for they have slandered me;
+\q but I will meditate on your instructions.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:compassion|compassion, compassionate]]
+  * [[:ur:obe:kt:life|life, live, living, alive]]
+  * [[:ur:obe:kt:lawofmoses|Law, Law of Moses, God's Law]]
+  * [[:ur:obe:other:delight]]
+  * [[:ur:obe:other:proud|proud, pride, prideful]]
+  * [[:ur:obe:other:shame|shame, shameful, ashamed]]
+  * [[:ur:obe:other:slander|slander, slanderer]]
+  * [[:ur:obe:other:meditate|meditate]]
+
+===== Translation Notes: =====
+
+There are no notes for this passage.
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:119|Psalms Chapter 119 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:119:075|<<]] | [[:ur:bible:notes:psa:119:079|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

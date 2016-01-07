@@ -1,0 +1,82 @@
+====== Psalms 087:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 The city that Yahweh established is on his sacred hill.
+\q1
+\v 2 He loves that city, Jerusalem, more than he loves any other city in Israel.
+\q1
+\v 3 \add You people in\add* \f + \ft apostrophe \f* the city that God owns\f + \ft Or: lives in \f*,
+\q2 people say wonderful things about your city.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 The city that Yahweh established is on his sacred hills.
+\q1
+\v 2 He loves that city, Jerusalem, more than he loves any other place in Israel.
+\q1
+\v 3 You people in Jerusalem,
+\q2 other people say wonderful things about your city.
+
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 87
+\d A psalm of the sons of Korah; a song.
+\b
+\q
+\v 1 The Lord's city is established on the holy mountains.
+\q
+\v 2 Yahweh loves the gates of Zion
+\q more than all the tents of Jacob.
+\q
+\v 3 Glorious things are said of you, city of God. 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:psalm]]
+  * [[:ur:obe:kt:son]]
+  * [[:ur:obe:other:korah]]
+  * [[:ur:obe:kt:lordyahweh]]
+  * [[:ur:obe:kt:holy]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:kt:love]]
+  * [[:ur:obe:kt:gate]]
+  * [[:ur:obe:other:zion]]
+  * [[:ur:obe:other:tent]]
+  * [[:ur:obe:other:jacob]]
+  * [[:ur:obe:kt:glory]]
+  * [[:ur:obe:kt:god]]
+  * [[:ur:obe:other:selah]]
+
+===== Translation Notes: =====
+
+This is a psalm of the sons of Korah, which is a song. See: [[:ur:ta:workbench:translate:poetry|Translating Poetry]] and [[:ur:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **The Lord's city**  - This refers to Jerusalem.
+  * **established**  - The Lord built this city on the holy mountain. (See: [[:ur:ta:vol2:translate:figs_activepassive]])
+  * **gates of Zion **  - "city of Jerusalem" (See: [[:ur:ta:vol2:translate:figs_synecdoche]])
+  * **tents of Jacob.**  - The people lived in tents while they wandered in the desert. Now the writer uses that idea to describe where they live. AT: "dwelling places of the Israelites." (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:087|Psalms Chapter 087 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:086:015|<<]] | [[:ur:bible:notes:psa:087:004|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

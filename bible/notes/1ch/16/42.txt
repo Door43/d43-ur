@@ -1,0 +1,46 @@
+====== 1 Chronicles 16:42-43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 Heman and Jeduthun were appointed to play the trumpets and cymbals when \add the other descendants of Levi sang sacred songs\add*. The sons of Jeduthun were appointed to guard the gates \add of the Sacred Tent\add*.
+\p
+\v 43 Then all the people left. They all returned to their homes, and David returned home to \add ask Yahweh to\add* bless his family.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 Heman and Jeduthun were appointed to play the trumpets and cymbals when the other descendants of Levi sang sacred songs. The sons of Jeduthun were appointed to guard the gates of the sacred tent.
+\p
+\v 43 Then all the people left. They all returned to their homes, and David returned home to ask Yahweh to bless his family.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 42  Heman and Jeduthun were in charge of those who played trumpets, cymbals, and the other instruments for the sacred music. The sons of Jeduthun guarded the gate.
+\v 43 Then all the people returned to their homes, and David returned to bless his own household.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:trumpet|trumpet]]
+  * [[:ur:obe:other:sacred|sacred]]
+  * [[:ur:obe:other:peoplegroup|people group, people]]
+  * [[:ur:obe:kt:bless|bless, blessed, blessing]]
+  * [[:ur:obe:other:household|household]]
+
+===== Translation Notes: =====
+
+  * **Heman, Jeduthun**  - These are the names of men. (See: [[
+en:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ch:16|1 Chronicles Chapter 16 Comprehension Questions]]**
+**[[:ur:bible:notes:1ch:16:40|<<]] | [[:ur:bible:notes:1ch:17:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

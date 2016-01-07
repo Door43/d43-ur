@@ -1,0 +1,62 @@
+====== Micah 03:8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 8 But as for me, I am full of \add God's\add* power,
+\q2 power from the Spirit of Yahweh.
+\q1 I am courageous and strong
+\q2 to declare to the Israelite people \f + \ft metonymy, doublet \f*
+\q2 that they have sinned and rebelled \add against Yahweh\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 8 But as for me, I am full of God's power,
+\q2 power from the Spirit of Yahweh.
+\q1 I am just and strong
+\q2 and declare to the Israelite people 
+\q2 that they have sinned and rebelled against Yahweh.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 But as for me, I am full of power by the Spirit of Yahweh,
+\q and am full of justice and might,
+\q to declare to Jacob his transgression,
+\q and to Israel his sin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:power|power]]
+  * [[:ur:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]]
+  * [[:ur:obe:kt:justice|just, justice, justly]]
+  * [[:ur:obe:other:mighty|mighty, might]]
+  * [[:ur:obe:other:declare|declare, declaration]]
+  * [[:ur:obe:other:jacob|Jacob, Israel]]
+  * [[:ur:obe:kt:transgression|transgress, transgression]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:ur:obe:kt:sin|sin, sinful, sinner, sinning]]
+
+===== Translation Notes: =====
+
+  * **But as for Me**  - The "me" here refers to Micah, a true prophet, setting himself apart from the false prophets.
+  * **I am full of power by the Spirit of Yahweh, and am full of justice and might**  - The Spirit of Yahweh has chosen to give Micah power, justice, and might in a strong, special way. AT: "the Spirit of Yahweh has filled me with power, justice, and might" or  "the Spirit of Yahweh has granted me power, justice, and might"
+  * **to declare to Jacob his transgression, and to Israel his sin**  - Both of these phrases mean the same thing and are combined for emphasis. The true prophet denounces sin. (See: [[:ur:ta:vol2:translate:figs_parallelism|Parallelism]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:mic:03|Micah Chapter 03 Comprehension Questions]]**
+**[[:ur:bible:notes:mic:03:05|<<]] | [[:ur:bible:notes:mic:03:09|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

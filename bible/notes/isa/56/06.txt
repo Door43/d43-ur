@@ -1,0 +1,90 @@
+====== Isaiah 56:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 I will also bless those who are not Israelites,
+\q2 who join themselves to\f + \ft Or: believe in \f* me,
+\q1 and who serve me and worship and love me,
+\q2 and who obey my laws about the Sabbath,
+\q1 and who faithfully obey all \add the other laws of\add* the agreement that I \add made with the Israelite people\add*.
+\q1
+\v 7 I will bring them to my sacred hill \add in Jerusalem\add*,
+\q2 I will cause them to be very joyful in my temple where people pray to me,
+\q1 and I will accept the sacrifices that they completely burn \add on my altar\add* and other sacrifices that they offer.
+\q2 I will do those things for them because I want my temple to be a building where people of \bd all\bd* nations pray to me.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 I will also bless those who are not Israelites
+\q2 who join themselves to me,
+\q1 who serve me and worship and love me,
+\q2 who obey my laws about the Sabbath,
+\q1 and who faithfully obey all the other laws of the covenant that I made with the Israelite people.
+\q1
+\v 7 I will bring them to my sacred hill in Jerusalem,
+\q2 I will cause them to be very joyful in my temple where people pray to me,
+\q1 and I will accept the sacrifices that they burn on my altar and other sacrifices that they offer.
+\q2 I will do those things for them because I want my temple to be a building where people of all nations pray to me.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\q1
+\v 6 Also foreigners who join themselves to Yahweh, 
+\q1 to serve him, and who love the name of Yahweh, to worship him,
+\q1 every one who  observes the Sabbath and who keeps from defiling it, and who holds fast my covenant—
+\q1
+\v 7 These I will bring to my holy mountain and make them joyful in my house of prayer; 
+\q1 their burnt offerings and their sacrifices will be accepted on my altar,
+\q1 for my house will be called a house of prayer for all nations.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:foreigner]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:serve]]
+  * [[:ur:obe:kt:love]]
+  * [[:ur:obe:kt:name]]
+  * [[:ur:obe:kt:worship]]
+  * [[:ur:obe:kt:sabbath]]
+  * [[:ur:obe:other:defile]]
+  * [[:ur:obe:kt:covenant]]
+  * [[:ur:obe:kt:holy]]
+  * [[:ur:obe:kt:joy]]
+  * [[ur:obe:kt:houseofgod]]
+  * [[:ur:obe:other:pray]]
+  * [[:ur:obe:other:burntoffering]]
+  * [[:ur:obe:other:sacrifice]]
+  * [[:ur:obe:other:altar]]
+  * [[:ur:obe:other:nation]]
+
+===== Translation Notes: =====
+
+  * **who join themselves to Yahweh **  - This refers to non-Hebrews who have joined Yahweh's people.
+  * **who love the name of Yahweh**  - AT: "who love Yahweh" (See: [[:ur:ta:vol2:translate:figs_metonymy|Metonymy]])
+  * **holy mountain**  - See how you translated this in [[:ur:bible:notes:isa:11:08|11:9]].
+  * **will be accepted on my altar**  - AT: "I will accept on my altar" (See: [[:ur:ta:vol2:translate:figs_activepassive|Active or Passive]])
+  * **my house will be called a house of prayer**  - AT: "my house will be a house of prayer"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:isa:56|Isaiah Chapter 56 Comprehension Questions]]**
+**[[:ur:bible:notes:isa:56:04|<<]] | [[:ur:bible:notes:isa:56:08|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

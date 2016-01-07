@@ -1,0 +1,51 @@
+====== Numbers 34:27-29 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 Yahweh commanded that all those were the men who should divide the Canaan region among the Israelite people.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 From the tribe of Asher appoint Shelomi's son Ahihud.
+\li1
+\v 28 From the tribe of Naphtali appoint Ammihud's son Pedahel."
+\p
+\v 29 Yahweh commanded that all those were the men who should divide the region of Canaan among the Israelite people.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 27 From the tribe of the descendants of Asher a leader, Ahihud son of Shelomi.
+\q1
+\v 28 From the tribe of the descendants of Naphtali a leader, Pedahel son of Ammihud."
+\m
+\v 29 Yahweh commanded these men to divide the land of Canaan and to give each of the tribes of Israel their share.
+</usfm>
+
+===== Important Terms: =====
+
+  * tribe
+  * [[:ur:obe:other:asher|Asher]]
+  * [[:ur:obe:other:naphtali|Naphtali]]
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:other:command|command, to command, commandment]]
+  * [[:ur:obe:other:canaan|Canaan, Canaanite]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+
+===== Translation Notes: =====
+
+See Translate Names
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:34|Numbers Chapter 34 Comprehension Questions]]**
+**[[:ur:bible:notes:num:34:24|<<]] | [[:ur:bible:notes:num:35:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

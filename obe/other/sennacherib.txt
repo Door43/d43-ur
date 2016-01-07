@@ -1,14 +1,15 @@
 ====== Sennacherib ======
 
 ===== Facts: =====
+A powerful king of Assyria. 
 
-Text
-  * bullet
-  * bullet
+  * He is known for his wars against Babylon and the kingdom of Judah. 
+  * In the Bible the books of 1 and 2 Kings  and 1 and 2 Chronicles records his reign. 
+  * He is known for making the city of Nineveh great. 
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names]])
 
-(See also: other)
+(See also: [[:En:obe:other:assyria]], [[:En:obe:other:babylon]], [[:En:obe:other:kingdomofjudah]], [[:ur:obe:other:nineveh]])
 
 ===== Bible References: =====
 
@@ -18,4 +19,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>create 2ch32 ktlink}}
+{{tag>review 2ch32 ktlink}}

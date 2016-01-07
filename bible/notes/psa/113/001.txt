@@ -1,0 +1,70 @@
+====== Psalms 113:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 You people who serve Yahweh, praise him!
+\q1 Praise him\f + \ft Or: his name \f*!
+\q1
+\v 2 Yahweh should be praised now and forever!
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 You people who serve Yahweh, praise him!
+\q1 Praise him!
+\q1
+\v 2 Everyone should praise Yahweh now and forever!
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 113
+\p
+\q
+\v 1 Praise Yahweh.
+\q Praise him, you servants of Yahweh;
+\q praise the name of Yahweh.
+\q
+\v 2 Blessed be the name of Yahweh,
+\q both now and forevermore.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:praise]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:servant]]
+  * [[:ur:obe:kt:name]]
+  * [[:ur:obe:kt:bless]]
+  * [[:ur:obe:kt:forever]]
+ 
+
+===== Translation Notes: =====
+
+This psalm is a song of praise.\\
+See: [[ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]]
+  * **Blessed be the name of Yahweh** - "Bless the name of Yahweh" 
+ 
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:113|Psalms Chapter 113 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:112:010|<<]] | [[:ur:bible:notes:psa:113:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

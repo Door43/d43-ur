@@ -1,0 +1,49 @@
+====== 1 Kings 09:3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh said to him,
+\pi "I heard what you prayed and what you pleaded for me to do. I have dedicated\f + \ft Or: set apart \f* this temple which your \add workers\add* have built to be the place where people will worship me \f + \ft metonymy \f* forever. I \f + \ft synecdoche \f* will always watch over it and protect \f + \ft doublet \f* it.
+\pi
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh said to him,
+\pi "I heard what you prayed and what you pleaded for me to do. I have set this house apart for myself, for me to be present in it forever.
+
+
+\pi
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 3 And Yahweh said to him, "I have heard your prayer and your request that you have made before me. I have consecrated this house which you have built, to put my name there forever, and my eyes and my heart will be there for all time.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:pray]]
+  * [[:ur:obe:kt:consecrate]]
+  * [[:ur:obe:kt:name]]
+  * [[:ur:obe:kt:forever]]
+  * [[:ur:obe:other:heart]]
+
+===== Translation Notes: =====
+
+  * **to put my name there forever** - AT: "to dwell there and to claim possession of it forever." (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+  * **my eyes and my heart will be there** - AT: "I will protect and care for it" (See: [[:ur:ta:vol2:translate:figs_synecdoche]]) 
+  * **my eyes and my heart** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:ur:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ki:09|1 Kings Chapter 09 Comprehension Questions]]**
+**[[:ur:bible:notes:1ki:09:01|<<]] | [[:ur:bible:notes:1ki:09:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

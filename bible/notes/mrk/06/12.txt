@@ -1,0 +1,56 @@
+====== Mark 06:12-13 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 12 \add So\add* after the disciples went out \add to various towns\add*, they were preaching that people should stop their sinful behavior.
+\v 13 They were also expelling many evil spirits\add from people\add*, and they were anointing many sick people with \add olive\add* oil and healing them.
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 12 So after the disciples went out to various towns, they were preaching that people should be sorry that they have sinned, and decide to stop it, so that God may forgive them.
+\v 13 They were also forcing many evil spirits out from people, and they were anointing many sick people with olive oil and healing them.
+
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 12 They went out and proclaimed that people should turn away from their sins.
+\v 13 They cast out many demons, and anointed with oil and healed many sick people.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:proclaim]]
+  * [[:ur:obe:kt:turn]]
+  * [[:ur:obe:kt:sin]]
+  * [[:ur:obe:other:castout]]
+  * [[:ur:obe:kt:demon]]
+  * [[:ur:obe:kt:anoint]]
+  * [[:ur:obe:other:oil]]
+  * [[:ur:obe:other:heal]]
+
+===== Translation Notes: =====
+
+===== Links: =====
+
+  * **[[ur:bible:questions:comprehension:mrk:06|Mark Chapter 06 Comprehension Questions]]**
+**[[:ur:bible:notes:mrk:06:10|<<]] | [[:ur:bible:notes:mrk:06:14|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

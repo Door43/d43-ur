@@ -1,0 +1,46 @@
+====== Numbers 06:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Those are the regulations about the offerings that Nazir-men solemnly promise to bring to me to end their time of being dedicated to me. They must bring these offerings, but if they want to, they may bring additional offerings. And they must do everything that they solemnly promised to do when they dedicated themselves to me."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Those are the regulations about the offerings that Nazir solemnly promise to bring to me to end their time of being dedicated to me. They must bring these offerings, but if they want to, they may bring additional offerings. And they must do everything that they solemnly promised to do when they dedicated themselves to me."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 21 This is the law for the Nazirite who vows his offering to Yahweh for his separation. Whatever else he may give, he must keep the obligations of the vow he has taken, to keep the promise indicated by the law for the Nazirite.'"
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:law]]
+  * [[ur:obe:kt:vow]]
+  * [[:ur:obe:kt:promise]]
+
+===== Translation Notes: =====
+
+  * **he must keep the obligations of the vow he has taken, to keep the promise indicated by the law for the Nazirite** - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **the promise indicated by the law for the Nazirite** - AT: "the promise that the law for the Nazirite indicates" (See: [[:ur:ta:vol2:translate:figs_activepassive]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:06|Numbers Chapter 06 Comprehension Questions]]**
+**[[:ur:bible:notes:num:06:19|<<]] | [[:ur:bible:notes:num:06:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -1,0 +1,54 @@
+====== 2 Chronicles 28:19-21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 Yahweh \add allowed those things to happen in order to\add* humble king Ahaz, because he had encouraged the people of Judah to do wicked things and had disobeyed Yahweh very much.
+\v 20 Tiglath-Pileser, the king of Assyria, sent \add his army\add* \add saying that they would\add* help Ahaz, but instead of helping him, they caused him to experience trouble.
+\v 21 Ahaz's \add soldiers\add* took some of the \add valuable\add* things from the temple and from the king's palace and from other leaders of Judah, and sent them to the king of Assyria \add to pay him to help them\add*, but the king of Assyria refused to help Ahaz.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 Yahweh allowed those things to happen in order to humble King Ahaz, because he had encouraged the people of Judah to do wicked things and had disobeyed Yahweh very much.
+\v 20 Tiglath Pileser, the king of Assyria, sent his army saying that they would help Ahaz, but instead of helping him, they caused him  trouble.
+\v 21 Ahaz's soldiers took some of the valuable things from the temple and from the king's palace and from other leaders of Judah, and sent them to the king of Assyria to pay him to help them, but the king of Assyria refused to help Ahaz.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 For Yahweh brought Judah low because of Ahaz, king of Israel; for he had acted wickedly in Judah and had sinned against Yahweh very heavily.
+\v 20 Tilgath Pileser, king of Assyria, came to him and troubled him instead of strengthening him.
+\v 21 For Ahaz plundered the house of Yahweh and the houses of the king and the leaders, to give the valuable things to the kings of Assyria—but this did not benefit him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:other:kingdomofjudah]]
+  * [[:ur:obe:other:ahaz|Ahaz]]
+  * [[:ur:obe:other:kingdomofisrael]]
+  * [[:ur:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:ur:obe:kt:sin|sin, sinful, sinner, sinning]]
+  * [[:ur:obe:other:trouble]]
+  * [[:ur:obe:kt:houseofgod]]
+
+===== Translation Notes: =====
+
+  * **Yahweh brought Judah low because of Ahaz **- AT: "Yahweh humbled Ahaz" (See:[[:ur:ta:vol1:translate:figs_idiom]] [[:ur:ta:vol2:translate:figs_synecdoche]])  )
+  * **Tilgath Pileser**  - This is Tilgath Pileser III, also known as Pul. (See: [[:ur:ta:vol1:translate:translate_names|Translate Names]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:2ch:28|2 Chronicles Chapter 28 Comprehension Questions]]**
+**[[:ur:bible:notes:2ch:28:16|<<]] | [[:ur:bible:notes:2ch:28:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

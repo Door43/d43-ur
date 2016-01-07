@@ -1,0 +1,60 @@
+====== Psalms 051:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 I have been a sinner since the day that I was born;
+\q2 truly, I have been like that since my mother conceived me.
+\q1
+\v 6 What you desire is that in my inner being I desire what is true
+\q2 in order that you can teach me in my inner being how to act wisely.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 I have been a sinner since the day that I was born;
+\q2 truly, I have been like that since my mother conceived me.
+\q1
+\v 6 What you desire is that in my inner being I desire what is true
+\q2 in order that you can teach me in my inner being how to act wisely.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 5 See, I was born in iniquity;
+\q as soon as my mother conceived me, I was in sin.
+\q
+\v 6 See, you desire trustworthiness in my heart;
+\q in my heart you will make me know wisdom.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[ur:obe:kt:iniquity]]
+  * [[ur:obe:other:conceive]]
+  * [[ur:obe:kt:trust]]
+  * [[ur:obe:other:heart]]
+  * [[:ur:obe:kt:wise|wise, wisdom]]
+===== Translation Notes: =====
+
+  * **See, ...** - "Indeed, ..."
+  * **See, I was born in iniquity; as soon as my mother conceived me, I was in sin.** - These two phrases mean basically the same thing and are used together for emphasis. (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **See, you desire trustworthiness ... you will make me know wisdom** - AT: "You desire honesty in my heart and you teach me wisdom"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:051|Psalms Chapter 051 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:051:003|<<]] | [[:ur:bible:notes:psa:051:007|>>]]**
+
+~~DISCUSSION~~{{tag>publish book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,10 @@
+===== Haggai Links: =====
+
+  * [[:ur:ulb:ep:37-hag.usfm|Full ULB text of Haggai]]
+  * [[:ur:udb:ep:37-hag.usfm|Full UDB text of Haggai]]
+  * [[:ur:bible:admin-reports:notes-team-admin:hag|Notes: Haggai Team Admin]]
+  * [[:ur:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages ur:bible:notes:hag:01 -title -naturalOrder -exclude:home -textPages="Haggai 1" -nbCol=2> 
+
+<nspages ur:bible:notes:hag:02 -title -naturalOrder -exclude:home -textPages="Haggai 2" -nbCol=2> 

@@ -1,0 +1,50 @@
+====== Numbers 34:24-26 ======
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 From the tribe of Ephraim appoint Shiphtan's son Kemuel.
+\li1
+\v 25 From the tribe of Zebulun appoint Parnach's son Elizaphan.
+\li1
+\v 26 From the tribe of Issachar appoint Azzan's son Paltiel.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1
+\v 24 From the tribe of the descendants of Ephraim a leader, Kemuel son of Shiphtan.
+\q1
+\v 25 From the tribe of the descendants of Zebulun a leader, Elizaphan son of Parnach.
+\q1
+\v 26 From the tribe of the descendants of Issachar a leader, Paltiel son of Azzan.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:ephraim|Ephraim]]
+  * [[:ur:obe:other:zebulun|Zebulun]]
+  * [[:ur:obe:other:issachar|Issachar]]
+
+===== Translation Notes: =====
+
+See Translate Names
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:34|Numbers Chapter 34 Comprehension Questions]]**
+**[[:ur:bible:notes:num:34:21|<<]] | [[:ur:bible:notes:num:34:27|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

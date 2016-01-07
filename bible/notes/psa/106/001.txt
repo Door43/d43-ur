@@ -1,0 +1,72 @@
+====== Psalms 106:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\q1 Praise Yahweh, because he does good things \add for us\add*;
+\q2 he faithfully loves us forever\f + \ft Or: continually \f*!
+\q1
+\v 2 \add Because Yahweh has done many great things\add*,
+\q2 no one can \f + \ft rhetorical question \f* tell all the great things that Yahweh has done,
+\q2 and no one can praise him enough\f + \ft Or: sufficiently \f*.
+\q
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\q1 Praise Yahweh because he everything he does is good;
+\q2 he faithfully loves us forever as he promised us!
+\q1
+\v 2 Because Yahweh has done many great things,
+\q2 no one can tell all the great things that Yahweh has done,
+\q2 and no one can praise him enough.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 106
+\p
+\q
+\v 1 Praise Yahweh.
+\q Give thanks to Yahweh, for he is good,
+\q for his covenant faithfulness endures forever.
+\q
+\v 2 Who can recount the mighty acts of Yahweh
+\q or proclaim in full all his praiseworthy deeds?
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:praise|praise]]
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:good|good, goodness]]
+  * [[:ur:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:ur:obe:kt:endure|endure, endurance]]
+  * [[:ur:obe:kt:forever|forever]]
+  * [[:ur:obe:other:mighty|mighty, might]]
+  * [[:ur:obe:other:proclaim|proclaim, proclamation]]
+  * [[:ur:obe:kt:works|works, deeds, work]]
+
+===== Translation Notes: =====
+
+See: [[:ur:ta:workbench:translate:poetry|Translating Poetry]] and [[:ur:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+This psalm is a song of praise.
+
+  * **Who can recount the mighty acts of Yahweh ... ?**- The author asks this question to praise God and does not expect an answer. AT: "No one can recount the mighty acts of Yahweh ..." (See: [[:ur:ta:vol1:translate:figs_rquestion|Rhetorical Question]])
+  * **praiseworthy deeds** - "deeds that are worthy of praise"
+
+
+  * **[[:ur:bible:questions:comprehension:psa:106|Psalms Chapter 106 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:105:043|<<]] | [[:ur:bible:notes:psa:106:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book4}}
+
+~~NOCACHE~~

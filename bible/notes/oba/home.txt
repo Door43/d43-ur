@@ -1,0 +1,8 @@
+===== Obadiah Links: =====
+
+  * [[:ur:ulb:ep:31-oba.usfm|Full ULB text of Obadiah]]
+  * [[:ur:udb:ep:31-oba.usfm|Full UDB text of Obadiah]]
+  * [[:ur:bible:admin-reports:notes-team-admin:oba|Notes: Obadiah Team Admin]]
+  * [[:ur:bible:team-info:training:notes-training|Notes Training]]
+
+<nspages ur:bible:notes:oba:01 -title -naturalOrder -exclude:home -textPages="Obadiah 1" -nbCol=2>

@@ -1,0 +1,67 @@
+====== 2 Kings 19:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 When King Hezekiah heard what they reported, he tore his clothes and put on clothes made of rough cloth \add because he was very distressed\add*. Then he went to the temple \add to ask God what to do\add*.
+\v 2 Then he summoned Eliakim and Shebna and the older\f + \ft Or: most important \f* priests, who were also wearing clothes made of rough sackcloth, and told them to talk to me.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 When King Hezekiah heard what they reported, he tore his clothes and put on clothes made of rough cloth because he was very distressed. Then he went to the temple to ask God what to do.
+\v 2 Then he summoned Eliakim and Shebna and the older priests, who were also wearing clothes made of rough sackcloth, and told them to talk to Isaiah the prophet, son of Amoz.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 19
+\p
+\v 1 It came about that when king Hezekiah heard their report, he tore his clothes, covered himself with sackcloth, and went into the house of Yahweh.
+\v 2 He sent Eliakim, who was over the household, and Shebna the scribe, and the elders of the priests, all covered with
+sackcloth, to Isaiah the prophet the son of Amoz.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:king]]
+  * [[:ur:obe:other:hezekiah]]
+  * [[:ur:obe:other:report]]
+  * [[:ur:obe:other:sackcloth]]
+  * [[:ur:obe:kt:houseofgod]]
+  * [[:ur:obe:other:eliakim]]
+  * [[:ur:obe:other:household]]
+  * [[:ur:obe:other:scribe]]
+  * [[:ur:obe:other:elder]]
+  * [[:ur:obe:kt:priest]]
+  * [[:ur:obe:other:isaiah]]
+  * [[:ur:obe:kt:prophet]]
+  * [[:ur:obe:other:amoz]]
+ 
+
+===== Translation Notes: =====
+
+  * **He sent Eliakim** ​- "Hezekiah sent Eliakim" 
+  * **all covered with sackcloth** ​- AT: "all wearing sackcloth"
+
+
+===== Links: =====
+
+  * **[[ur:bible:questions:comprehension:2ki:19|2 Kings Chapter 19 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/2ki/18/36|<<]] | [[en/bible/notes/2ki/19/03|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

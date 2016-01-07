@@ -1,0 +1,65 @@
+====== Psalms 118:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Tell Yahweh that you thank him very much for the good \add things that he has done for you\add*!
+\q2 He faithfully loves \add us, his people\add*, forever.
+\b
+\q1
+\v 2 You Israelite people should \add repeatedly\add* shout,
+\q2 "He faithfully loves us, his people, forever!"
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Tell Yahweh that you thank him very much for the good things that he has done for you!
+\q2 He faithfully loves us, his people, forever.
+\b
+\q1
+\v 2 You Israelite people should repeatedly shout,
+\q2 "He faithfully loves us, his people, forever!"
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 118
+\p
+\q
+\v 1 Give thanks to Yahweh, for he is good,
+\q for his covenant faithfulness endures forever.
+\q
+\v 2 Let Israel say,
+\q "His covenant faithfulness endures forever."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:good]]
+  * [[:ur:obe:kt:covenantfaith|covenant faithfulness]]
+  * [[:ur:obe:kt:endure]]
+  * [[:ur:obe:kt:forever|forever]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+
+
+===== Translation Notes: =====
+
+See: [[:ur:ta:workbench:translate:poetry|Translating Poetry]] and [[:ur:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **Let Israel say** - AT: "Let the people of Israel say" (See: [[:ur:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:118|Psalms Chapter 118 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:117:001|<<]] | [[:ur:bible:notes:psa:118:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

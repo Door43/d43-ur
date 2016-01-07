@@ -1,0 +1,47 @@
+====== Deuteronomy 29:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Today all of you are standing in the presence of Yahweh our God. The leaders of all your tribes, your elders, your officials, all you Israelite men,
+\v 11 your wives, your children, and the foreigners who live among you and cut wood for you and carry water for you,
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Today all of us are standing in the presence of Yahweh our God. I, the leaders of all your tribes, your elders, your officials, all you Israelite men,
+\v 11 your wives, your children, and the foreigners who live among us and cut wood for us and carry water for us,
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 You stand today, all of you, before Yahweh your God; your chiefs, your tribes, your elders, and your officers—all the men of Israel,
+\v 11 your little ones, your wives, and the foreigner who is among you in your camp, from those who cut your wood to those who draw your water.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:god]]
+  * [[:ur:obe:other:chief|chief]]
+  * [[:ur:obe:other:tribe]]
+  * [[:ur:obe:other:elder|elder]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:ur:obe:other:foreigner|foreigner, foreign]]
+  * [[:ur:obe:other:water]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+There are no translation notes for these verses.
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:deu:29|Deuteronomy Chapter 29 Comprehension Questions]]**
+**[[:ur:bible:notes:deu:29:07|<<]] | [[:ur:bible:notes:deu:29:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

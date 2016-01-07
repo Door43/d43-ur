@@ -1,18 +1,21 @@
-====== Hamath, Lebo-Hamath ======
+====== Hamath, Lebo Hamath ======
 
 ===== Facts: =====
 
-Hamath was a Hittite city in northern Syria, north of the land of Canaan. The name Lebo-Hamath probably refers to the same city. There was also a "land of Hamath" which was the region surrounding the city.
+Hamath was an important city in northern Syria, north of the land of Canaan. The modern-day name of the city is Hamah.
 
-  * King Tou of Hamath congratulated King David and gave him gifts because he had defeated Tou's enemies.
-  * Hamath was said to be one of Solomon's storehouse cities where provisions were kept.
-  * The land of Hamath was where King Nebuchadnezzar of Babylon had King Zedekiah killed.
-  * Pharaoh Necho of Egypt captured King Jehoahaz in the land of Hamath.
-  * Some versions translate "Lebo-Hamath" as "entrance to Hamath" or "border of Hamath," which are also possible meanings.
+  * The name "Lebo Hamath" probably refers to a mountain pass near the city of Hamath.
+  * Some versions translate "Lebo Hamath" as "entrance to Hamath."
+  * The "Hamathites" were descended from Noah's son Ham and his grandson Canaan.
+  * King David defeated enemies of King Tou of Hamath, which caused them to be on good terms.
+  * Hamath was one of Solomon's storehouse cities where provisions were kept.
+  * The land of Hamath was where King Zedekiah was killed by King Nebuchadnezzar and where King Jehoahaz was captured by an Egyptian pharaoh.
+ 
+
 
 (Translation suggestions: [[:ur:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:ur:obe:other:nebuchadnezzar]], [[:ur:obe:other:babylon]], [[:ur:obe:other:canaan]], [[:ur:obe:other:syria]], [[:ur:obe:other:hittite]])
+(See also: [[:ur:obe:other:nebuchadnezzar|Nebuchadnezzar]], [[:ur:obe:other:babylon|Babylon, Babylonian]], [[:ur:obe:other:canaan|Canaan, Canaanite]], [[:ur:obe:other:syria|Syria]], [[:ur:obe:other:zedekiah|Zedekiah]] )
 
 ===== Bible References: =====
 

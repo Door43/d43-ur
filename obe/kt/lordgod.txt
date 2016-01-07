@@ -16,7 +16,7 @@ The term "Lord" refers to someone who has ownership or authority over people. Wh
 
 (See: Jesus, Jesus Christ, Christ Jesus, lord, master, sir, Yahweh other)
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names|How to Translate Names]])
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names|How to Translate Names]])
 
 (See also: [[:ur:obe:kt:lord]], [[:ur:obe:kt:god]], [[:ur:obe:kt:yahweh]])
 

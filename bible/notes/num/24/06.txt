@@ -1,0 +1,51 @@
+====== Numbers 24:6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Your tents are spread out \add in front of me like groves of palm trees in\add* valleys,
+\q2 like gardens alongside a river.
+\q1 They are like strong aloe trees\f + \ft Or: plants \f* that Yahweh has planted,
+\q2 like \add strong\add* cedar trees \add that grow\add* along the rivers.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Your tents are spread out in front of me like groves of palm trees in valleys,
+\q2 like gardens alongside a river.
+\q1 They are like strong aloe trees that Yahweh has planted,
+\q2 like strong cedar trees that grow along the rivers.
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 Like valleys they spread out, 
+\q2 like gardens by the riverside,
+\q2 like aloes planted by Yahweh,
+\q2 like cedars beside the waters.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:cedar|cedar]]
+  * [[:ur:obe:other:water|water, waters]]
+
+===== Translation Notes: =====
+Balaam continues the prophecy under the control of the Spirit of God.
+
+  * **Like valleys they spread out...beside the waters** - Balaam is emphasizing how beautiful and impressive the Israelite camp is. (See: [[:ur:ta:vol1:translate:figs_simile]] and [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **aloes planted by Yahweh** - Aloes are shrubs or trees with a pleasant smell. AT: "aloes which Yahweh has planted" (See: [[:ur:ta:vol2:translate:figs_activepassive]] and [[:ur:ta:vol1:translate:translate_unknown]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:24|Numbers Chapter 24 Comprehension Questions]]**
+**[[:ur:bible:notes:num:24:04|<<]] | [[:ur:bible:notes:num:24:07|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr}}
+
+~~NOCACHE~~

@@ -16,7 +16,7 @@ An angel is a powerful spirit being whom God created. These spirit beings exist 
   * The term "archangel" could be translated as "chief angel" or "head ruling angel" or "leader of the angels."
   * Also consider how these terms are translated in a national language or another local language.
  
- (See:[[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+ (See: [[ur:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
 (See also: [[:ur:obe:other:chief]], [[:ur:obe:other:messenger]], [[:ur:obe:other:michael]],  [[:ur:obe:other:ruler]], [[:ur:obe:other:servant]])
 
@@ -34,6 +34,6 @@ An angel is a powerful spirit being whom God created. These spirit beings exist 
   * **[[:ur:obs:notes:frames:38-12|[38-12]]]** Jesus was very troubled and his sweat was like drops of blood. God sent an **angel**  to strengthen him.
   * **[[:ur:obs:notes:frames:38-15|[38-15]]]**"I could ask the Father for an army of **angels**  to defend me."
 
-~~DISCUSSION~~{{tag>publish ktobs}}
+~~DISCUSSION~~{{tag>publish discuss ktobs}}
 
 ~~NOCACHE~~

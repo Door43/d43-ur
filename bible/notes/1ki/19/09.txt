@@ -1,0 +1,67 @@
+====== 1 Kings 19:9-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 9 He went into a cave there and slept there that night.
+
+\p \add The next morning\add*, Yahweh said to him "Elijah, why are you here?"
+\v 10 Elijah replied, "I have zealously served you, Yahweh, God Almighty. But the Israelite people have rejected the agreement that they made with you. They have torn down your altars, and they have killed all of your prophets. I am the only one whom they have not killed, and now they are trying to kill me, too. \add So I am running away from them\add*."
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 9 He went into a cave there and slept there that night.
+
+\p The next morning, Yahweh said to him, "Elijah, why are you here?"
+\v 10 Elijah replied, "I have zealously served you, Yahweh, Commander of angel armies. But the Israelite people have rejected the agreement that they made with you. They have torn down your altars, and they have killed all of your prophets. I am the only one whom they have not killed, and now they are trying to kill me, too. So I am running away from them."
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 9 He went to a cave there and stayed in it. Then the word of Yahweh came to him and said to him, "What are you doing here, Elijah?"
+\v 10 Elijah replied, "I have been very zealous for Yahweh, God of hosts, for the people of Israel have forsaken your covenant, destroyed your altars, and killed your prophets with the sword. Now I, only I, am left, and they are trying to take my life, too."
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:wordofgod]]
+  * [[ur:obe:other:elijah]]
+  * [[:ur:obe:kt:zealous]]
+  * [[ur:obe:kt:yahweh]]
+  * [[:ur:obe:kt:yahwehofhosts]]
+  * [[:ur:obe:other:peoplegroup]]
+  * [[:ur:obe:other:kingdomofIsrael]]
+  * [[:ur:obe:kt:forsaken]]
+  * [[:ur:obe:kt:covenant]]
+  * [[:ur:obe:other:altar]]
+  * [[ur:obe:kt:prophet]]
+  * [[ur:obe:other:sword]]
+  * [[ur:obe:kt:life]]
+
+===== Translation Notes: =====
+
+    * **into a cave there** - Here the word "there" refers to Mount Horeb. A cave is an opening in a mountainside that leads to a natural room or rooms underground.
+    * **word of Yahweh came to him and said to him** - These two phrases share similar meanings and are combined for emphasis. AT: "Yahweh said to him" (See: [[:ur:ta:vol2:translate:figs_doublet]] and [[:ur:ta:vol2:translate:figs_metonymy]])
+    * **What are you doing here, Elijah?** - Yahweh asks this question to rebuke Elijah and to remind him of his duty. AT: "This is not where you should be, Elijah." (See: [[:ur:ta:vol1:translate:figs_rquestion]])
+    * **I, only I, am left** - Here the word "I" is repeated for emphasis. (See: [[ur:ta:vol2:translate:figs_hyperbole]])
+  
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ki:19|1 Kings Chapter 19 Comprehension Questions]]**
+**[[:ur:bible:notes:1ki:19:07|<<]] | [[:ur:bible:notes:1ki:19:11|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

@@ -12,7 +12,7 @@ Doves and pigeons are two kinds of small, gray-brown birds that have similar cha
   * In verses that use both names, for example talking about bringing a pigeon or a dove for a sacrifice, two different words for birds should be used, if possible.
 
 
-(See: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+(See: [[ur:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
 
 (See also: [[:ur:obe:other:olive]])
 

@@ -1,0 +1,63 @@
+====== Psalms 073:21-22 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 21 When I felt sad\f + \ft Or: bitter \f* in my inner being,
+\q1 and my feelings were hurt\f + \ft Or: I had pain in my inner being \f*,
+\q1
+\v 22 I was stupid and ignorant,
+\q2 and I behaved like an animal toward you.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 21 When I felt sad in my inner being
+\q1 and my feelings were hurt,
+\q1
+\v 22 I was stupid and ignorant,
+\q2 and I behaved like an animal toward you.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 21 For my heart was grieved,
+\q and I was deeply wounded.
+\q
+\v 22 I was ignorant and lacked insight;
+\q I was like a senseless animal before you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:heart]]
+  * [[ur:obe:other:like]]
+ 
+
+===== Translation Notes: =====
+
+  * **ignorant and lacked insight**  - These two phrases share similar meanings and are combined for emphasis. (See: [[:ur:ta:vol2:translate:figs_doublet|Doublet]])
+  * **lacked insight**  - AT: "understood nothing"
+  * **you**  - This "you" refers to God.
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:073|Psalms Chapter 073 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:073:018|<<]] | [[:ur:bible:notes:psa:073:023|>>]]**
+
+~~DISCUSSION~~{{tag>publish book3}}
+
+~~NOCACHE~~

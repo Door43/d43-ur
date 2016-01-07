@@ -1,0 +1,54 @@
+====== Psalms 052:3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 You like \add doing what is\add* evil more than you like doing what is good,
+\q2 and you like telling lies more than you like telling the truth.
+\qr (Think about that!)
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 You like doing what is evil more than you like doing what is good,
+\q2 and you like telling lies more than you like telling the truth.
+
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 You love evil more than good
+\q and lying rather than speaking righteousness. 
+\qs Selah\qs*
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:love]]
+  * [[:ur:obe:kt:righteous]]
+  * [[:ur:obe:other:selah]]
+ 
+
+===== Translation Notes: =====
+
+  * **You love evil…good, lying…righteousness.**  - Both sentences mean the same thing. (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+  * **and lying rather than speaking righteousness**  - "and you love and lying rather than speaking righteousness" (See: [[:ur:ta:vol2:translate:figs_ellipsis]])
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:052|Psalms Chapter 052 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:052:001|<<]] | [[:ur:bible:notes:psa:052:004|>>]]**
+
+~~DISCUSSION~~{{tag>review book2}}
+
+~~NOCACHE~~

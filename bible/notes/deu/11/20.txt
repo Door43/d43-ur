@@ -1,0 +1,57 @@
+====== Deuteronomy 11:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 Write them on the doorposts and on the gates of your houses.
+\v 21 Do that in order that you and your children will live for a long time in the land that Yahweh promised to our ancestors that he would give to them. That land will belong to you \add and your descendants\add* as long as there is a sky above the earth.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 Write them on the doorposts and on the gates of your cities.
+\v 21 Do that in order that you and your children will live for a long time in the land that Yahweh promised to our ancestors that he would give to them. That land will belong to you and your descendants as long as there is a sky above the earth.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 20 You will write them on the doorposts of your house and on your city gates,
+\v 21 that your days may be multiplied, and the days of your children, in the land that Yahweh swore to your fathers that he would give them, be as many days as the heavens are high above the earth.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:doorpost|doorpost]]
+  * [[:ur:obe:kt:gate|gate, gate bar]]
+  * [[ur:obe:kt:Yahweh]]
+  * [[:ur:obe:other:oath|oath, swear]]
+  * [[:ur:obe:other:father|father, forefather]]
+  * [[ur:obe:kt:heaven]]
+  * [[ur:obe:other:earth]]
+
+===== Translation Notes: =====
+Moses continues speaking to the people of Israel.
+
+  * **on the doorposts of your house and on your city gates** - See how you translated this in [[ur:bible:notes:deu:06:08|6:9]].
+  * **that your days may be multiplied** - AT: "that Yahweh may increase your days" (See: [[:ur:ta:vol2:translate:figs_activepassive]])
+  * **to your fathers** - This refers to Abraham, Isaac, and Jacob.
+  * **be as many days as the heavens are high above the earth** - By this Moses means "forever." (See: [[:ur:ta:vol1:translate:figs_simile]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:deu:11|Deuteronomy Chapter 11 Comprehension Questions]]**
+**[[:ur:bible:notes:deu:11:18|<<]] | [[:ur:bible:notes:deu:11:22|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

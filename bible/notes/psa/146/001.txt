@@ -1,0 +1,65 @@
+====== Psalms 146:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh
+\b
+\q1 With my whole inner being I will praise Yahweh.
+\q1
+\v 2 I will praise Yahweh as long as I am alive;
+\q2 I will sing to praise my God all \add the rest of\add* my life.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh.
+\b
+\q1 With my whole inner being I will praise Yahweh.
+\q1
+\v 2 I will praise Yahweh as long as I am alive;
+\q2 I will sing to praise my God all the rest of my life.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 146
+\p
+\q
+\v 1 Praise  Yahweh.
+\q Praise Yahweh, my soul.
+\q
+\v 2 I will praise Yahweh as long as I live;
+\q I will sing praises to my God as long as I exist.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:praise|praise]]
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:soul]]
+  * [[:ur:obe:kt:life|life, live, living, alive]]
+  * [[:ur:obe:kt:god|God]]
+
+===== Translation Notes: =====
+
+(See: [[:ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]])
+
+  * **as long as I exist** - AT: "until I die" or "while I live"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:146|Psalms Chapter 146 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:145:020|<<]] | [[:ur:bible:notes:psa:146:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

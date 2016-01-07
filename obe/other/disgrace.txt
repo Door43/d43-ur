@@ -2,20 +2,16 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+"Disgrace" is when an someone does something which causes them to lose honor or respect. The thing which they did is "disgraceful."
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * When someone with a good reputation begins to act differently they become a "disgrace" to their reputation. 
 
-(See also: other)
+(See also: [[:En:obe:other:honor]])
 
 ===== Bible References: =====
 
-{{topic>:en:bible?disgrace&nocomments}}
-
-~~DISCUSSION~~
+{{topic>:en:bible?disgrace&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create hos10 ktlink}}
+{{tag>review hos10 ktlink}}

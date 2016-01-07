@@ -1,0 +1,68 @@
+====== 1 Corinthians 12:1-3 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Now, my fellow believers, \add I will answer what you asked\add* about the things God's Spirit \add enables believers to do\add*. I want you to know clearly \f + \ft litotes \f* \add about these things\add*.
+\v 2 You know that before you became Christians, various things led you to \add worship\add* idols, which are unable to tell you \add any of God's message\add*.
+\v 3 So \add the first thing\add* that I will tell you now is that it is not the Spirit of God who would cause anyone to say, "Jesus deserved to die," and that the Holy Spirit is the only one who can enable anyone to say, "Jesus is \add truly\add* the Lord."
+
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 And now let me teach you about spiritual gifts, brothers and sisters. I want you to know how to use them.
+\v 2 You may recall how, when you worshiped idols—idols that could not even speak a word—they led you astray.
+\v 3 The Spirit of God helps you declare, "Jesus Christ is Lord." No one who is filled with the Holy Spirit would ever say "May Jesus be accursed!"   
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 12
+\p
+\v 1  About spiritual gifts, brothers and sisters, I do not want you to be  uninformed.
+\v 2 You know that when you were pagans, you were led astray to voiceless idols, however you were led by them.
+\v 3 Therefore I want you to know that no one who speaks by the Spirit of God can say, "Jesus is accursed,"  and no one can say, "Jesus is Lord," except by the Holy Spirit.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:spirit]]
+  * [[:ur:obe:kt:gift]]
+  * [[:ur:obe:kt:brother]]
+  * [[:ur:obe:other:know]]
+  * [[:ur:obe:other:pagan]]
+  * [[:ur:obe:kt:deceive]]
+  * [[:ur:obe:other:idol]]
+  * [[:ur:obe:kt:holyspirit]]
+  * [[:ur:obe:kt:jesus]]
+  * [[:ur:obe:kt:curse]]
+  * [[:ur:obe:kt:lordgod]]
+ 
+===== Translation Notes: =====
+
+    * **I do not want you to be  uninformed** - AT: "I want you to know" (See: [[ur:ta:vol2:translate:figs_litotes]])
+    * **you were led astray to voiceless idols** - AT: "other people influenced you to worship voiceless idols" (See: [[:ur:ta:vol2:translate:figs_activepassive]] and [[:ur:ta:vol1:translate:figs_idiom]])
+    * **you were led by them** - AT: "they led you"
+    * **no one who speaks by the Spirit of God can say** - Possible meanings are 1) "no Christian, a person who has the Spirit of God in him, can say," or 2) "no one who is prophesying by the power of the Spirit of God can say."
+  
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1co:12|1 Corinthians Chapter 12 Comprehension Questions]]**
+**[[:ur:bible:notes:1co:11:33|<<]] | [[:ur:bible:notes:1co:12:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish gift}}
+
+~~NOCACHE~~

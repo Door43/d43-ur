@@ -1,0 +1,52 @@
+====== Judges 10:6-7 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Again the Israelites did things that Yahweh said were wrong\f + \ft Or: evil \f*. They worshiped \add the idols\add* of \add their god\add* Baal and \add their goddess\add* Astarte. They also worshiped the gods of the Aram, Sidon, Moab, and Ammon people-groups, and the gods of the Philistia people-group. They turned away from Yahweh and stopped worshiping him.
+\v 7 So Yahweh was very angry with them, and he allowed the Philistia and Ammon people-groups to defeat [IDI] the Israelites.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 The Israelites did even more evil that Yahweh saw them do. They worshiped the Baal idols and female fertility idols called the Asthoreths. They worshiped the gods of the people groupos of Aram, Sidon, Moab, and Ammon people groups, and the gods of the Philistines. They forgot about Yahweh and stopped worshiping him.
+\v 7 So Yahweh was very angry with them, and he allowed the Philistines and Ammonites to conquer Israel.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 The people of Israel added to the evil they had done in the sight of Yahweh and worshiped the  Baals, the Ashtoreths, the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the people of Ammon, and the gods of the Philistines. They abandoned Yahweh and no longer worshiped him.
+\v 7 Yahweh burned with anger toward Israel, and he gave them to the Philistines and to the Ammonites, to conquer them.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:israel]]
+  * [[:ur:obe:kt:evil]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:kt:worship]]
+  * [[:ur:obe:other:baal]]
+  * [[:ur:obe:kt:falsegod]]
+  * [[:ur:obe:other:aram]]
+  * [[:ur:obe:other:sidon]]
+  * [[:ur:obe:other:moab]]
+  * [[:ur:obe:other:ammon]]
+  * [[:ur:obe:other:philistines]]
+  * [[:ur:obe:other:angry]]
+
+===== Translation Notes: =====
+
+  * **Ashtoreths** - See how you translated this in [[ur:bible:notes:jdg:02:11|Judges 2:13]].  
+  * **conquer**  - "defeat"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:jdg:10|Judges Chapter 10 Comprehension Questions]]**
+**[[:ur:bible:notes:jdg:10:03|<<]] | [[:ur:bible:notes:jdg:10:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

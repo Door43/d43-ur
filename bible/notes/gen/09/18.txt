@@ -1,0 +1,58 @@
+====== Genesis 09:18-19 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 18 The sons of Noah who came out of boat were Shem, Ham, and Japheth. Ham later became the father of Canaan.
+\v 19 All the people on the earth are descended from these three sons of Noah.
+
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 18 The sons of Noah who came out of boat were Shem, Ham, and Japheth. Ham later became the father of Canaan.
+\v 19 All the people on the earth are descended from these three sons of Noah.
+
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 18 The sons of Noah that came out of the ark were Shem, Ham, and Japheth. And Ham was the father of Canaan.
+\v 19 These three were the sons of Noah, and from these, the whole earth was populated.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[ur:obe:other:noah]]
+  * [[ur:obe:other:ark]]
+  * [[ur:obe:other:shem]]
+  * [[ur:obe:other:ham]]
+  * [[ur:obe:other:japheth]]
+  * [[ur:obe:other:father]]
+  * [[ur:obe:other:canaan]]
+
+
+===== Translation Notes: =====
+
+Verses 18-19 introduce the three sons of Noah, who will be an important part of the next story.
+
+
+===== Links: =====
+
+  * **[[ur:bible:questions:comprehension:gen:09|Genesis Chapter 09 Comprehension Questions]]**
+**[[:ur:bible:notes:gen:09:16|<<]] | [[:ur:bible:notes:gen:09:20|>>]]**
+
+~~DISCUSSION~~{{tag>publish canaan }}
+
+~~NOCACHE~~

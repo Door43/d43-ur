@@ -1,0 +1,45 @@
+====== Leviticus 11:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to Aaron and Moses\f + \ft Or: me \f*,
+\v 2 "Tell the Israelite people that \add this is what Yahweh says\add*: 'From all the animals that live on the land, these are the ones that you are permitted to eat:
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to Aaron and Moses,
+\v 2 "Tell the people that this is what I say: 'Of all the animals that live on the land, these are the ones that you are permitted to eat.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 11
+\p
+\v 1 Yahweh spoke to Moses and to Aaron saying, 
+\v 2 "Speak to the people of Israel, saying, 'These are the living things which you may eat among all the animals that are on the earth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:other:moses|Moses]]
+  * [[:ur:obe:other:aaron|Aaron]]
+  * [[:ur:obe:other:peoplegroup|people group, people]]
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:ur:obe:kt:life|life, live, living, alive]]
+
+===== Translation Notes: =====
+
+  * **among all the animals** - "out of all the animals"
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:lev:11|Leviticus Chapter 11 Comprehension Questions]]**
+**[[:ur:bible:notes:lev:10:19|<<]] | [[:ur:bible:notes:lev:11:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

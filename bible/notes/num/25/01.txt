@@ -1,0 +1,57 @@
+====== Numbers 25:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 While the Israelites were camped at a place called Acacia \add Grove\add*, some of the men caused themselves to become unacceptable to God by having sex with some of the women of the Moab \add people-group who lived in that area\add*.
+\v 2 Then those women invited the men to come when the sacrifices were being offered to their gods. The Israelite men \add accepted\add*. They went to the feasts with the women and worshiped the gods of the Moab people-group.
+\v 3 By doing that, the Israelite people joined the women in worshiping the god Baal \add who the Moab people-group thought lived on\add* Peor Mountain. That caused Yahweh to become very angry with his people, \add and he sent a severe plague\f + \ft Or: big sickness \f* on many of the Israelite people\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 While the Israelites were camped at a place called Acacia Grove, some of the men caused themselves to become unacceptable to God by having sex with some of the women of the Moab people group who lived in that area.
+\v 2 Then those women invited the men to come when the sacrifices were being offered to their gods. The Israelite men accepted. They went to the feasts with the women and worshiped the gods of the Moab people group.
+\v 3 By doing that, the Israelite people joined the women in worshiping the god Baal who the Moab people group thought lived on Mount Peor. That caused Yahweh to become very angry with his people, and he sent a severe plague on many of the Israelite people.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 1 Israel stayed in Shittim, and the men began to sleep with women of Moab,
+\v 2 for the Moabites invited the people to the sacrifices to their gods. So the people ate and bowed down to Moabite gods.
+\v 3 The men of Israel joined in worshiping Baal of Peor, and Yahweh’s anger was kindled against Israel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:ur:obe:other:sex|have sex with, have relations with, sleep with, lovemaking]]
+  * [[:ur:obe:other:moab|Moab, Moabite, Moabitess]]
+  * [[:ur:obe:other:sacrifice|sacrifice, offering]]
+  * [[:ur:obe:kt:falsegod|false god, god, goddess]]
+  * [[:ur:obe:kt:bow|bow, bow down]]
+  * [[:ur:obe:kt:worship|worship]]
+  * [[:ur:obe:other:baal|Baal]]
+  * [[ur:obe:kt:Yahweh]]
+  * [[:ur:obe:other:angry|angry, anger]]
+
+===== Translation Notes: =====
+
+  * **Shittim** - This is the name of a place in Moab. (See: [[:ur:ta:vol1:translate:translate_names]])
+  * **Peor** - See how you translated this in [[ur:bible:notes:num:23:28|23:28]].
+  * **Yahweh's anger was kindled against Israel** - This compares Yahweh becoming angry to someone starting a fire. As mentioned in 25:8-9, God sent a plague because of their sin. AT: "Yahweh became very angry with the Israelites" (See: [[:ur:ta:vol1:translate:figs_metaphor]] and [[:ur:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:25|Numbers Chapter 25 Comprehension Questions]]**
+**[[:ur:bible:notes:num:24:25|<<]] | [[:ur:bible:notes:num:25:04|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

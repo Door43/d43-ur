@@ -1,0 +1,52 @@
+====== Leviticus 19:29-30 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 Do not disgrace your daughters by forcing them to become prostitutes. If you cause them to become prostitutes, soon the land will be filled with prostitutes and all other kinds of people's wicked behavior.
+\p
+\v 30 Honor my Sabbath days and revere my Sacred Tent, because I, Yahweh, \add live there\add*.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 Do not disgrace your daughters by forcing them to become prostitutes. If you cause them to become prostitutes, soon the land will be filled with prostitutes and all other kinds of people's wicked behavior.
+\p
+\v 30 Honor my Sabbath days and revere my sacred tent, because I am Yahweh.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 29 Do not disgrace your daughter by making her a prostitute, or the nation will fall to prostitution and the land will become full of wickedness.
+\m
+\v 30 You must keep my Sabbaths and honor the sanctuary of my tabernacle. I am Yahweh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:prostitute|prostitute, harlot, whore]]
+  * [[:ur:obe:other:nation|nation]]
+  * [[:ur:obe:kt:evil|evil, wicked, wickedness]]
+  * [[:ur:obe:kt:sabbath|Sabbath]]
+  * [[:ur:obe:other:honor|honor, to honor]]
+  * [[:ur:obe:kt:sanctuary|sanctuary]]
+  * [[:ur:obe:kt:tabernacle|tabernacle]]
+
+===== Translation Notes: =====
+
+There are no translation notes for these verses.
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:lev:19|Leviticus Chapter 19 Comprehension Questions]]**
+**[[:ur:bible:notes:lev:19:26|<<]] | [[:ur:bible:notes:lev:19:31|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

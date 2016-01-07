@@ -1,0 +1,71 @@
+====== Psalms 114:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 When the Israelite people left Egypt,
+\q1 when they who were descendants of Jacob left people who spoke a foreign\f + \ft Or: different \f* language,
+\q2
+\v 2 the land of Judah became the place where people worshiped God;
+\q2 and Israel became the land \f + \ft Or: the Israelite people became the people \f* that he ruled over.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 When the Israelite people left Egypt,
+\q1 when the descendants of Jacob left people who spoke a foreign language,
+\q2
+\v 2 the land of Judah became the place where people worshiped God;
+\q2 and Israel became the land that he ruled over.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 114
+\p
+\q
+\v 1 When Israel left Egypt,
+\q the house of Jacob from that foreign people,
+\q
+\v 2 Judah became his sanctuary,
+\q Israel his kingdom.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:israel]]
+  * [[:ur:obe:other:egypt]]
+  * [[:ur:obe:other:house]]
+  * [[:ur:obe:other:jacob]]
+  * [[:ur:obe:other:foreigner]]
+  * [[:ur:obe:other:peoplegroup]]
+  * [[:ur:obe:other:judah]]
+  * [[:ur:obe:kt:sanctuary]]
+  * [[:ur:obe:other:kingdom]]
+
+===== Translation Notes: =====
+
+This psalm is a song of praise.\\ 
+See: [[ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]]
+
+
+  * **from that foreign people** - "from a people that served a different god." (See: [[:ur:ta:vol2:translate:figs_ellipsis]])
+  * **Judah** - "The people of Judah"
+  * **became his sanctuary** - "became the people with whom Yahweh dwelled" or "became holy to Yahweh" 
+  * **Israel his kingdom** - AT: "Israel became the people over whom Yahweh ruled."
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:114|Psalms Chapter 114 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:113:009|<<]] | [[:ur:bible:notes:psa:114:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

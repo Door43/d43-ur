@@ -1,0 +1,16 @@
+===== Lamentations Links: =====
+
+  * [[:ur:ulb:ep:25-lam.usfm|Full ULB text of Lamentations]]
+  * [[:ur:udb:ep:25-lam.usfm|Full UDB text of Lamentations]]
+  * [[:ur:bible:admin-reports:notes-team-admin:lam|Notes: Lamentations Team Admin]]
+  * [[ur:bible:team-info:training:quick-reference:quick-reference-notes]]
+
+<nspages ur:bible:notes:lam:01 -title -naturalOrder -exclude:home -textPages="Lamentations 1" -nbCol=2> 
+
+<nspages ur:bible:notes:lam:02 -title -naturalOrder -exclude:home -textPages="Lamentations 2" -nbCol=2> 
+
+<nspages ur:bible:notes:lam:03 -title -naturalOrder -exclude:home -textPages="Lamentations 3" -nbCol=2> 
+
+<nspages ur:bible:notes:lam:04 -title -naturalOrder -exclude:home -textPages="Lamentations 4" -nbCol=2> 
+
+<nspages ur:bible:notes:lam:05 -title -naturalOrder -exclude:home -textPages="Lamentations 5" -nbCol=2> 

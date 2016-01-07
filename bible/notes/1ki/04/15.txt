@@ -1,0 +1,56 @@
+====== 1 Kings 04:15-17 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Ahimaaz, who had married Solomon's daughter Basemath, for \add the territory of the tribe of\add* Naphtali;
+\li1
+\v 16 Hushai's son Baana, for \add the territory of the tribe of\add* Asher and for Aloth \add town\add*;
+\li1
+\v 17 Paruah's son Jehoshaphat, for \add the territory of the tribe of\add* Issachar;
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Ahimaaz, who had married Solomon's daughter Basemath, for the territory of the tribe of Naphtali,
+\li1
+\v 16 Hushai's son Baana, for the territory of the tribe of Asher and for the city of Aloth,
+\li1
+\v 17 Paruah's son Jehoshaphat, for the territory of the tribe of Issachar,
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 Ahimaaz, in Naphtali (he also married Basemath the daughter of Solomon as his wife),
+\v 16 Baana the son of Hushai, in Asher and Bealoth,
+\v 17 Jehoshaphat the son of Paruah, in Issachar,
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:naphtali]]
+  * [[:ur:obe:kt:son]]
+  * [[:ur:obe:other:asher]]
+  * [[:ur:obe:other:jehoshaphat]]
+  * [[:ur:obe:other:issachar]]
+
+===== Translation Notes: =====
+
+This continues to list Solomon's Officials.
+
+  * **Ahimaaz** - He was from the tribe of Naphtali and married Basemath. (See: [[:ur:ta:vol1:translate:translate_names]])
+  * **Baana** - His father, Hushai was from the tribe of Asher  and married Bealoth. (See: [[:ur:ta:vol1:translate:translate_names]])
+  * **Jehoshaphat** - His father, Paruah, was from the tribe of Issachar. (See: [[:ur:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ki:04|1 Kings Chapter 04 Comprehension Questions]]**
+**[[:ur:bible:notes:1ki:04:11|<<]] | [[:ur:bible:notes:1ki:04:18|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

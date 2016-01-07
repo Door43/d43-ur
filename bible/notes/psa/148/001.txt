@@ -1,0 +1,63 @@
+====== Psalms 148:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Praise him, you who are in heaven;
+\q2 praise him from way up in the sky!
+\q1
+\v 2 All you angels who belong to him, praise him!
+\q2 All you who are in the armies of heaven, praise him!
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Praise Yahweh!
+\b
+\q1 Praise him, you angels who are in the heavens;
+\q2 praise him, you angels up in the sky!
+\q1
+\v 2 All you angels who belong to him, praise him!
+\q2 All you who are in the armies of Yahweh, praise him!
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 148
+\p
+\q
+\v 1 Praise Yahweh.
+\q Praise Yahweh, you in the heavens;
+\q praise him, you in the heights.
+\q
+\v 2 Praise him, all his angels;
+\q praise him, all his angel armies.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:praise|praise]]
+  * [[:ur:obe:kt:yahweh|Yahweh]]
+  * [[:ur:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:ur:obe:kt:angel|angel]]
+
+===== Translation Notes: =====
+
+See: [[:ur:ta:workbench:translate:poetry|Translating Poetry]] and [[:ur:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:148|Psalms Chapter 148 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:147:019|<<]] | [[:ur:bible:notes:psa:148:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

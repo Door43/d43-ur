@@ -1,0 +1,68 @@
+====== Psalms 015:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, who are allowed to enter your Sacred Tent?
+\q2 Who are allowed to live on your sacred mountain?
+\b
+\q1
+\v 2 Only those who always do what is right and do not sin may do that.
+\q2 They always say what is true
+\q2
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, who are allowed to enter your sacred tent?
+\q2 Who are allowed to live on your sacred mountain?
+\q1
+\v 2 Only those who always do what is right and do not sin may do that,
+\q2 those who always speak the truth.
+
+
+\q2
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 15
+\d A psalm of David.
+\b
+\q
+\v 1 Yahweh, who may stay in your tabernacle?
+\q Who may live on your holy hill?
+\q
+\v 2 He walks blamelessly and does what is right,
+\q and speaks truth from his heart.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:psalm]]
+  * [[:ur:obe:other:david]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:kt:tabernacle]]
+  * [[:ur:obe:kt:life]]
+  * [[:ur:obe:kt:holy]]
+  * [[:ur:obe:kt:blameless]]
+  * [[:ur:obe:kt:true]]
+  * [[:ur:obe:other:heart]]
+
+===== Translation Notes: =====
+
+See: [[:ur:ta:workbench:translate:poetry]] and [[:ur:ta:vol2:translate:figs_parallelism]]
+
+  * **A psalm of David** - This can also be written as a sentence. AT: “This is a psalm of David." or “This is a psalm that David wrote.”
+  * **who may live on your holy hill**  - ALT: "who may live in your holy place"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:psa:015|Psalms Chapter 015 Comprehension Questions]]**
+**[[:ur:bible:notes:psa:014:007|<<]] | [[:ur:bible:notes:psa:015:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

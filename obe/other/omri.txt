@@ -2,13 +2,15 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Omri was an army commander who became the sixth king of Israel.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Omri reigned for 12 years in the city of Tirzah. 
+  * Like all the kings of Israel before him, Omri was a very evil king leading the people of Israel into more idol worship.
+  * Omri was also the father of the evil King Ahab.
 
-(See also: other)
+(Translation suggestions: [[ur:ta:vol1:translate:translate_names]])
+
+(See also: [[:En:obe:other:ahab]], [[:En:obe:other:israel]], [[:En:obe:other:jeroboam]], [[:En:obe:other:tirzah]])
 
 ===== Bible References: =====
 
@@ -18,4 +20,4 @@ Text
 
 ~~NOCACHE~~
 
-{{tag>create 2ch22 ktlink}}
+{{tag>publish}}

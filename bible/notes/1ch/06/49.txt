@@ -1,0 +1,53 @@
+====== 1 Chronicles 06:49 ======
+
+===== TFT: =====
+
+<usfm>
+\v 49 Aaron and his descendants were the ones who placed on the altar the sacrifices that were to be burned completely, and they burned incense on another altar. Those sacrifices were in order that Yahweh would no longer be angry with the people of Israel for having sinned. Those men also did other work in the Very Holy Place in the sacred tent, obeying the instructions that Moses, who served God \add well\add*, had given to them.
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 49 Aaron and his descendants were the ones who placed on the altar the sacrifices that were to be burned completely, and they burned incense on another altar. Those sacrifices were in order that Yahweh would no longer be angry with the people of Israel for having sinned. Those men also did other work in the very holy place in the sacred tent, obeying the instructions that Moses, who served God well, had given to them.
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 49  Aaron and his sons did all the work concerned wtih the most holy place. They made the  offerings on the altar for burnt offerings. They made the offering on the incense altar. All of these were to make atonement for Israel. They followed everything that Moses the servant of God had commanded.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:aaron]]
+  * [[:ur:obe:kt:son]]
+  * [[:ur:obe:kt:holyplace]]
+  * [[:ur:obe:other:sacrifice]]
+  * [[:ur:obe:other:altar]]
+  * [[:ur:obe:other:burntoffering]]
+  * [[:ur:obe:other:incense]]
+  * [[:ur:obe:kt:atonement]]
+  * [[:ur:obe:other:israel]]
+  * [[:ur:obe:other:moses]]
+  * [[:ur:obe:other:servant]]
+  * [[:ur:obe:kt:god]]
+  * [[:ur:obe:other:command]]
+
+===== Translation Notes: =====
+
+  * **All of these were to make atonement for Israel** - AT: "All of these offerings were to make atonement for the people of Israel's sins" (See: [[:ur:ta:vol2:translate:figs_ellipsis]])
+  * **followed everything** - AT: "obeyed the instructions"
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:1ch:06|1 Chronicles Chapter 06 Comprehension Questions]]**
+**[[:ur:bible:notes:1ch:06:48|<<]] | [[:ur:bible:notes:1ch:06:50|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

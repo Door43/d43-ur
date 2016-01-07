@@ -1,0 +1,61 @@
+====== Numbers 09:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 One year after the Israelites left Egypt, during the month of March, while they were in the Sinai Desert, Yahweh said to Moses\f + \ft Or: me \f*,
+\v 2 "Tell the Israelite people that they must celebrate the Passover \add festival again\add*.
+\v 3 They must do it on the fourteenth day of this month, early in the evening, and they must obey all the instructions about it \add that I gave you previously\add*."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 One year after the Israelites left Egypt, during the month of March, while they were in the wilderness of Sinai, Yahweh said to Moses,
+\v 2 "Tell the Israelite people that they must celebrate the Passover festival again.
+\v 3 They must do it on the fourteenth day of this month, early in the evening, and they must obey all the instructions about it that I gave you previously."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 Yahweh spoke to Moses in the wilderness of Sinai, in the first month of the second year after they came out from the land of Egypt. He said,
+\v 2 "Let the people of Israel keep the Passover at its fixed time of year.
+\v 3 On the fourteenth day of this month, at evening, you must keep the Passover at its fixed time of year. You must keep it, follow all the regulations, and obey all the decrees that are related to it."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:moses]]
+  * [[:ur:obe:other:desert]]
+  * [[:ur:obe:other:sinai]]
+  * [[ur:obe:other:biblicaltimemonth]]
+  * [[ur:obe:other:biblicaltimeyear]]
+  * [[:ur:obe:other:egypt]]
+  * [[:ur:obe:other:peoplegroup]]
+  * [[:ur:obe:other:israel]]
+  * [[:ur:obe:kt:passover]]
+  * [[ur:obe:other:obey]]
+  * [[:ur:obe:other:decree]]
+
+===== Translation Notes: =====
+
+  * **after they came out from the land of Egypt** - Here the word "they" refers to the people of Israel.
+  * **at its fixed time of year** - AT: "at the time of each year that I have determined"
+  * **follow all the regulations, and obey all the decrees​**  - These two phrases mean basically the same thing and are combined for emphasis. (See: [[:ur:ta:vol2:translate:figs_parallelism]])
+
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:num:09|Numbers Chapter 09 Comprehension Questions]]**
+**[[:ur:bible:notes:num:08:25|<<]] | [[:ur:bible:notes:num:09:04|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

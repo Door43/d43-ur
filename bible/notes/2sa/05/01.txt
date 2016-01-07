@@ -1,0 +1,62 @@
+====== 2 Samuel 05:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Then \add the leaders of\add* all the tribes of Israel came to David at Hebron, and said to him, "Listen, we have the same ancestors [IDI] that you do.
+\v 2 In the past, when Saul was our king, it was you who led our Israelite soldiers \add in our battles\add*. You are the one to whom Yahweh promised, 'You will be the leader \f + \ft metaphor \f* of my people; you will be their king.'~"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Then the leaders of all the tribes of Israel came to David at Hebron and said to him, "Listen, we have the same ancestors that you do.
+\v 2 In the past, when Saul was our king, it was you who led our soldiers into battle. You are the one to whom Yahweh promised, 'You will be the leader of my people. You will be their king.' "
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 5
+\p
+\v 1 Then all the tribes of Israel came to David at Hebron and said, "Look, we are your flesh and bone.
+\v 2 In the recent past, when Saul was king over us, it was you who led the Israelite army. Yahweh said to you, 'You will shepherd my people Israel, and you will become ruler over Israel.' "
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:ur:obe:other:tribe]]
+  * [[:ur:obe:other:israel]]
+  * [[:ur:obe:other:david]]
+  * [[:ur:obe:other:hebron]]
+  * [[:ur:obe:kt:flesh]]
+  * [[:ur:obe:other:saul]]
+  * [[:ur:obe:other:king]]
+  * [[:ur:obe:kt:yahweh]]
+  * [[:ur:obe:other:shepherd]]
+  * [[:ur:obe:kt:peopleofgod]]
+  * [[:ur:obe:other:ruler]]
+ 
+
+===== Translation Notes: =====
+
+  * **we are your flesh and bone **  - This phrase means "relative." AT:"we are related to you" or "we are of the same family." - (See: [[:ur:ta:vol1:translate:figs_idiom|Idiom]])
+  * **In the recent past** - This is historical information. (See: [[ur:ta:vol2:translate:writing_background]]) 
+  * **you** - Here this refers to David. (See: [[ ur:ta:vol2:translate:figs_youformal]]) 
+  * **shepherd my people Israel, ...ruler over Israel** -  These two phrase have similar meanings and are combined here for emphasis. (See: [[:ur:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:ur:bible:questions:comprehension:2sa:05|2 Samuel Chapter 05 Comprehension Questions]]**
+**[[:ur:bible:notes:2sa:04:11|<<]] | [[:ur:bible:notes:2sa:05:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~
