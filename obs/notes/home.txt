@@ -1,0 +1,4 @@
+======OBS translationNotes ======
+
+<nspages ur:obs:notes:frames -sortID -title -exclude:home -nbCol=3 -textPages="List of all OBS Notes Pages:">
+ 
