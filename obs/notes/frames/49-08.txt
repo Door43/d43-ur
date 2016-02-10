@@ -10,7 +10,6 @@
   * **[[:ur:obs:notes:key-terms/sin|sin]]**
   * **[[:ur:obs:notes:key-terms/adam|Adam]]**
   * **[[:ur:obs:notes:key-terms/eve|Eve]]**
-  * **[[:ur:obs:notes:key-terms/sin|sinned]]**
   * **[[:ur:obs:notes:key-terms/descendant|descendants]]**
 
 
