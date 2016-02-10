@@ -5,10 +5,6 @@
   * [[:ur:obe:kt:home]]
   * [[:ur:obe:other:home]]
 
-==== Does a term need to be in either of these lists? ====
-  * [[:ur:bible:team-info:training:topics:kt-yes-no]]
-  * [[ur:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
-  * [[:ur:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
 
 ==== All Terms in the OBE: ====
 
