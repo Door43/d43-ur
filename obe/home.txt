@@ -1,9 +1,9 @@
-====== Complete List of Important Terms - English ======
+====== Complete List of translationWords - Urdu ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ur:obe:kt:home]]
-  * [[:ur:obe:other:home]]
+  * [[:ur:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ur:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
