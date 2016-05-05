@@ -14,11 +14,9 @@
 
 ===== Translation Notes: =====
 
-
-  * **you are cursed** - This could also be translated as, "I curse you" or, "Great harm will come to you." Do not use a word that implies magic.
-  * **hate each other** - The woman would hate the snake and the snake would hate the woman. The women's descendants would also hate the snake's descendants, and the snake's descendants would hate them.
-  * **woman's descendant** - Refers to one of her descendants in particular.
-  * **crush your head** - The descendant of the woman will destroy the descendant of the snake.
-  * **wound his heel** - The descendant of the snake will wound the descendant of the woman.
-
+  * **تجھ پر لعنت ہے**  - اِسے یوں بھی کہا جا سکتا ہے ’’ مَیں تم پر لعنت بھیجتا ہوں‘‘ یا ’’تم پر بہت بڑی مصیبت آئے گی‘‘۔ کوئی ایسا لفظ استعمال نہ کریں جس میں ’’جادو‘‘ کے معانی ہوں۔
+  * **ایک دوسرے سے نفرت**  - عورت سانپ سے اور سانپ عورت سے نفرت کرے گا۔ عورت کی اولاد بھی سانپ سے نفرت کرے گی اور سانپ کی اولاد عورت کی اولاد سے نفرت کرے گی۔
+  * **عورت کی اولاد**  - یہ عورت کی مخصوص اولاد کی طرف اِشارہ ہے۔
+  * **تیرے سر کو کچلے گا**  - عورت کی اولاد سانپ کی اولاد کو تباہ کرے گی۔
+  * **اُس کی ایڑی پر زخم لگائے گا**  - سانپ کی اولاد عورت کی اولاد کو زخم پہنچائے گی۔
 **[[:ur:obs:notes:frames:02-08|<<]] | [[:vi:obs:notes:02|Up]] | [[:en:obs:notes:frames:02-10|>>]]**
