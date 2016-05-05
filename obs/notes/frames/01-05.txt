@@ -15,12 +15,9 @@ Then **God said**, “**Let the earth produce all kinds** of trees and plants.�
 
 ==== Translation Notes: ====
 
-
-  * **God said** - God created all vegetation by speaking a command.
-  * **let the earth produce** - This is a command that happened immediately because God spoke it.
-  * **all kinds** - The many different species, or types, of plants and trees.
-  * **created** - This word is used here in the sense of making something out of nothing.
-  * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-
-
+  * **خدا نے کہا**  - خدا نے ہر طرح کے پودے اور درخت ایک حکم دینے سے پیدا کئے۔
+  * **let the earth produce**  - This is a command that happened immediately because God spoke it.
+  * **ہر طرح کے**  - بہت ساری مختلف اقسام اور نسل کے تمام پودے اور درخت
+  * **created**  - This word is used here in the sense of making something out of nothing.
+  * **was good**  - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
 **[[:ur:obs:notes:frames:01-04|<<]] | [[:en:obs:notes:01|Up]] | [[:en:obs:notes:frames:01-06|>>]]**
