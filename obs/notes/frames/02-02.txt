@@ -13,11 +13,8 @@ But there was a **crafty snake** in the garden. He asked the woman, “**Did God
 
 ==== Translation Notes: ====
 
-
-  * **crafty** - Clever and sly, with the intent to deceive.
-  * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  * **Did God really tell you** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
-
-
+  * **مکار**  - چالاک اور چکر دینے والا، دھوکا دینے کی نیت کے ساتھ۔
+  * **سانپ**  - ایک لمبی اور ٹانگوں کے بغیر مخلوق جو اَب پیٹ کے بل رینگتی ہے۔ اگرچہ کہانی میں بعد میں بتایا گیا ہے کہ وہ سانپ شیطان تھا، لیکن یہاں پر ایسا نہیں بتایا گیا۔
+  * **کیا خدا نے واقعی تمہیں ... **  - سانپ نے عورت سے پوچھا کہ کیا خدا نے واقعی تمہیں باغ کے کسی بھی درخت کا پھل کھانے سے منع کیا ہے۔ لیکن اصل میں وہ صرف ظاہر کر رہا تھا کہ وہ نہیں جانتا کہ خدا نے اُنہیں کیا کہا تھا۔ ایسا ظاہر کر کے وہ عورت کے ذہن میں شک پیدا کرنا چاہتا تھا۔ وہ چاہتا تھا کہ وہ خدا کے بھلا ہونے پر سوال اُٹھائے۔
+  * **کسی بھی درخت کا پھل**  - باغ کے مختلف درختوں میں سے ہر ایک درخت کا پھل
 **[[:ur:obs:notes:frames:02-01|<<]] | [[:en:obs:notes:02|Up]] | [[:en:obs:notes:frames:02-03|>>]]**
