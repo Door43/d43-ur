@@ -15,12 +15,9 @@ Then **God said**, “**Let there be** light!” And there was **light**. God sa
 
 ==== Translation Notes: ====
 
-
-  * **God said** - God created light by means of a simple verbal command.
-  * **let there be** - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, "God said, 'There will be light.'"
-  * **light** - This was a special light that God created–the sun was not created until later.
-  * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
-  * **creation** - This word is used here to refer to the six-day period during which God made everything that exists.
-
-
+  * **خدا نے کہا**  - خدا نے اپنی زبان سے حکم دیا اور روشنی پیدا کی۔
+  * **ہو جائے**  - یہ حکم ہے جس کی فوری طور پر تکمیل ہوئی کیونکہ یہ الفاظ خدا کے منہ سے نکلے تھے۔ اِسے ہم یوں بھی ادا کر سکتے ہیں کہ یہ ایک حتمی حکم تھا جس کی تکمیل یقینی تھی۔
+  * **روشنی**  - یہ خاص روشنی تھی جسے خدا نے پیدا کیا کیونکہ سورج کی تخلیق بعد میں ہوئی تھی۔
+  * **اچھی ہے / اچھا ہے**  - تخلیق کی کہانی میں اِن الفاظ کو اکثر دہرایا گیا ہے۔ یہ الفاظ ظاہر کرتے ہیں کہ خدا تخلیق کے ہر مرحلے سے خوش تھا اور تخلیق کا ہر مرحلہ اُس کے منصوبے اور مقصد کو پورا کر رہا تھا۔
+  * **تخلیق**  - یہاں اِس سے مراد اُن تمام چیزوں کا بنایا جانا ہے جنہیں خدا نے چھے دِنوں میں بنایا۔
 **[[:ur:obs:notes:frames:01-01|<<]] | [[:en:obs:notes:01|Up]] | [[:en:obs:notes:frames:01-03|>>]]**
