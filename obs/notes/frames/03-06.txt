@@ -15,9 +15,7 @@
 
 ===== Translation Notes: =====
 
-
-  * **God sent** - Noah did not need to find the animals. God sent them to him.
-  * **used for sacrifices** - For some languages it may be better to say something like, "animals that were acceptable to sacrifice to God." God had decided that people should sacrifice animals to him, but he only permitted them to sacrifice certain kinds of animals.
-  * **God himself closed the door** - This emphasizes that it was God who shut the door.
-
+  * **خدا نے ... کشتی کی طرف بھیجا**  - حضرت نوح کو خود جانور تلاش کرنے کی ضرورت نہیں تھی۔ خدا نے تمام جانوروں کو کشتی کی طرف بھیجا۔
+  * **قربانی کے لئے**  - اِسے اِس طرح کہنا زیادہ بہتر ہے ’’ایسے جانور جن کی قربانی خدا قبول کرتا ہے۔‘‘ خدا نے یہ فیصلہ کیا تھا کہ لوگوں کو اُس کے سامنے جانور قربان کرنے چاہئیں لیکن اُس نے صرف کچھ خاص قسم کے جانوروں کی قربانی کی اِجازت دی۔
+  * **خدا نے خود دروازہ بند کیا**  - یہاں اِس بات پر زور دیا گیا ہے کہ خدا نے خود کشتی کا دروازہ بند کیا۔
 **[[:ur:obs:notes:frames:03-05|<<]] | [[:vi:obs:notes:03|Up]] | [[:en:obs:notes:frames:03-07|>>]]**
