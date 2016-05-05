@@ -15,11 +15,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **God made** - God formed the man and the woman in a very personal way.
-  * **in his own image** - An image is a physical representation of someone or something. God made people to display or represent some of his qualities and traits, but not to be equal to him.
-  * **very good** - More intense than the, "it was good" statements on previous days. "Very good" refers to all of creation, not just the man and the woman. Everything was exactly as God intended it to be.
-  * **creation** - The six-day period during which God made everything that exists.
-
-
+  * **خدا نے ... بنایا**  - خدا نے مرد اور عورت کو بس کہہ دینے سے نہیں بلکہ بہت شخصی طریقے سے بنایا۔
+  * **اپنی شبیہ پر**  - شبیہ کسی شخص یا چیز کا جسمانی پہلو ہے۔ خدا نے اِنسان کو اِس طرح بنایا کہ وہ خدا کی چند صفات اور خوبیوں کو ظاہر کرے۔ لیکن وہ خدا کے برابر نہیں ہے۔
+  * **بہت اچھی/ اچھا**  - گذشتہ دنوں میں ’’اچھی یا اچھا ہے‘‘ کہا گیا۔ بہت اچھی یا اچھا میں زیادہ شدت پائی جاتی ہے۔ یہ لفظ صرف مرد اور عورت کے لئے نہیں کہے گئے بلکہ تمام تخلیق کے لئے ہیں۔ ہر چیز ویسی ہی تھی جیسے خدا بنانا چاہتا تھا۔
+  * **تخلیق**  - وہ تمام مخلوقات جو خدا نے چھے دِنوں میں خلق کی۔
 **[[:ur:obs:notes:frames:01-14|<<]] | [[:en:obs:notes:01|Up]] | [[:en:obs:notes:frames:01-16|>>]]**
