@@ -17,11 +17,9 @@
 
 ==== Translation Notes: ====
 
-
-  * **ground is cursed** - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-  * **you will die** - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-  * **return to dirt** - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-  * **Eve, which means 'life-giver'** - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-  * **mother of all people** - This means that she would be the female ancestor of all people. Some languages say "she would be the grandmother of all people."
-
+  * **زمین لعنتی ہوئی**  - حضرت آدم کی نافرمانی کی سزا کے نتیجے میں زمین پھل دار نہ رہے گی۔ آدم کو زمین سے خوراک پیدا کرنے کے لئے سخت محنت کرنی ہو گی۔
+  * **تُو مر جائے گا**  - اُن کی نافرمانی کی حتمی سزا موت تھی۔ ہماری خدا سے جدائی روحانی موت ہے اور اپنے جسم سے جدائی جسمانی موت ہے۔
+  * **مٹی میں مل جائے گا**  - خدا نے حضرت آدم کو گرد یا مٹی سے بنایا اور اُسے زندگی دی۔ گناہ کرنے کا نتیجہ یہ ہوا کہ اُس کی زندگی اُس سے واپس لے لی جائے گی اور اُس کا جسم اُسی مٹی میں مل جائے گا جس سے وہ بنایا گیا تھا۔
+  * **بی بی حوا کے نام کا مطلب ہے ’’زندگی دینے والی‘‘۔ **  - خدا نے حضرت آدم اور بی بی حوا کو زندگی دی جو بچے پیدا کرنے کے ذریعے دوسرے اِنسانوں تک پہنچی۔
+  * **تمام افراد کی ماں**  - اِس کا مطلب ہے کہ وہ تمام لوگوں کی مونث جدِامجد ہے۔ کچھ زبانوں میں اِسے یوں کہا گیا ہے کہ ’’وہ تمام لوگوں کی دادی/ نانی ہے۔‘‘
 **[[:ur:obs:notes:frames:02-10|<<]] | [[:vi:obs:notes:02|Up]] | [[:en:obs:notes:frames:02-12|>>]]**
