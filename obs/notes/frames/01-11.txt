@@ -18,14 +18,11 @@
 
 ==== Translation Notes: ====
 
-
-  * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **garden** - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  * **tree of life** - Anyone who ate fruit from this tree would never die.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know both good and evil.
-  * **knowledge** - To know or understand by personal experience.
-  * **good and evil** - Evil is the opposite of good. Just as "good" refers to what is pleasing to God, "evil" refers to everything that is not pleasing to God.
-  * **die** - In this instance, he would die both physically and spiritually.
-
-
+  * **باغ کے بیچ میں**  - باغ کے درمیان میں ہونے سے اُن دونوں درختوں کی اہمیت واضح ہوتی ہے۔
+  * **باغ**  - زمین کے ایک حصے پر درخت اور پودے لگائے گئے جس کا مقصد عام طور پر خوراک اور خوبصورتی مہیا کرنا تھا۔
+  * **حیات کا درخت**  - جو شخص بھی اِس درخت کا پھل کھائے گا وہ کبھی نہیں مرے گا۔
+  * **نیک و بد کی پہچان کا درخت**  - اِس درخت کا پھل کھانے سے کوئی شخص نیکی اور بدی دونوں کی پہچان حاصل کرنے کے قابل ہو سکتا تھا۔
+  * **پہچان**  - شخصی تجربے سے جاننا یا سمجھنا۔
+  * **نیک و بد**  - بدی، نیکی کا اُلٹ ہے۔ یہ بالکل ایسے ہی ہے جیسے ’’اچھا‘‘۔ اِس سے مراد وہ کام ہے جس سے خدا خوش ہوتا ہے۔ ’’بدی‘‘ سے مراد ہر وہ کام ہے جس سے خدا خوش نہیں ہوتا۔
+  * **مرنا**  - اِس جملے میں ’’مر جائیں گے‘‘ سے مراد ہے کہ وہ روحانی اور جسمانی دونوں طرح سے مریں گے۔
 **[[:ur:obs:notes:frames:01-10|<<]] | [[:en:obs:notes:01|Up]] | [[:en:obs:notes:frames:01-12|>>]]**
