@@ -12,7 +12,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **childbirth very painful** - Some languages may need to express this as a verb. You could say, "I will cause you to have much more pain when you give birth to children."
-
+  * **بچے کی پیدائش بہت تکلیف دہ**  - ہو سکتا ہے کچھ زبانوں میں یہ فعل کے طور پر ظاہر ہو۔ اِسے اِس طرح بیان کیا جا سکتا ہے ’’جب تُو بچہ پیدا کرے گی تو مَیں تیری تکلیف کو بہت بڑھا دوں گا۔‘‘
 **[[:ur:obs:notes:frames:02-09|<<]] | [[:vi:obs:notes:02|Up]] | [[:en:obs:notes:frames:02-11|>>]]**
