@@ -13,10 +13,8 @@
 
 ===== Translation Notes: =====
 
-
-  * **many years after the flood** - Many generations had passed since the end of the flood.
-  * **again many people** - Noah's family multiplied into enough people to fill a city.
-  * **same language** - This means there was only one language, so they could all understand each other.
-  * **a city** - It is best to use a general word for "city" since the text does not give a specific name.
-
+  * **سیلاب کے بہت سالوں کے بعد**  - سیلاب آنے کے بعد کئی نسلیں گزر گئیں۔
+  * **لوگ پھر بڑھنے لگے**  - نوح کا خاندان اِتنا بڑا ہو گیا کہ ایک شہر اُن سے بھر گیا۔
+  * **ایک ہی زبان**  - اِس کا مطلب ہے کہ وہ سب ایک ہی زبان بولتے تھے۔ اِس لئے وہ ایک دوسرے کی بات سمجھتے تھے۔
+  * **ایک شہر**  - بہتر ہو گا کہ ہم ’’شہر‘‘ کے لئے استعمال ہونے والا عام لفظ ہی استعمال کریں کیونکہ متن میں کوئی خاص شہر کا نام نہیں بتایا گیا۔
 **[[:ur:obs:notes:frames:03-16|<<]] | [[:vi:obs:notes:04|Up]] | [[:en:obs:notes:frames:04-02|>>]]**
