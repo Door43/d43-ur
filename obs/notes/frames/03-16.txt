@@ -14,12 +14,10 @@
 
 ===== Translation Notes: =====
 
-
-  * **rainbow** - This is the multicolored arc of light that often appears in the sky after a rainstorm.
-  * **a sign** - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
-  * **as a sign of his promise** – In some languages it may be better to say, "to show that he had promised."
-  * **Every time** – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, "From then on, every time."
-  * **what he promised** - This refers back to the previous frame in which God promised to never again destroy the earth with a flood.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
+  * **قوسِ قزح**  - یہ مختلف رنگوں میں روشنی کی ایک کمان ہے جو اکثر بارش کے بعد آسمان پر دِکھائی دیتی ہے۔
+  * **ایک نشان **  - نشان (مثلاً کوئی چیز یا واقعہ) کا کوئی خاص مطلب ہوتا ہے یا وہ کسی خاص چیز کی طرف اِشارہ کرتا ہے جو حقیقی ہو یا وقوع میں آنے والی ہو۔
+  * **وعدے کے نشان کے طور پر **  – اِس کو زیادہ واضح انداز میں اِس طرح کہا جا سکتا ہے ’’یہ ظاہر کرنا کہ اُس نے وعدہ کیا ہے۔‘‘
+  * **جب کبھی / ہر بار**  – یعنی اُس وقت سے لے کر جب کبھی وہ قوسِ قزح ظاہر ہوتی ہے۔ اِس میں یہ اضافہ کرنا بھی ضروری ہے کہ ’’اُس وقت سے لے کر آج تک ہر بار۔‘‘
+  * **اُس نے وعدہ کیا**  - خدا نے وعدہ کیا کہ اَب وہ کبھی بھی زمین کو سیلاب سے تباہ و برباد نہیں کرے گا۔
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:ur:obs:notes:frames:03-15|<<]] | [[:vi:obs:notes:03|Up]] | [[:en:obs:notes:frames:04-01|>>]]**
