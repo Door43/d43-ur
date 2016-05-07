@@ -15,7 +15,5 @@
 
 ===== Translation Notes: =====
 
-
-  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, "After twenty years living in the land where his relatives were."
-
+  * **بیس سال ... کے بعد**  - حضرت یعقوب اپنی ماں کے ملک میں بیس سال رہے۔ اِسے مزید واضح کرنے کے لئے یوں کہا جا سکتا ہے کہ ’’اپنے رشتے داروں کے ملک میں بیس سال رہنے کے بعد۔‘‘
 **[[:ur:obs:notes:frames:07-07|<<]] | [[:vi:obs:notes:07|Up]] | [[:en:obs:notes:frames:07-09|>>]]**
