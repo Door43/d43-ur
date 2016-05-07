@@ -20,8 +20,6 @@
 
 ===== Translation Notes: =====
 
-
-  * **Many years** - Several years had passed since God had first promised that Abram would have a son.
-  * **as the stars in the sky** - This expression means that Abram's descendants will be so many that no one can count them all.
-
+  * **بہت سال گزر گئی**  - جب خدا نے پہلی بار ابرام کو بیٹا دینے کا وعدہ کیا تھا اُس کے بعد کئی سال گزر گئے۔
+  * **جیسے آسمان پر ستارے**  - اِس کا مطلب ہے کہ ابرام کی اولاد اِتنی زیادہ ہو گی کہ کوئی اُنہیں شمار نہیں کر سکے گا۔
 **[[:ur:obs:notes:frames:04-07|<<]] | [[:vi:obs:notes:04|Up]] | [[:en:obs:notes:frames:04-09|>>]]**
