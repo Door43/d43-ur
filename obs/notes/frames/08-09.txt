@@ -13,9 +13,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **store up large amounts of food** - They took food from the abundant harvests to the cities and stored it there. The food then belonged to Pharaoh.
-  * **famine** - See how you translated this in **[[:ur:obs:notes:frames:08-07|[08-07]]]**.
-
-
+  * **اناج کی بہت بڑی مقدار ذخیرہ کر لی**  - خوش حالی کے سالوں میں اُنہیں بہت اناج حاصل ہوا اور اُنہوں نے اُسے ذخیرہ کر لیا۔ ذخیرہ شدہ اناج فرعون کی ملکیت بن گیا۔
+  * **قحط**  - باغوں اور کھیتوں میں اِتنی فصل نہیں اُگے گی کہ لوگوں اور جانوروں کے لئے کافی خوراک مہیا ہو سکے۔.
 **[[:ur:obs:notes:frames:08-08|<<]] | [[:en:obs:notes:08|Up]] | [[:en:obs:notes:frames:08-10|>>]]**
