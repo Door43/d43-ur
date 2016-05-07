@@ -17,10 +17,8 @@
 
 ===== Translation Notes: =====
 
-
-  * **never again** - This means, "not ever again" or, "not again at any time" or, "truly not again". Examples: "I will not ever again curse the ground" or, "I will not curse the ground again at any time" or, "I will truly not curse the ground again".
-  * **curse the ground** - The earth and the other creatures suffered because of man's sin.
-  * **the world** – This refers to the earth and the living creatures that lived on it.
-  * **people are sinful from the time they are children** - Another way to say this would be, "people do sinful things their entire lives."
-
+  * **دوبارہ کبھی نہیں**  - اِس کا مطلب ہے ’’اَب دوبارہ کبھی بھی نہیں‘‘ یا ’’اَب کسی بھی زمانے میں ایسا نہیں کروں گا‘‘ مثلاً ’’اَب مَیں کبھی بھی زمین پر لعنت نہ بھیجوں گا۔‘‘ یا ’’ مَیں کسی بھی زمانے میں زمین پر لعنت نہیں بھیجوں گا‘‘ یا ’’ مَیں واقعی زمین پر کبھی لعنت نہیں بھیجوں گا۔‘‘
+  * **زمین پر لعنت**  - زمین اور دیگر مخلوقات اِنسان کے گناہ کی وجہ سے مصیبت اُٹھائیں۔
+  * **دُنیا**  – اِس سے مراد ہے زمین اور اُس پر رہنے والی جاندار مخلوقات
+  * **لوگ بچپن ہی سے گنہگار ہوتے ہیں۔ **  - اِس کا مطلب ہے ’’لوگ ساری زندگی گناہ کرتے رہتے ہیں۔‘‘
 **[[:ur:obs:notes:frames:03-14|<<]] | [[:vi:obs:notes:03|Up]] | [[:en:obs:notes:frames:03-16|>>]]**
