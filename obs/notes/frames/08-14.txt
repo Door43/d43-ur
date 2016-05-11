@@ -15,9 +15,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-
-
+  * **اگرچہ حضرت یعقوب ایک بوڑھے آدمی تھے تاہم وہ ... مصر چلے گئے۔**  - مصر کنعان سے بہت دُور تھا اور ایک بزرگ آدمی کے لئے اِتنا لمبا سفر کرنا مشکل تھا۔
+  * **Before Jacob died**  - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
 **[[:ur:obs:notes:frames:08-13|<<]] | [[:en:obs:notes:08|Up]] | [[:en:obs:notes:frames:08-15|>>]]**
