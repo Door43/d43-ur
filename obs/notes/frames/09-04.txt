@@ -15,8 +15,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **saw** – Another way to say this would be, "realized" or, "knew."
-
-
+  * **دیکھا** اِسے یوں بھی بیان کیا جا سکتا ہے کہ ’’سمجھ لیا‘‘ یا ’’جان لیا۔‘‘
 **[[:ur:obs:notes:frames:09-03|<<]] | [[:en:obs:notes:09|Up]] | [[:en:obs:notes:frames:09-05|>>]]**
