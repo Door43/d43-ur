@@ -15,9 +15,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **Egypt, but also Canaan** – For some languages it may be clearer or more natural to say, "the country of Egypt, but also the land of Canaan."
-  * **The famine was severe** - The famine was very bad. There was very little food and many people outside of Egypt were starving.
-
-
+  * **نہ صرف مصر ... بلکہ کنعان میں بھی **  اِسے زیادہ واضح انداز میں یوں کہا جا سکتا ہے کہ ’’نہ صرف مصر کے ملک میں بلکہ کنعان کی سرزمین پر بھی قحط پڑا۔‘‘
+  * **سخت قحط**  - قحط بہت شدید تھا۔ خوراک بہت کم تھی اور مصر سے باہر لوگ بھوکے مر رہے تھے۔
 **[[:ur:obs:notes:frames:08-09|<<]] | [[:en:obs:notes:08|Up]] | [[:en:obs:notes:frames:08-11|>>]]**
