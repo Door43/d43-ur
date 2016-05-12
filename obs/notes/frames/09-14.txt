@@ -17,11 +17,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **the people** - See "my people" in **[[:ur:obs:notes:frames:09-13|[09-13]]]**.
-  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live.
-  * **my name** - The name that God told Moses and all of Israel to use for him is "Yahweh," which is related to "I AM" and appears to mean, "HE IS."
-
-
+  * **لوگ**  - دیکھیں ’’اپنے لوگ‘‘ (۱۳-۰۹).
+  * **مَیں جو ہوں سو ہوں**  - یہ بیان ظاہر کرتا ہے کہ خدا خود ہی اپنی وضاحت کر سکتا ہے۔ ہمارے علم میں جو بھی ہے اُس سے خدا کی تعریف نہیں کی جا سکتی۔ اُس کا کسی بھی شخص یا چیز سے موازنہ نہیں کیا جا سکتا۔
+  * **مَیں ہوں**  - یہ نام اِس بات پر زور دیتا ہے کہ صرف خدا ہی وہ ہستی ہے جو ہمیشہ سے موجود تھی اور ہمیشہ موجود رہے گی۔
+  * **میرا نام **  - خدا نے اپنا جو نام حضرت موسیٰ کو بتایا اور جسے تمام اِسرائیلیوں نے استعمال کرنا تھا وہ ہے ’’یہوواہ‘‘۔ اِس نام کا تعلق ’’ مَیں ہوں‘‘ سے ہے اور اِس سے مراد ہے ’’وہ ہے‘‘ یا ’’قائم بِا لذّات‘‘۔
 **[[:ur:obs:notes:frames:09-13|<<]] | [[:en:obs:notes:09|Up]] | [[:en:obs:notes:frames:09-15|>>]]**
