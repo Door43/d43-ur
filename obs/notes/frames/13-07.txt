@@ -20,11 +20,8 @@ Then **God** wrote **these Ten Commandments** on two **stone tablets** and gave 
 
 ==== Translation Notes: ====
 
-
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:ur:obs:notes:frames:13-05|[13-05]]]** and **[[:en:obs:notes:frames:13-06|[13-06]]]**.
-  * **stone tablets** - These were flat pieces of stone.
-  * **God also gave** - This can be translated as, "God also told them."
-  * **to follow** - This can be translated as, "that they must obey" or, "that they must keep."
-
-
+  * **یہ دس احکام**  - یعنی وہ دس احکام جو خدا نے حضرت موسیٰ کو اِسرائیلیوں کے لئے دیئے تاکہ وہ اُن پر عمل کریں۔ اِن کی فہرست کے لئے دیکھیں (۰۵-۱۳، ۰۶-۱۳)۔.
+  * **پتھر کی لوحیں**  - یہ پتھر کے بنے چپٹے ٹکڑے تھے۔
+  * **خدا نے اَور بھی ... دیئے**  - اِس کا مطلب ہے ’’خدا نے اُنہیں یہ بھی بتایا۔‘‘
+  * **اِن قوانین کو مانیں گے**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’اُنہیں ضرور فرماں برداری کرنی ہے‘‘ یا ’’اُنہیں ضرور قائم رہنا ہے۔‘‘
 **[[:ur:obs:notes:frames:13-06|<<]] | [[:en:obs:notes:13|Up]] | [[:en:obs:notes:frames:13-08|>>]]**
