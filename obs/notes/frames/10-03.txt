@@ -15,8 +15,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **turned the Nile River into blood** - Some languages may need to say, "turned the water in the Nile River into blood." Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-
-
+  * **دریائے نیل کو خون میں بدل دیا**  - دیگر الفاظ میں ’’دریائے نیل کے پانی کو خون بنا دیا۔‘‘ دریا میں پانی کے بجائے خون تھا۔ اِس لئے دریا کی مچھلیاں مر گئیں اور لوگوں کے پاس پینے کے لئے پانی نہیں تھا۔
 **[[:ur:obs:notes:frames:10-02|<<]] | [[:en:obs:notes:10|Up]] | [[:en:obs:notes:frames:10-04|>>]]**
