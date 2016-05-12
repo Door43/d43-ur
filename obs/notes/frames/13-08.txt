@@ -15,11 +15,8 @@
 
 ==== Translation Notes: ====
 
-
-  * **a detailed description** - This could be translated as, "God described it in detail" or, "God told them exactly how He wanted them to make it."
-  * **It was called** - This could be translated as, "They called it" or, "Moses called it."
-  * **the room behind the curtain** - This room was hidden by the curtain. Some languages would call this room, "the room in front of the curtain."
-  * **God lived there** - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: "God was there" or, "God revealed Himself to humans there."
-
-
+  * **مکمل تفصیل**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’خدا نے تفصیل سے اِسے بیان کیا‘‘ یا ’’جس طرح سے خدا چاہتا تھا کہ وہ اِسے بتائیں ٹھیک اُسی طرح اُنہیں بتایا۔‘‘
+  * **اُس کو ... کہا گیا**  - یعنی ’’اُنہوں نے اُسے کہا‘‘ یا ’’حضرت موسیٰ نے یہ کہا۔‘‘
+  * **پردے کے پیچھے والے کمرے میں**  - اِس کمرے کو ایک پردے سے الگ کیا گیا تھا۔ دیگر الفاظ میں ’’وہ کمرا جو پردے کے سامنے تھا۔‘‘
+  * **وہاں خدا موجود تھا**  - اگر اِس جملے سے لوگوں کے ذہن میں یہ خیال پیدا ہو کہ خدا اُس خیمے میں محدود ہو گیا تھا تو اِس کا اِس طرح ترجمہ کر سکتے ہیں: ’’خدا وہاں تھا‘‘ یا ’’خدا نے وہاں اپنے آپ کو اِنسانوں پر ظاہر کیا۔‘‘
 **[[:ur:obs:notes:frames:13-07|<<]] | [[:en:obs:notes:13|Up]] | [[:en:obs:notes:frames:13-09|>>]]**
