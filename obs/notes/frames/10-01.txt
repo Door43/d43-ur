@@ -19,12 +19,9 @@
 
 ==== Translation Notes: ====
 
-
-  * **to Pharaoh** – It may be clearer to say, "to Pharaoh's palace to talk to him."
-  * **God of Israel** - This could be translated as, "God, who chose the Israelites to be his people" or, "God, who rules the people of Israel" or, "the God whom the Israelites worship."
-  * **Let My people go** – Another way to say this would be, "Allow My people to go free" or, "Free My people to leave Egypt."
-  * **my people** - See "my people" in **[[:ur:obs:notes:frames:09-13|[09-13]]]**.
-  * **listen to** – This could be translated as "heed" or, "obey."
-
-
+  * **فرعون کے پاس**  – زیادہ واضح انداز میں یوں کہا جا سکتا ہے ’’فرعون کے پاس اُس کے محل میں گیا تاکہ اُس سے بات کرے۔‘‘
+  * **اِسرائیل کا خدا**  - یعنی ’’وہ خدا جس نے اِسرائیلیوں کو اپنے لوگ بنانے کے لئے چن لیا‘‘ یا ’’خدا جو اِسرائیل کے لوگوں پر حکمران ہے‘‘ یا ’’خدا جس کی اِسرائیلی عبادت کرتے ہیں۔‘‘
+  * **میرے لوگوں کو جانے دے! **  – دیگر الفاظ میں ’’ میرے لوگوں کو آزادی سے جانے کی اِجازت دے‘‘ یا ’’میرے لوگوں کو آزاد کر دے تاکہ وہ مصر سے چلے جائیں۔‘‘
+  * **میرے لوگ**  - دیکھیں ’’اپنے لوگ‘‘ (۱۳-۰۹).
+  * **بات سننا**  – یعنی ’’توجہ دینا‘‘ یا ’’فرماں برداری کرنا‘‘۔
 **[[:ur:obs:notes:frames:09-15|<<]] | [[:en:obs:notes:10|Up]] | [[:en:obs:notes:frames:10-02|>>]]**
