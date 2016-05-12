@@ -19,10 +19,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, "Then God told them His covenant. He said" or, "Then God made this covenant with them:"
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say "your God Yahweh." Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, "Yahweh, who is your God" or, "your God, whose name is Yahweh."
-  * **who saved you from slavery** - This could be translated as, "I freed you from slavery."
-
-
+  * **تب خدا نے اُن کے ساتھ عہد باندھا اور کہا **  - خدا نے آگے جو باتیں کہیں وہ عہد کی باتوں کی فہرست ہے۔ اُس نے لوگوں کو وہ باتیں بتائیں جس کی اُنہیں لازمی طور پر فرماں برداری کرنی تھی۔ یوں بھی کہا جا سکتا ہے ’’پھر خدا نے اُنہیں اپنا عہد بتایا۔ اُس نے کہا‘‘ یا ’’پھر خدا نے اُن کے ساتھ عہد باندھا۔‘‘
+  * **مَیں یہوواہ تمہارا خدا**  - اِن الفاظ کی ترتیب بدلنے سے یہ جملہ زیادہ فطری ہو سکتا ہے، ’’ مَیں تمہارا خدا یہوواہ‘‘۔ اِس بات کا خیال رکھیں کہ اِس کا یہ مطلب نہیں نکلتا کہ اِسرائیلیوں کے ایک سے زیادہ خدا تھے۔ یہ واضح ہونا چاہئے کہ یہوواہ واحد خدا ہے۔ اِس کا ترجمہ یوں بھی کیا جا سکتا ہے ’’یہوواہ، جو تمہارا خدا ہے۔‘‘ یا ’’تمہارا خدا، جس کا نام یہوواہ ہے۔‘‘
+  * **جو تمہیں مصر کی غلامی سے چھڑا لایا۔ **  - اِس کا ترجمہ یوں بھی کر سکتے ہیں، ’’ مَیں نے تجھے غلامی سے آزاد کیا‘‘۔
 **[[:ur:obs:notes:frames:13-03|<<]] | [[:en:obs:notes:13|Up]] | [[:en:obs:notes:frames:13-05|>>]]**
