@@ -18,12 +18,9 @@
 
 ==== Translation Notes: ====
 
-
   * (God continues speaking to Moses.)
-  * **I, Yahweh, am a jealous God** - This could be translated as, "I, Yahweh, will be angry if you worship or honor anything besides me." God strongly desires that his people love, serve, and obey Him more than anything or anyone else. He must be the only master of their lives.
-  * **Do not use my name in a disrespectful way** - This could be translated as, "Do not talk about me in a way that does not show respect and honor" or, "Talk about me in a way that gives me proper respect and honor."
-  * **seventh day** - To translate this, it is best to use the number ("seventh") rather than give the name of a specific day of the week.
-  * **to remember me** - This could be translated as, "to keep me in mind" or, "to honor me."
-
-
+  * **مَیں ... یہوواہ غیور خدا ہوں**  - اِس سے مراد ہے ’’اگر تم میرے علاوہ کسی اَور کی عبادت یا تعظیم کرو گے تو مَیں تم سے ناراض ہو جاؤں گا۔‘‘ خدا کی شدید خواہش ہے کہ اُس کے لوگ کسی بھی دوسری چیز یا شخص سے زیادہ اُسے پیار کریں۔ اُس کی خدمت اور تابع فرمانی کریں۔ یہ ضروری ہے کہ وہ اُن کی زندگیوں کا واحد مالک ہو۔
+  * **میرا نام بے حرمتی سے استعمال مت کرنا**  - یعنی ’’میرے متعلق اِس طرح گفتگو نہ کرنا جس سے میرے لئے عزت کا اظہار نہ ہو‘‘ یا ’’میرے متعلق اِس طرح گفتگو کرنا جس سے میرے لئے عزت و تعظیم کا اِظہار ہو‘‘۔
+  * **ساتواں دن**  - اِس کا ترجمہ کرنے کا بہتر طریقہ یہ ہے کہ ہفتے کے کسی مخصوص دن کا نام لینے کے بجائے اُس کا عدد (ساتواں) استعمال کیا جائے۔
+  * **مجھے یاد کرنا**  - یعنی ’’مجھے اپنے ذہن میں رکھنا‘‘ یا ’’میری عزت کرنا۔‘‘
 **[[:ur:obs:notes:frames:13-04|<<]] | [[:en:obs:notes:13|Up]] | [[:en:obs:notes:frames:13-06|>>]]**
