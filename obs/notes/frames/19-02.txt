@@ -20,9 +20,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **until I say so** - This may be translated as, "until I command the rain and dew to come again."
-  * **This made Ahab very angry** – This could be translated as, "When Ahab heard what Elijah said, he became very angry."
-
-
+  * **جب تک مَیں نہ کہوں**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’جب تک مَیں بارش برسنے اور اوس پڑنے کا دوبارہ حکم نہ دوں۔‘‘
+  * **اِس بات پر اَخی اَب کو بہت غصہ آیا**  – یعنی ’’جب اخی اَب نے حضرت ایلیاہ کی یہ بات سنی تو وہ بہت غصے میں آ گیا۔‘‘
 **[[:ur:obs:notes:frames:19-01|<<]] | [[:en:obs:notes:19|Up]] | [[:en:obs:notes:frames:19-03|>>]]**
