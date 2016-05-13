@@ -16,8 +16,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **David's own descendants** - Another way to say this would be, "a direct descendant of David himself."
-
-
+  * **حضرت داؤد کی نسل میں سی**  - دیگر الفاظ میں یوں کہا جائے گا ’’حضرت داؤد کی نسل میں سے براہِ راست‘‘۔
 **[[:ur:obs:notes:frames:21-03|<<]] | [[:en:obs:notes:21|Up]] | [[:en:obs:notes:frames:21-05|>>]]**
