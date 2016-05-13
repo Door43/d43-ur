@@ -15,8 +15,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **a giant named Goliath** - The word "giant" here describes a person who is unusually large and powerful. Goliath was a huge soldier in an army that was fighting against Israel.
-
-
+  * **جولیت نامی ایک دیو ہیکل**  - یہاں دیوہیکل کا مطلب ہے ایک ایسا شخص جو غیر معمولی طور پر لمبا اور طاقتور تھا۔ جولیت اُس فوج کا ایک قدآور سپاہی تھا جو اِسرائیل کے خلاف لڑ رہی تھی۔
 **[[:ur:obs:notes:frames:17-02|<<]] | [[:en:obs:notes:17|Up]] | [[:en:obs:notes:frames:17-04|>>]]**
