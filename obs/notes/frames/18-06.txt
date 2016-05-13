@@ -14,8 +14,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **foolishly answered** - Rehoboam's answer was harsh, and caused the people to turn against him.
-
-
+  * **بے وقوفی سے ... جواب دیا**  - رحبعام نے اُنہیں سخت جواب دیا اور اِس وجہ سے لوگ اُس کے خلاف ہو گئے۔
 **[[:ur:obs:notes:frames:18-05|<<]] | [[:en:obs:notes:18|Up]] | [[:en:obs:notes:frames:18-07|>>]]**
