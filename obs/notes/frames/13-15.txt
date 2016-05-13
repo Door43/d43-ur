@@ -19,10 +19,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **listened to** - See how you translated this phrase in **[[:ur:obs:notes:frames:13-12|[13-12]]]**.
-  * **Moses wrote** - Moses chiseled the words into the stone using a tool.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+  * **listened to**  - See how you translated this phrase in **[[:ur:obs:notes:frames:13-12|[13-12]]]**.
+  * **حضرت موسیٰ نے بنائیں**  - حضرت موسیٰ نے ہتھیاروں مثلاً ہتھوڑے اور چھینی سے بنائیں۔
+  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 **[[:ur:obs:notes:frames:13-14|<<]] | [[:en:obs:notes:13|Up]] | [[:en:obs:notes:frames:14-01|>>]]**
