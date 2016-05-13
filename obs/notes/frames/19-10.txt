@@ -22,11 +22,8 @@ Then **Elijah prayed**, “**Yahweh**, **God** of **Abraham**, **Isaac**, and **
 
 ==== Translation Notes: ====
 
-
-  * **show us** - That is, "prove to us" or, "demonstrate to us."
-  * **I am your servant** - This could be translated as, "You have given me authority to serve you and do these things."
-  * **Answer me** - That is, "respond to my prayer" or, "send the fire that I have asked you for."
-  * **these people will know** - This may be translated as, "these people will see and understand."
-
-
+  * **ہمیں یہ دِکھا**  - یعنی ’’ہمیں ثبوت دے‘‘ یا ’’ہمارے سامنے اِس کا مظاہرہ کر‘‘۔
+  * **مَیں تیرا نوکر ہوں**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’ تُو نے مجھے اپنی خدمت اور یہ کام کرنے کا اِختیار دیا ہے۔‘‘
+  * **مجھے ایسا جواب دی**  - یعنی ’’میری دعا کا جواب دے‘‘ یا ’’ جس آگ کے لئے مَیں نے تجھے کہا ہے وہ بھیج دے۔‘‘
+  * **یہ لوگ جان جائیں**  - یعنی ’’یہ لوگ دیکھیں گے اور سمجھ لیں گے۔‘‘
 **[[:ur:obs:notes:frames:19-09|<<]] | [[:en:obs:notes:19|Up]] | [[:en:obs:notes:frames:19-11|>>]]**
