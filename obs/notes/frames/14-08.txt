@@ -17,9 +17,6 @@
 
 ==== Translation Notes: ====
 
-
-  * **came to** - God did not appear as a person, but came in some other form that showed his glory and power.
-  * **wander in the wilderness** - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
-
-
+  * **خدا ... آیا**  - خدا ایک شخص کی طرح نہیں آیا تھا۔ لیکن وہ اِس طرح سے ظاہر ہوا کہ اُس کے جلال اور قدرت کا اِظہار ہوا۔
+  * **بیابان میں آوارہ**  - خدا اِسرائیلیوں کو کسی مخصوص منزل کے بغیر اُس وقت تک بیابان میں پھراتا رہے گا جب تک وہ سب بالغ لوگ مر نہ جائیں جنہوں نے خدا کے خلاف بغاوت کی تھی۔
 **[[:ur:obs:notes:frames:14-07|<<]] | [[:en:obs:notes:14|Up]] | [[:en:obs:notes:frames:14-09|>>]]**
