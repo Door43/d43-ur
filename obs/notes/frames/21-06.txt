@@ -16,8 +16,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **perfect prophet** - The Messiah would be a prophet who is perfect in obedience to God, giving every word God would speak to the people. He would present God perfectly to the people, helping them to know and understand God.
-
-
+  * **کامل نبی**  - مسیح ایک ایسا نبی ہو گا جو خدا کی مکمل تابع فرمانی کرے گا۔ وہ لوگوں کو خدا کی باتیں بتائے گا۔ وہ لوگوں کے سامنے خدا کو کامل طور پر پیش کرے گا اور اُن کی مدد کرے گا کہ وہ خدا کو جانیں اور سمجھیں۔
 **[[:ur:obs:notes:frames:21-05|<<]] | [[:en:obs:notes:21|Up]] | [[:en:obs:notes:frames:21-07|>>]]**
