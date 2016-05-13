@@ -19,8 +19,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
-
-
+  * **ہیکل تعمیر کرنا**  - حضرت داؤد خدا کی عبادت کرنے کے لئے خیمہ اِجتماع کے بجائے ایک مستقل عمارت تعمیر کرنا چاہتے تھے۔
 **[[:ur:obs:notes:frames:17-05|<<]] | [[:en:obs:notes:17|Up]] | [[:en:obs:notes:frames:17-07|>>]]**
