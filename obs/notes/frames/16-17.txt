@@ -18,8 +18,5 @@
 
 ==== Translation Notes: ====
 
-
-  * **This pattern repeated many times** - This could be translated as, "These things kept happening again and again" or, "These things happened many times."
-
-
+  * **ایسا کئی بار ہوا**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’یہ صورتِ حال بار بار واقع ہوتی رہی‘‘ یا ’’اِسی طرح کئی دفعہ ہوا‘‘۔
 **[[:ur:obs:notes:frames:16-16|<<]] | [[:en:obs:notes:16|Up]] | [[:en:obs:notes:frames:16-18|>>]]**
