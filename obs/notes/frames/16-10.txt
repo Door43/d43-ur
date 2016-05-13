@@ -14,10 +14,7 @@
 
 ==== Translation Notes: ====
 
-
-  * **32,000 Israelite soldiers came to Gideon** - Some languages might need to insert the following sentence at the beginning of the story: "Gideon called the Israelites to come fight against the Midianites." See **[[:ur:obs:notes:frames:16-08|[16-08]]]**.
-  * **too many** - This was more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it.
-  * **except for 300 soldiers** - This sentence could be translated as, "So Gideon allowed only 300 men to stay, and the rest of the men went home."
-
-
+  * **۳۲۰۰۰ اِسرائیلی فوجی سپاہی جدعون کے پاس آئے۔ **  - کہانی کے آغاز میں اِس جملے کا اضافہ کرنے کی ضرورت ہو سکتی ہے ’’جدعون نے اسرائیلیوں کو مدیانیوں کے خلاف لڑنے کے لئے بلایا‘‘ (دیکھیں ۰۸-۱۶)۔.
+  * **یہ بہت زیادہ ہیں**  - خدا کو اِس جنگ کے لئے جتنے سپاہی درکار تھے یہ اُس سے بہت زیادہ تھے۔ اگر اِتنے زیادہ سپاہی جنگ لڑتے اور جیت جاتے تو وہ سمجھتے کہ اُنہوں نے اپنی طاقت سے جنگ جیتی ہے۔ اِس طرح وہ یہ جان نہ پاتے کہ یہ فتح خدا نے دلائی ہے۔
+  * **سوائے ۳۰۰ فوجی سپاہیوں کے**  - اِس جملے کا ترجمہ اِس طرح بھی ہو سکتا ہے ’’جدعون نے صرف ۳۰۰ سپاہیوں کو وہاں رُکنے کی اِجازت دی اور باقی کے سپاہی اپنے گھر چلے گئے۔‘‘
 **[[:ur:obs:notes:frames:16-09|<<]] | [[:en:obs:notes:16|Up]] | [[:en:obs:notes:frames:16-11|>>]]**
