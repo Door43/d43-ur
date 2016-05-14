@@ -16,11 +16,9 @@
 
 ===== Translation Notes: =====
 
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The "wise men" were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, "From their studies, these scholars realized."
-  * **the house** - They were no longer staying in the place for animals where he was born.
-
-
+  * **کچھ عرصے بعد**  - یہ واضح نہیں ہے کہ مسیح کی پیدائش کے کتنی دیر بعد یا پہلے اُن دانش وروں نے ستارہ دیکھا تھا۔ لیکن ہو سکتا ہے کہ اُنہیں اپنے سفر کی تیاری کر کے بیت لحم تک پہنچنے میں دو سال لگے ہوں۔
+  * **دانش ور آدمی**  - ’’دانش ور آدمی‘‘ غالباً ماہر فلکیات تھے جو ستاروں کا مطالعہ کرتے تھے۔ ممکن ہے اُنہوں نے پرانے عہدنامے کے نبیوں کے متعلق پڑھا ہو جنہوں نے مسیح کی پیدائش کی پیش گوئیاں کی تھیں۔
+  * **غیر معمولی ستارہ**  - جو ستارہ اُنہوں نے دیکھا تھا وہ عام ستارہ نہیں تھا۔ وہ مختلف ستارہ تھا جو صرف یسوع کی پیدائش پر دِکھائی دیا تھا۔
+  * **وہ سمجھ گئی**  - اِن الفاظ کا اضافہ بھی کیا جا سکتا ہے ’’یہ دانش ور آدمی اپنے مطالعے کی بنیاد پر سمجھ گئے۔‘‘
+  * **اُس گھر **  - اَب وہ جانور باندھنے کی جگہ پر نہیں تھے جہاں مسیح پیدا ہوا تھا بلکہ اَب وہ ایک گھر میں رہ رہے تھے۔
 **[[:ur:obs:notes:frames:23-08|<<]] | [[:en:obs:notes:23|Up]] | [[:en:obs:notes:frames:23-10|>>]]**
