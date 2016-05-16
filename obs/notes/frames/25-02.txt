@@ -14,8 +14,6 @@
 
 ===== Translation Notes: =====
 
-  * **turn these rocks into bread** - This may also be translated as, "make these rocks become bread" or, "supernaturally change these rocks into bread."
-  * **bread** - This could be translated as, "food" for languages where bread is not a common food. In the Jews' culture, bread was the main food.
-
-
+  * **اِن پتھروں کو روٹیوں میں بدل دیں**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’اِن پتھروں کو روٹیاں بنا دے‘‘ یا ’’مافوق الفطرت طریقے سے اِن پتھروں کو روٹیوں میں تبدیل کر دے۔‘‘
+  * **روٹی**  - یعنی ’’خوراک‘‘۔ یہودیوں کے کلچر میں ’’روٹی‘‘ اُن کی بنیادی خوراک تھی۔
 **[[:ur:obs:notes:frames:25-01|<<]] | [[:en:obs:notes:25|Up]] | [[:en:obs:notes:frames:25-03|>>]]**
