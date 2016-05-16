@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **bread** - Make sure that you use the same word to translate "bread" here as you did in **[[:ur:obs:notes:frames:25-02|[25-02]]]**.
-  * **but they need every word that God speaks!** - Another way to translate this would be, "Rather, people need to listen to and obey everything God says" or, "Rather, people have real life by believing and obeying what God says."
-
-
+  * **bread**  - Make sure that you use the same word to translate "bread" here as you did in **[[:ur:obs:notes:frames:25-02|[25-02]]]**.
+  * **اُنہیں ہر اُس لفظ کی ضرورت ہے جو خدا بولتا ہے!**  - دیگر الفاظ میں اِس کا یوں ترجمہ ہو سکتا ہے ’’بلکہ لوگوں کو خدا کا ہر لفظ سننے اور اُس کی اِطاعت کرنے کی ضرورت ہے‘‘ یا ’’بلکہ لوگوں کو حقیقی زندگی خدا کی باتوں پر ایمان لانے اور اُس کی اِطاعت کرنے سے ملتی ہے‘‘۔
 **[[:ur:obs:notes:frames:25-02|<<]] | [[:en:obs:notes:25|Up]] | [[:en:obs:notes:frames:25-04|>>]]**
