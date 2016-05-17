@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **tax collectors** - Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **محصول لینے والے**  - محصول لینے والوں کو بدترین گنہگار سمجھا جاتا تھا کیونکہ وہ لوگوں سے حکومت کے مقرر شدہ ٹیکس کی نسبت اکثر بہت زیادہ وصول کرتے تھے اور یوں لوگوں کو لوٹتے تھے۔
 **[[:ur:obs:notes:frames:34-10|<<]] | [[:en:obs:notes:35|Up]] | [[:en:obs:notes:frames:35-02|>>]]**
