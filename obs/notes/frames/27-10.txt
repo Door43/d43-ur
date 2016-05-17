@@ -11,10 +11,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **continue his journey** - This could be translated as, "continue traveling toward his destination."
-  * **in charge of** - That is, "who managed." It could be that this person also owned this lodging place.
-  * **Take care of him** - For some languages it may be preferable to say, "Please take care of him" in order for it to be clear that this was a polite request, not an order.
-  * **repay those expenses** - This could also be translated as, "repay you" or, "repay that money" or, "repay it."
-
-
+  * **اپنا سفر جاری رکھنا**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’اپنی منزل کی طرف بڑھتا رہا‘‘۔
+  * **سرائے کے مالک**  - یعنی ’’وہ شخص جو وہاں کا اِنتظام کرتا تھا‘‘۔ یہ بھی ہو سکتا ہے کہ وہ شخص اُس قیام گاہ کا مالک بھی ہو۔
+  * **اِس کا خیال رکھنا**  - اِس طرح کہنا زیادہ بہتر ہو سکتا ہے ’’مہربانی سے اِس کا خیال رکھیں‘‘ تاکہ یہ ظاہر کیا جائے کہ یہ ایک شائستہ درخواست تھی نہ کہ حکم دیا گیا تھا۔
+  * **وہ تمام اخراجات بھی ادا کر دوں گا**  - یعنی ’’تمہیں دوں گا‘‘ یا ’’وہ رقم دے دوں گا۔‘‘
 **[[:ur:obs:notes:frames:27-09|<<]] | [[:en:obs:notes:27|Up]] | [[:en:obs:notes:frames:27-11|>>]]**
