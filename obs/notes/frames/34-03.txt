@@ -11,10 +11,8 @@
 
 ===== Translation Notes: =====
 
-  * **story** - See how you translated this term in **[[:ur:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it "ground-up grain."
-  * **it spreads throughout the dough** - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
-
-
+  * **کہانی**  - جناب یسوع المسیح اِن کہانیوں یا تمثیلوں کے ذریعے خدا کی بادشاہت کے متعلق سچائیاں سکھاتے تھے۔ یہ واضح نہیں کہ یہ واقعات حقیقت میں وقوع پذیر ہوئے یا نہیں۔.
+  * **خمیر**  - اِس کا ترجمہ ’’ملاوٹ، آمیزش‘‘ بھی کیا جا سکتا ہے یا ’’خمیر کا کچھ حصہ‘‘۔ یہ آٹے کو اُٹھانے یا پھلانے کے لئے استعمال کیا جاتا تھا۔ گندھے ہوئے آٹے کی ایک بڑی مقدار میں تھوڑا سا خمیر ملانے سے سارا آٹا پھول جاتا ہے۔
+  * **وہ سارے آٹے میں پھیل جاتا ہی**  - یعنی ’’تمام آٹے میں خمیر شامل ہو جاتا ہے‘‘ یا ’’سارا آٹا خمیر بن جاتا ہے‘‘۔
+  * **it spreads throughout the dough**  - That is, "every part of the dough has yeast in it" or, "the yeast grows throughout all the dough."
 **[[:ur:obs:notes:frames:34-02|<<]] | [[:en:obs:notes:34|Up]] | [[:en:obs:notes:frames:34-04|>>]]**
