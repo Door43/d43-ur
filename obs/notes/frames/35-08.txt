@@ -13,8 +13,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues the story.)
-  * **sinned against God and against you** - This could be translated as, "sinned against God, and I have also sinned against you."
-  * **I am not worthy** - It is also possible to say, "So I am not worthy" or, "As a result, I am not worthy."
-
-
+  * **خدا اور تیرے خلاف گناہ کیا ہے**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’خدا کے خلاف گناہ کیا ہے اور مَیں نے تیرے خلاف بھی گناہ کیا ہے۔‘‘
+  * **مَیں ... لائق نہیں ہوں**  - اِس طرح کہنا بھی ممکن ہے ’’اِس لئے مَیں لائق نہیں‘‘ یا ’’نتیجہ یہ کہ مَیں لائق نہیں۔‘‘
 **[[:ur:obs:notes:frames:35-07|<<]] | [[:en:obs:notes:35|Up]] | [[:en:obs:notes:frames:35-09|>>]]**
