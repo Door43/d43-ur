@@ -14,11 +14,9 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **my brother** - This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc.
-  * **sins against me** - This could also be translated as, "does something wrong against me."
-  * **Not seven times, but seventy times seven!** - This could be translated as, "You should not forgive only seven times, rather you should forgive seventy times seven times." Jesus was not talking about an exact number. He was saying that we should forgive people every time they sin against us.
-  * **By this, Jesus meant** - That is, "When Jesus said this he meant."
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **میرا بھائی**  - یہ اصطلاح بعض اوقات ایسے لوگوں کے لئے بھی استعمال ہوتی ہے جو حقیقی بہن بھائی نہیں ہوتے۔ یہ ایسے لوگوں کے لئے بھی استعمال ہوتی ہے جن کا مذہب، نسلی گروہ وغیرہ ایک جیسا ہوتا ہے۔
+  * **میرے خلاف گناہ کرے**  - یعنی ’’میرے خلاف کوئی غلط کام کرے‘‘۔
+  * **سات بار نہیں، بلکہ سات دفعہ کے ستّر بار تک!**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’تمہیں صرف سات بار ہی معاف نہیں کرنا چاہئے اِس کی بجائے تمہیں سات دفعہ کے ستّر بار تک معاف کرنا چاہئے‘‘ جناب یسوع المسیح ایک قطعی تعداد کی بات نہیں کر رہے تھے۔ بلکہ وہ کہہ رہے تھے کہ لوگ جب بھی تمہارے خلاف گناہ کریں تمہیں اُنہیں ہمیشہ معاف کرنا چاہئے۔
+  * **اِس بات سے جناب یسوع المسیح کی مراد تھی**  - یعنی ’’جب جناب یسوع المسیح نے یہ کہا تو اُن کا مطلب تھا۔‘‘
 **[[:ur:obs:notes:frames:28-10|<<]] | [[:en:obs:notes:29|Up]] | [[:en:obs:notes:frames:29-02|>>]]**
