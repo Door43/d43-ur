@@ -16,13 +16,11 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **rich young ruler** - This man was already a rich and powerful political official, even though he was still young.
-  * **came up to Jesus** - That is, "approached Jesus."
-  * **Good teacher** - That is, "righteous teacher." He was not saying that Jesus was simply a skilled teacher.
-  * **to have eternal life** - That is, "to receive eternal life" or, "to live with God forever." Also consider how "eternal life" was translated on **[[:ur:obs:notes:frames:27-01|[27-01]]]** and see the note about that there.
-  * **Why do you call me 'good'** - Jesus is not denying that he is God. Rather, he is asking if the ruler understands that Jesus is God.
-  * **There is only one who is good, and that is God** - Another way to say this would be, "The only one who is truly good is God" or, "God is the only one who is truly good."
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **امیر نوجوان حاکم**  - اگرچہ وہ شخص ابھی بھی جوان تھا لیکن وہ پہلے ہی ایک امیر اور ایک طاقتور سیاسی افسر بن چکا تھا۔
+  * **جناب یسوع المسیح کے پاس آیا یعنی **  - ’’جناب یسوع المسیح سے ملا‘‘۔
+  * **اچھے اُستاد**  - یعنی ’’راست باز اُستاد‘‘۔ وہ صرف یہ نہیں کہہ رہا تھا کہ جناب یسوع المسیح ایک قابل اُستاد ہیں۔
+  * **ہمیشہ کی زندگی پانے کے لئے**  - اِس کا مطلب ہے ’’ہمیشہ کی زندگی حاصل کرنا‘‘ یا ’’ہمیشہ کے لئے خدا کے پاس رہنا‘‘ (دیکھیں ۰۱-۲۷)۔
+  * **تُو مجھے ’’اچھا‘‘ کیوں کہتا ہے؟**  - جناب یسوع المسیح اِس بات سے اِنکار نہیں کر رہے تھے کہ وہ خدا ہیں بلکہ اُنہوں نے اِس لئے یہ سوال کیا کہ کیا وہ حاکم سمجھتا ہے کہ جناب یسوع المسیح خدا ہیں۔
+  * **اچھا تو صرف ایک ہی ہے اور وہ خدا ہے**  - دیگر الفاظ میں اِسے یوں کہا جائے گا ’’حقیقت میں صرف ایک ہی اچھا ہے اور وہ خدا ہے‘‘ یا ’’صرف خدا ہی وہ ہستی ہے جو حقیقی معنوں میں اچھی ہے۔‘‘
 **[[:ur:obs:notes:frames:27-11|<<]] | [[:en:obs:notes:28|Up]] | [[:en:obs:notes:frames:28-02|>>]]**
