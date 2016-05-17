@@ -11,9 +11,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **his own donkey** - Make sure it is clear that "his" refers to the Samaritan.
-  * **roadside inn** - That is, "a lodging place." This is a place where travelers could get food and stay overnight.
-  * **where he took care of him** - This could also be translated as, "where he continued to take care of him."
-
-
+  * **اپنے گدھے پر**  - ’’اپنے‘‘ سے مراد ہے ’’سامری شخص‘‘۔
+  * **سڑک کے کنارے ایک سرائے**  - اِس کا مطلب ہے ’’قیام گاہ‘‘۔ یہ ایسی جگہ تھی جہاں مسافروں کو کھانا مل سکتا تھا اور وہ رات کو وہاں ٹھہر سکتے تھے۔
+  * **جہاں اُس نے اُس کی دیکھ بھال کی۔ **  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’وہ جگہ جہاں وہ اُس کی دیکھ بھال کرتا رہا۔‘‘
 **[[:ur:obs:notes:frames:27-08|<<]] | [[:en:obs:notes:27|Up]] | [[:en:obs:notes:frames:27-10|>>]]**
