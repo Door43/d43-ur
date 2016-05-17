@@ -13,13 +13,11 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **thorny ground** - See how you translated this term in **[[:ur:obs:notes:frames:33-04|[33-04]]]**.
-  * **is a person** - See how you translated this comparison in **[[:ur:obs:notes:frames:33-06|[33-06]]]**.
-  * **cares** - That is, "concerns" or, "needs" or, "problems."
-  * **riches** - That is, "desire for wealth."
-  * **pleasures of life** - This could also be translated as, "doing things to get pleasure" or, "focusing on things that give pleasure."
-  * **choke out** - That is, "squelch" or, "destroy" or, "overcome." This phrase could also be translated as, "cause him to stop loving God."
-  * **does not produce fruit** - That is, "does not produce spiritual fruit" or "does not behave in a way that shows God's Spirit is working in him."
-
-
+  * **کانٹے دار زمین**  - یعنی ’’وہ زمین جو کانٹوں والی جھاڑیوں سے بھری ہو۔‘‘.
+  * **وہ شخص ہے**  - اِس موازنے کو اِس طرح بھی بیان کیا جا سکتا ہے ’’وہ ایک شخص کی طرح ہے‘‘ یا ’’ایک شخص کی نمائندگی کرتا ہے‘‘ یا ’’اِس سے مراد ایک شخص ہے۔‘‘.
+  * **فکروں**  - یعنی ’’ضروریات‘‘ یا ’’مشکلات‘‘۔
+  * **دولت**  - یعنی ’’دولت کی خواہش‘‘۔
+  * **زندگی کے لطف**  - یعنی ’’لطف حاصل کرنے کے لئے کام کرنا‘‘ یا ’’اُن کاموں اور چیزوں پر توجہ دینا جو خوشی/ لطف دیتی ہیں۔‘‘
+  * **گلا گھونٹ دیتے**  - یعنی ’’دبانا‘‘ یا ’’مار ڈالنا‘‘ یا ’’غالب آ جانا‘‘۔ اِس جملے کا ترجمہ یہ بھی ہو سکتا ہے ’’اُسے خدا سے محبت کرنے سے روک دیتے ہیں۔‘‘
+  * **پھل پیدا نہیں ہوتا**  - یعنی ’’روحانی پھل پیدا نہیں ہوتا‘‘ یا ’’اُس طرح کا برتاؤ نہیں کرتا جس سے ظاہر ہو کہ خدا کا روح اُس میں کام کر رہا ہے‘‘۔
 **[[:ur:obs:notes:frames:33-07|<<]] | [[:en:obs:notes:33|Up]] | [[:en:obs:notes:frames:33-09|>>]]**
