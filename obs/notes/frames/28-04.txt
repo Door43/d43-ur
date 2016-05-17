@@ -11,11 +11,9 @@
 
 ===== Translation Notes: =====
 
-  * **you** - If your language has different words for "you" depending on the number of people intended, use the singular form. Jesus was addressing this command to this one man.
-  * **perfect** - That is, "completely righteous."
-  * **everything you own** - That is, "all of your possessions."
-  * **treasure** - This could also be translated as, "riches" or, "great wealth."
-  * **in heaven** - This could also be translated as, "located in heaven when you arrive there." This treasure will exist "there and then," as opposed to the wealth that Jesus asked the young man to give up "here and now."
-
-
+  * **تُو**  - جناب یسوع المسیح نے یہ حکم ایک شخص کو مخاطب کرتے ہوئے دیا تھا۔
+  * **کامل**  - یعنی ’’مکمل طور پر راست باز‘‘ ۔
+  * **اپنا سب کچھ**  - یعنی ’’اپنی ساری ملکیت۔‘‘
+  * **خزا نہ**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’مال و متاع‘‘ یا ’’بہت زیادہ دولت‘‘۔
+  * **آسمان پر**  - اِس کا ترجمہ اِس طرح بھی ہو سکتا ہے ’’جب تم وہاں پہنچو گے تو آسمان پر موجود ہو گا‘‘۔ یہ خزانہ ’’وہاں اور تب‘‘ موجود ہو گا۔ یہ اُس دولت کے برعکس ہے جسے جناب یسوع المسیح نے اُس نوجوان حاکم کو ’’یہاں اور اَب‘‘ چھوڑنے کے لئے کہا۔
 **[[:ur:obs:notes:frames:28-03|<<]] | [[:en:obs:notes:28|Up]] | [[:en:obs:notes:frames:28-05|>>]]**
