@@ -12,8 +12,6 @@
 
 ===== Translation Notes: =====
 
-  * **With people this is impossible** - That is, "It is not possible for people to do this" or, "Mere humans cannot save themselves."
-  * **with God, all things are possible** - This could also be translated as, "God is able to do anything, even save a rich person" or, "God is able to do impossible things, so he can save even a rich person."
-
-
+  * **لوگوں کے لئے یہ ناممکن ہے**  - یعنی ’’لوگوں کے لئے ایسا کرنا ممکن نہیں‘‘ یا ’’اِنسان خود اپنے آپ کو نہیں بچا سکتے۔‘‘
+  * **خدا کے لئے سب کچھ ممکن ہے**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’خدا ہر کام کر سکتا ہے حتیٰ کہ ایک امیر اِنسان کو بھی بچا سکتا ہے‘‘ یا ’’خدا ناممکن کام کر سکتا ہے اِس لئے وہ ایک امیر شخص کو بھی نجات دے سکتا ہے۔‘‘
 **[[:ur:obs:notes:frames:28-07|<<]] | [[:en:obs:notes:28|Up]] | [[:en:obs:notes:frames:28-09|>>]]**
