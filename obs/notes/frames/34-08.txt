@@ -11,8 +11,6 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell of the religious leader's prayer.)
-  * **I fast** - The religious ruler believed that doing this would earn favor with God.
-  * **ten percent** - That is, "one-tenth."
-
-
+  * **مَیں ... روزہ رکھتا ہوں**  - مذہبی راہنما کا یقین تھا کہ ایسا کرنے سے وہ خدا کی حمایت حاصل کر لے گا۔
+  * **دس فیصد**  - یعنی ’’دسواں حصہ‘‘۔
 **[[:ur:obs:notes:frames:34-07|<<]] | [[:en:obs:notes:34|Up]] | [[:en:obs:notes:frames:34-09|>>]]**
