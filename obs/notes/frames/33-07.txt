@@ -13,10 +13,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to explain the story.)
-  * **rocky ground** - See how you translated this term in **[[:ur:obs:notes:frames:33-03|[33-03]]]**.
-  * **is a person** - See how you translated this comparison in **[[:ur:obs:notes:frames:33-06|[33-06]]]**.
-  * **accepts it with joy** - That is, "believes it joyfully" or, "joyfully agrees that it is true."
-  * **falls away** - That is, "no longer follows God or obeys him" or, "stops following or obeying God."
-
-
+  * **پتھریلی زمین**  - یعنی ’’وہ زمین جو پتھروں سے بھری تھی‘‘۔.
+  * **وہ شخص ہے**  - اِس موازنے کو اِس طرح بھی بیان کیا جا سکتا ہے ’’وہ ایک شخص کی طرح ہے‘‘ یا ’’ایک شخص کی نمائندگی کرتا ہے‘‘۔.
+  * **اُسے خوشی سے قبول کرتا ہی**  - یعنی ’’خوشی سے ایمان لاتا ہے‘‘ یا ’’خوشی سے متفق ہوتا ہے کہ یہ سچ ہے‘‘۔
+  * **رَدّ کر دیتا ہے**  - یعنی ’’خدا کی پیروی کرنا یا اُس کی تابع فرمانی کرنا جاری نہیں رکھتا‘‘ یا ’’خدا کی پیروی کرنا یا تابع فرمانی کرنا چھوڑ دیتا ہے‘‘۔
 **[[:ur:obs:notes:frames:33-06|<<]] | [[:en:obs:notes:33|Up]] | [[:en:obs:notes:frames:33-08|>>]]**
