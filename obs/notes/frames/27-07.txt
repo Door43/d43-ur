@@ -13,9 +13,7 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **came down the road** - That is, "was traveling down that same road."
-  * **Levites were a tribe of Jews** - That is, "Levites were from the Israelite tribe of Levi" or, "Levites were from the Israelite clan of Levi."
-  * **ignored** - That is, "did not help."
-
-
+  * **سڑک پر چلتا ہوا آیا**  - یعنی ’’اُسی سڑک پر سفر کر رہا تھا‘‘۔
+  * **لاوی یہودیوں کا ایک قبیلہ تھا**  - یعنی ’’لاوی اِسرائیلیوں کے قبیلے لاوی کے افراد تھے۔‘‘
+  * **نظر انداز کرتے ہوئے**  - یعنی ’’مدد نہ کی‘‘۔
 **[[:ur:obs:notes:frames:27-06|<<]] | [[:en:obs:notes:27|Up]] | [[:en:obs:notes:frames:27-08|>>]]**
