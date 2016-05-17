@@ -15,9 +15,7 @@ Then **Jesus** told a **story** to some people who **trusted in their own good d
 
 ===== Translation Notes: =====
 
-  * **story** - See how you translated this term in **[[:ur:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, "believed that their good deeds made them righteous" or, "were proud of how perfectly they kept God's law" or, "believed that their good deeds caused God to be completely pleased with them."
-  * **despised other people** - That is, "considered other people to be inferior to them" or, "looked down on other people."
-
-
+  * **کہانی**  - جناب یسوع المسیح اِن کہانیوں یا تمثیلوں کے ذریعے خدا کی بادشاہت کے متعلق سچائیاں سکھاتے تھے۔ یہ واضح نہیں کہ یہ واقعات حقیقت میں وقوع پذیر ہوئے یا نہیں۔.
+  * **اپنے اعمالِ صالحہ پر اعتماد**  - یعنی ’’وہ ایمان رکھتے ہیں کہ اُن کے اچھے اعمال اُنہیں راست باز بناتے ہیں‘‘ یا ’’وہ فخر کرتے ہیں کہ وہ کامل طور پر خدا کے احکام مانتے ہیں‘‘ یا ’’اُن کا ایمان ہے کہ اُن کے اچھے اعمال کی وجہ سے خدا اُن سے مکمل طور پر خوش ہے۔‘‘
+  * **دوسرے لوگوں کو حقیر سمجھتی**  - یعنی ’’دوسرے لوگوں کو اپنے سے کم تر سمجھتے ہیں‘‘ یا ’’دوسرے لوگوں کو حقارت کی نگاہ سے دیکھتے ہیں۔‘‘
 **[[:ur:obs:notes:frames:34-05|<<]] | [[:en:obs:notes:34|Up]] | [[:en:obs:notes:frames:34-07|>>]]**
