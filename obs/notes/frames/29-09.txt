@@ -12,12 +12,10 @@
 
 ===== Translation Notes: =====
 
-  * **Then Jesus said** - Some languages may add, "to his disciples."
-  * **This** - "This" refers back to the way the king punished the unforgiving servant in **[[:ur:obs:notes:frames:29-08|[29-08]]]**.
-  * **my heavenly Father** - That is, "my Father in heaven." Jesus is expressing his unique, personal relationship to God the Father.
-  * **your brother** - See how you translated this in **[[:ur:obs:notes:frames:29-01|[29-01]]]**.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
+  * **پھر جناب یسوع المسیح نے کہا**  - اِن الفاظ کا اضافہ بھی ہو سکتا ہے ’’اپنے شاگردوں سے‘‘۔
+  * **یہی**  - اِس سے مراد بادشاہ کی وہ سزا ہے جو اُس نے اپنے نوکر کو دی جس نے اپنے ساتھی کو معاف نہیں کیا تھا (دیکھیں ۰۸-۲۹)۔.
+  * **میرا آسمانی باپ**  - یعنی ’’میرا باپ جو آسمان پر ہے۔‘‘ جناب یسوع المسیح خدا باپ کے ساتھ اپنا منفرد اور شخصی تعلق ظاہر کر رہے ہیں۔
+  * **اپنے بھائی**  - یہ اصطلاح بعض اوقات ایسے لوگوں کے لئے بھی استعمال ہوتی ہے جو حقیقی بھائی بہن نہیں ہوتے۔ یہ ایسے لوگوں کے لئے بھی استعمال ہوتی ہے جن کا مذہب، نسلی گروہ وغیرہ ایک جیسا ہوتا ہے۔.
+  * **اپنے دل سی**  - یعنی ’’خلوص کے ساتھ‘‘ یا ’’حقیقی طور پر‘‘ یا ’’اصلی طور پر‘‘ یا ’’ایمان داری سے۔‘‘
   * //A Bible story from//  - These references may be slightly different in some Bible translations.
-
-
 **[[:ur:obs:notes:frames:29-08|<<]] | [[:en:obs:notes:29|Up]] | [[:en:obs:notes:frames:30-01|>>]]**
