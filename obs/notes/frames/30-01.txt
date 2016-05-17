@@ -14,7 +14,5 @@
 
 ===== Translation Notes: =====
 
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
-
-
+  * **پُرسکون مقام**  - اِس سے مراد ایسی جگہ ہے جہاں کم لوگ ہوں تاکہ وہ کچھ وقت آپس میں گزار سکیں۔
 **[[:ur:obs:notes:frames:29-09|<<]] | [[:en:obs:notes:30|Up]] | [[:en:obs:notes:frames:30-02|>>]]**
