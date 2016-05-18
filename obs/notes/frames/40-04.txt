@@ -16,13 +16,11 @@
 
 ===== Translation Notes: =====
 
-  * **two robbers** - This could also be translated as, "two bandits." This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, "You should fear God!"
-  * **We are guilty but this man is innocent** - This could be translated as, "You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." "We" here includes both robbers, but does not include Jesus.
-  * **this man** - This phrase refers to Jesus.
-  * **Please remember me** - That is, "Please accept me" or, "Please welcome me" or, "Please allow me to be with you." "Remember" here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom** - That is, "when you establish your kingdom" or, "when you are ruling as king."
-  * **Paradise** - This is another name for "heaven."
-
-
+  * **دو ڈاکو**  - اِن سے مراد ایسے مجرم ہیں جو طاقت کا استعمال یا تشدد کر کے چیزیں چراتے ہیں۔
+  * **کیا تجھے خدا کا خوف نہیں**  - یا ’’تمہیں خدا سے ڈرنا چاہئے!‘‘ ڈاکو کو اِس سوال کا جواب نہیں دینا تھا۔ کچھ زبانوں میں بات کو زیادہ پُرزور بنانے کے لئے یہ طریقہ استعمال ہوتا ہے۔
+  * **ہم تو مجرم ہیں لیکن یہ شخص تو بے قصور ہے۔**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’ مَیں اور تم بُرے کام کر چکے ہیں اور موت کے مستحق ہیں۔ لیکن اِس شخص (جناب یسوع المسیح) نے کوئی غلط کام نہیں کیا اور یہ موت کا حق دار نہیں‘‘۔ یہاں ’’ہم ‘‘ سے مراد دونوں ڈاکو ہیں اِن میں جناب یسوع المسیح شامل نہیں۔
+  * **یہ شخص**  - یعنی جناب یسوع المسیح
+  * **براہِ مہربانی مجھے ... یاد رکھنا**  - یعنی ’’مہربانی سے مجھے قبول کریں‘‘ یا ’’مہربانی سے مجھے خوش آمدید کہیں‘‘ یا ’’مہربانی سے مجھے اپنے ساتھ رہنے کی اِجازت دیں۔‘‘ ’’یاد رکھنا‘‘ کا یہاں یہ مطلب نہیں کہ کسی کو بھول جانے کے بعد یاد کرنا۔ اِس کا ترجمہ اِس طرح کریں جس سے ظاہر ہو کہ وہ حلیمی سے درخواست کر رہا تھا۔
+  * **اپنی بادشاہی میں**  - یعنی ’’جب تُو اپنی بادشاہی قائم کرے‘‘ یا ’’جب تُو بادشاہ بن کر حکومت کرنے لگے۔‘‘
+  * **جنت**  - یہ آسمان کا ایک دوسرا نام ہے۔
 **[[:ur:obs:notes:frames:40-03|<<]] | [[:en:obs:notes:40|Up]] | [[:en:obs:notes:frames:40-05|>>]]**
