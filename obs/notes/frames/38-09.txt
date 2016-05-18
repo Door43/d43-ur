@@ -14,10 +14,8 @@
 
 ===== Translation Notes: =====
 
-  * **abandon you** - Check to see how you translated this in **[[:ur:obs:notes:frames:38-08|[38-08]]]**.
-  * **to have all of you** - That is, "to completely control you" or, "to get you to serve him completely." The word "you" is plural in this phrase. All of the words "you" and "your" that follow are singular.
-  * **that your faith will not fail** - That is, "that you will not stop believing in me."
-  * **before the rooster crows** - Roosters normally crow at the first light of the new day. If that is not clear, it may be helpful to say, "Before the rooster crows at dawn tomorrow" or, "before the rooster crows tomorrow morning."
-
-
-**[[:ur:obs:notes:frames:38-08|<<]] | [[:en:obs:notes:38|Up]] | [[:en:obs:notes:frames:38-10|>>]]**
+  * **آپ کو چھوڑ دیں**  - یعنی ’’آپ کو اکیلا چھوڑ کر چلے جائیں‘‘ یا ’’فرار ہو جائیں‘‘۔.
+  * **تمہیں قبضے میں لینا/b> - یعنی ’’تمہیں مکمل طور پر قابو میں لینا‘‘۔ ’’تمہیں‘‘ کا لفظ جمع کی صورت میں ہے لیکن بعد میں استعمال ہونے والے الفاظ ’’تمہارے‘‘ اور ’’تمہارا‘‘ واحد کی صورت میں ہیں۔**
+  * ****تمہارا ایمان نہ ڈگمگائے**  - یعنی ’’تم مجھ پر ایمان رکھنا نہ چھوڑ دینا۔‘‘ **
+  * ****مرغ کے بانگ دینے سے پہلے**  - مرغ عام طور پر صبح سویرے بانگ دیتا ہے۔ اگر یہ واضح نہ ہو تو اِس طرح سے کہا جا سکتا ہے ’’اِس سے پہلے کہ کل صبح سویرے مرغ بانگ دے‘‘ یا ’’کل صبح مرغ کے بانگ دینے سے پہلے۔‘‘**
+****[[:ur:obs:notes:frames:38-08|<<]] | [[:en:obs:notes:38|Up]] | [[:en:obs:notes:frames:38-10|>>]]** **
