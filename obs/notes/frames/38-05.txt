@@ -14,12 +14,10 @@ Then **Jesus** picked up a cup and said, “**Drink this**. **It is my blood of 
 
 ===== Translation Notes: =====
 
-  * **a cup** - That is, "a cup of wine" or, "a cup full of a drink made from grapes."
-  * **Drink this** - That is, "Drink what is in this cup" or, "Drink from this cup." The drink in the cup was made from grapes so that it had a deep red color.
-  * **blood of the New Covenant** - This could be translated as, "blood that makes the New Covenant possible" or, "blood that is the basis for the New Covenant."
-  * **is poured out** - This could be translated as, "will run out of my body" or, "I will bleed out."
-  * **for the forgiveness of sins** - That is, "so that God can completely forgive people for all of their sins."
-  * **remember me** - That is, "celebrate me" or, "commemorate me." It could also be translated as, "especially focus on me" or, "remind you of me."
-
-
+  * **ایک پیالہ**  - یعنی ’’انگور کے شیرے کا پیالہ‘‘ یا ’’انگور کے جوس کا بھرا ہوا پیالہ‘‘۔
+  * **اِسے پیؤ**  - یعنی ’’جو اِس پیالے میں ہے وہ پیؤ‘‘ یا ’’اِس پیالے میں سے پیؤ‘‘۔ اِس پیالے میں جو شیرہ تھا وہ انگور سے بنا تھا۔ اِس لئے اُس کا رنگ گہرا سرخ تھا۔
+  * **نئے عہد کا خون**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’خون جو نئے عہدکو ممکن بناتا ہے‘‘ یا ’’خون جو نئے عہد کی بنیاد ہے‘‘۔
+  * **بہایا جاتا ہے**  - یعنی ’’میرے جسم سے بہے گا‘‘ یا ’’ مَیں اپنا خون بہاؤں گا۔‘‘
+  * **گناہوں کی معافی کے لئے**  - یعنی ’’تاکہ خدا لوگوں کے تمام گناہ مکمل طور پر معاف کر سکے‘‘۔
+  * **مجھے یاد کیا کرو**  - یعنی ’’میری یاد مناؤ‘‘ یا ’’سنجیدگی سے مجھے یاد کرو‘‘ یا ’’خاص طور پر مجھ پر دھیان لگاؤ‘‘ یا ’’اپنے آپ کو میری یاد دلاؤ۔‘‘
 **[[:ur:obs:notes:frames:38-04|<<]] | [[:en:obs:notes:38|Up]] | [[:en:obs:notes:frames:38-06|>>]]**
