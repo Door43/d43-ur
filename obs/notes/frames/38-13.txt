@@ -13,7 +13,5 @@
 
 ===== Translation Notes: =====
 
-  * **After each time of prayer** - That is, "Every time Jesus prayed that prayer." This refers to the three times he prayed, as mentioned in **[[:ur:obs:notes:frames:38-12|[38-12]]]**.
-
-
+  * **ہر دفعہ دعا کرنے کے بعد**  - یعنی ’’ہر دفعہ جناب یسوع المسیح نے وہ دعا کی‘‘۔ اِس سے مراد وہ تین دفعہ کی دعا ہے جس کا ذکر (۱۲-۳۸) میں ہوا ہے۔.
 **[[:ur:obs:notes:frames:38-12|<<]] | [[:en:obs:notes:38|Up]] | [[:en:obs:notes:frames:38-14|>>]]**
