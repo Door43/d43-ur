@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **guarded the robes of the men who killed Stephen** - See **[[:ur:obs:notes:frames:45-06|[45-06]]]**.
-  * **from house to house** - That is, "into many houses."
-  * **Damascus** - Damascus is now the capital of the country of Syria. During Saul's time, it was a city belonging to the Roman Empire. Most of the people there were not Jewish, but there were some Jews and also some Christians living there.
-
-
+  * **ستفنس کو ہلاک کرنے والے آدمیوں کے کپڑوں کی رکھوالی**  - یعنی ’’اُن کے کپڑوں کی نگرانی‘‘۔ غالباً وہ یہ خیال رکھ رہا تھا کہ کوئی کپڑے چرا نہ لے یا وہ خراب نہ ہو جائیں (دیکھیں ۰۶-۴۵).
+  * **ہر اِک گھر**  - یعنی ’’بہت سارے گھروں میں‘‘۔
+  * **دمشق**  - دمشق اَب شام کے ملک کا دارا لحکومت ہے۔ ساؤل کے زمانے میں یہ شہر روم کی سلطنت میں شامل تھا۔ وہاں کے زیادہ تر لوگ یہودی نہیں تھے۔ لیکن وہاں کچھ یہودی اور کچھ مسیحی بھی رہتے تھے۔
 **[[:ur:obs:notes:frames:45-13|<<]] | [[:en:obs:notes:46|Up]] | [[:en:obs:notes:frames:46-02|>>]]**
