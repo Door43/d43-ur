@@ -16,9 +16,7 @@
 
 ===== Translation Notes: =====
 
-  * **must be fulfilled** - This can be translated as, "must happen."
-  * **opened their minds so that they could understand** - This could also be translated as, "caused them to be able to understand" or, "made them able to comprehend."
-  * **on the third day** - That is, "after three days" or, "three days later."
-
-
+  * **پوری ہونا لازم ہے**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’وقوع پذیر ہونا ضروری تھا‘‘۔
+  * **اُن کے ذہنوں کو کھولا تاکہ ... سمجھ سکیں**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’اُنہیں سمجھنے کے قابل بنایا۔‘‘
+  * **تیسرے دن**  - یعنی ’’تین دن کے بعد‘‘۔
 **[[:ur:obs:notes:frames:42-06|<<]] | [[:en:obs:notes:42|Up]] | [[:en:obs:notes:frames:42-08|>>]]**
