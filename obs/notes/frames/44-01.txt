@@ -13,8 +13,6 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, "a lame man." This refers to a man who did not have full use of his legs, and could not stand or walk.
-
-
+  * **One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **ایک اپاہج شخص**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’ایک لنگڑا آدمی‘‘۔ اِس سے مراد ایک ایسا شخص ہے جو اپنی ٹانگوں کو ٹھیک طور پر استعمال نہیں کر سکتا اور کھڑا نہیں ہو سکتا یا چل نہیں سکتا۔
 **[[:ur:obs:notes:frames:43-13|<<]] | [[:en:obs:notes:44|Up]] | [[:en:obs:notes:frames:44-02|>>]]**
