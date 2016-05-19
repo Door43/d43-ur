@@ -19,10 +19,8 @@
 
 ===== Translation Notes: =====
 
-  * **healed** - That is, "well" or, "whole" or, "strong."
-  * **rejected him** - That is, "refused to accept him" or, "refused to believe in Jesus" or, "refused to believe that Jesus is the Savior."
-  * **but there is no other way to be saved except through the power of Jesus** - This could also be translated as, "but the only way to be saved is through the power of Jesus" or, "but only Jesus can save us, by his power."
-  * **to be saved** - This can also be translated as, "to be saved from our sins" or, "that we can be saved from our sins."
-
-
+  * **شفا دی**  - یعنی ’’ٹھیک کر دیا‘‘ یا ’’صحت مند بنا دیا‘‘۔
+  * **اُنہیں مسترد کر دیا**  - یعنی ’’اُنہیں قبول کرنے سے اِنکار کر دیا‘‘ یا ’’جناب یسوع المسیح پر ایمان لانے سے اِنکار کر دیا‘‘ یا ’’یہ ماننے سے اِنکار کر دیا کہ جناب یسوع المسیح نجات دہندہ ہیں۔‘‘
+  * **لیکن جناب یسوع المسیح کی طاقت کے سوا نجات پانے کے لئے کوئی دوسرا راستہ نہیں ہے۔**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’لیکن نجات صرف جناب یسوع المسیح کی طاقت سے ہی ملتی ہے‘‘ یا ’’لیکن صرف جناب یسوع المسیح ہی اپنی طاقت سے ہمیں نجات دے سکتے ہیں۔‘‘
+  * **نجات پانے کے لئے**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’اپنے گناہوں سے نجات پانا‘‘ یا ’’ہم اپنے گناہوں سے نجات پا سکتے ہیں۔‘‘
 **[[:ur:obs:notes:frames:44-07|<<]] | [[:en:obs:notes:44|Up]] | [[:en:obs:notes:frames:44-09|>>]]**
