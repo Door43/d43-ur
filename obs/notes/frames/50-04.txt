@@ -16,12 +16,10 @@
 
 ===== Translation Notes: =====
 
-  * **not greater than** - That is, "not more important than" or, in this case, "not treated better than."
-  * **because of me** - That is, "because you obey me" or, "because you teach people about me" or, "because you belong to me."
-  * **in this world** - This could also be translated as, "in this lifetime."
-  * **remain faithful to me** - That is, "Keep obeying me."
-  * **to the end** - That is, "to the end of your life."
-  * **will save you** - This refers to spiritual salvation rather than physical deliverance from harm. It has already been stated that many believers will be killed or tortured.
-
-
+  * **بڑھ کر نہیں ہو سکتا**  - یعنی ’’زیادہ اہم نہیں ہو سکتا‘‘ یا ’’بہتر سلوک نہیں ہو سکتا‘‘۔
+  * **میری وجہ سے**  - یعنی ’’میری تابع فرمانی کرنے کی وجہ سے‘‘ یا ’’کیونکہ تم لوگوں کو میرے متعلق سکھاتے ہو‘‘ یا ’’کیونکہ تم میرے ہو‘‘۔
+  * **اِس دُنیا میں**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’اِس زندگی میں۔‘‘
+  * **میرے ساتھ وفاداری نباہو**  - یعنی ’’میری تابع فرمانی کرتے رہو‘‘۔
+  * **آخر تک**  - یعنی ’’اپنی زندگی کے آخری دن تک‘‘۔
+  * **تمہیں بچائے گا**  - اِس سے مراد روحانی نجات ہے۔ یہ جسمانی طور پر کسی نقصان سے بچنا نہیں۔ یہ پہلے ہی بیان ہو چکا ہے کہ بہت سارے ایمان داروں کو قتل کیا جائے گا یا اذیت دی جائے گی۔
 **[[:ur:obs:notes:frames:50-03|<<]] | [[:en:obs:notes:50|Up]] | [[:en:obs:notes:frames:50-05|>>]]**
