@@ -16,8 +16,6 @@
 
 ===== Translation Notes: =====
 
-  * **her masters** - In this case, this could also be translated as, "her owners."
-  * **as a fortuneteller** - That is, "as someone who told people what would happen to them in the future."
-
-
+  * **اپنے مالک**  - یہاں اِس کا ترجمہ ’’اپنے آقا‘‘ بھی ہو سکتا ہے۔
+  * **ایک نجومی کے طور پر**  - یعنی ’’کوئی ایسا شخص جو لوگوں کو اُن کے مستقبل کے متعلق بتائے‘‘۔
 **[[:ur:obs:notes:frames:47-02|<<]] | [[:en:obs:notes:47|Up]] | [[:en:obs:notes:frames:47-04|>>]]**
