@@ -15,7 +15,5 @@
 
 ===== Translation Notes: =====
 
-  * **is separated from God** - This can also be translated as, "cannot live with God" or, "cannot be near God" or, "cannot have a relationship with God."
-
-
+  * **خدا سے جدا ہے**  - اِس کا ترجمہ یہ بھی ہو سکتا ہے ’’خدا کے ساتھ نہیں رہ سکتا‘‘ یا ’’خدا کے قریب نہیں آ سکتا‘‘ یا ’’خدا کے ساتھ تعلق نہیں رکھ سکتا۔‘‘
 **[[:ur:obs:notes:frames:49-07|<<]] | [[:en:obs:notes:49|Up]] | [[:en:obs:notes:frames:49-09|>>]]**
