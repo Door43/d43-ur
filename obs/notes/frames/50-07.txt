@@ -14,10 +14,8 @@
 ===== Translation Notes: =====
 
   * (Jesus continues to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
-  * **until the harvest** - That is, "until the time when the wheat is ready to harvest" or, "until the wheat has grown enough to be harvested."
-  * **the wheat** - That is, "the harvested wheat grains."
-  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a "storehouse."
-
-
+  * **تم کچھ گندم بھی اُکھاڑ ڈالو گے**  - یعنی ’’حادثاتی طور پر تم سے گندم کے کچھ پودے بھی اُکھڑ جائیں گے۔‘‘ گندم اور بوٹیوں کے پودوں میں فرق کرنا اور گندم کے پودوں کے بغیر بوٹیاں اُکھاڑنا بہت مشکل کام ہے۔
+  * **فصل کی کٹائی تک**  - یعنی ’’اُس وقت تک جب فصل کٹائی کے لئے تیار ہو جائے‘‘ یا ’’اُس وقت تک جب گندم کے پودے کٹائی کے لئے تیار ہو جائیں۔‘‘
+  * **میری گندم**  - یعنی ’’کٹی ہوئی گندم‘‘۔
+  * **گودام**  - اِس سے مراد وہ عمارت ہے جہاں گندم کے دانے حفاظت سے رکھے جاتے ہیں۔ اِسے ’’ذخیرہ خانہ‘‘ بھی کہا جا سکتا ہے۔
 **[[:ur:obs:notes:frames:50-06|<<]] | [[:en:obs:notes:50|Up]] | [[:en:obs:notes:frames:50-08|>>]]**
