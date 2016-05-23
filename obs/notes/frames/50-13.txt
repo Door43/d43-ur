@@ -15,8 +15,6 @@
 
 ===== Translation Notes: =====
 
-  * **crown** - This crown represents our reward for believing in Jesus and serving him in this life.
-  * **perfect** - That is, "complete" or, "total."
-
-
+  * **تاج**  - یہ تاج اُس اجر کی نمائندگی کرتا ہے جو جناب یسوع المسیح پر ایمان لانے اور زندگی بھر اُس کی خدمت کرنے کے صلے میں ملے گا۔
+  * **perfect**  - That is, "complete" or, "total."
 **[[:ur:obs:notes:frames:50-12|<<]] | [[:en:obs:notes:50|Up]] | [[:en:obs:notes:frames:50-14|>>]]**
